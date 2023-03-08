@@ -142,7 +142,7 @@ Rendered markdown text:
 
 Note that you start with the citation to the work you directly used as a source, then work back towards the original author of the text.
 
-## 5.1.2: Crediting a Document That Does Not Use Adorn
+## 3.1.2: Crediting a Document That Does Not Use Adorn
 
 A credit to a non Adorn complicit source looks like:
 
@@ -156,7 +156,7 @@ Rendered markdown text:
 ><a name="title-of-source-work">Title of Source Work</a>
 >- Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
 
-## 5.2: Licenses
+## 3.2: Licenses
 
 All text that you are required to include by the licenses of the text you have copied into your document is included in the Licenses section.  Using the following format to include this text:
 
@@ -172,10 +172,10 @@ Rendered markdown text:
 >- Required Text 1
 >- Required Text 2
 
-## 5.3: Acknowledgements  
+## 3.3: Acknowledgements  
 
 Sometimes you want to acknowledge someone's influence on your work, do that in the Acknowledgements section. Format it however you like.
 
-## 5.4: Including a License for Your Document
+## 4: Including a License for Your Document
 
 At the end of your file you should include a License for your own document.
