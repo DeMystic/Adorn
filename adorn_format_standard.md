@@ -2,6 +2,7 @@
 
 TODO: Find an irrevocable attribution CC license to use as the default.  Copyleft or not?
 TODO: Add a way to credit adorn in complicit documents. add it here and in the quick reference. 
+TODO: Add a License to this doc itself and make folks include a disclaimer in works that use adorn. Something like: "Text that uses adorn is not condoned by adorn. text that claims to use adorn is not guaranteed to be fully complicit with adorn by the makers of adorn"
 
 This document is the full specification for the Adorn Standard. 
 
