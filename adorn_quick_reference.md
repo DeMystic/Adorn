@@ -149,7 +149,7 @@ A credit to a non Adorn complicit source looks like:
 Raw markdown text:
 
     <a name="title-of-source-work">Title of Source Work</a>
-    - Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
+    - Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
 Rendered markdown text:
 
