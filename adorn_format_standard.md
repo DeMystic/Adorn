@@ -16,15 +16,13 @@ Adorn is essentially just a standard way to call out which blocks of text curren
 We call these places where text can be swapped "Slots" and we call the different possible versions of the text "Modules."
 
 You denote that a part of your document is actually a slot by adding a simple comment to your game in the Adorn format.
-This comment generally gives: the name of the slot, the name of the module currently in the slot, and where the current module came from. (see below for specifics)
+This comment generally gives the name of the slot and where the current module in the slot came from.
 
 The goal of Adorn is to support and encourage sharing of modules as much as possible so it also includes standard practices for attribution.
 This includes standards for:
-- Giving credit to the author of a module in the point of use document.
-- Including licenses for used modules from other authors at the end of your document as needed
-
-To support this Adorn provides a standard format for authors of a module or game to include a license or a desired attribution text with their work.
-This format allows the author to indicate how they want to be attributed and indicate if a license needs to be carried through to the final text. (see below for specifics)
+- Giving credit to the author of a module at the point of use.
+- Including the relevent license text for the used modules.
+- Giving authors a standard place in the document to include their own license.
 
 ## 1: Documents with Slots
 
@@ -45,12 +43,12 @@ Game files are the markdown file in which you write the text of your game.  This
 
 ## 2.2: Module Files
 
-Module files are also markdown files.  Module files contain a list of related generally interchangeable modules, each in their own slot.  Similar to game files, module files are essentially just normal markdown files with a few Adorn specific annotations and attributions.  They contain all the same pieces as a game file (e.g. a [Credits](#51-credits) section and a [Licenses](#52-licenses) section) but instead of containing a game, they just contain a serries of slots each containing a module. See style_guide.md and sample_modules.md for more details. 
+Module files are also markdown files.  Module files contain a list of related (generally interchangeable) modules, each in their own slot.  Similar to game files, module files are essentially just normal markdown files with a few Adorn specific annotations and attributions.  Module files contain all the same pieces as a game file (e.g. a [Credits](#51-credits) section and a [Licenses](#52-licenses) section) but instead of containing a game, they just contain a serries of slots each containing a module. See style_guide.md and sample_modules.md for more details. 
 
 ## 3: Making a Slot
 
 Each slot should fall under its own heading in your game text. (For including smaller pieces of text from other works see the [Non-Modular Borrowed Text](#4-non-modular-borrowed-text) section)
-Slots can contain any text including sub headings.
+Slots can contain any text, including sub headings.
 You can denote any heading as a slot by adding an opening slot comment directly below the heading.  Also add a closing slot comment at the end of the slot.
 Each slot should have a name that is unique when compared to other slots in the same document. (slot names do not have to be the same as the the name of the heading they fall under)
 The slot's heading should always be followed by a link to the credits section at the end of the game file (see the [Attribution](#5-attribution) section for more details)
@@ -72,7 +70,7 @@ Use the name of the work as the hyperlink text in the odd case that there is no 
 
 ## 3.1.1: Slots Containing Text from Other Slots
 
-Use this format if your source is a slot in another document or a subsection of a slot in another document.  Make sure the the source you are copying from is either the original source of the text, or has modified the text from the original source (see the slot comments bow for how to tell the difference).  If the source text you found is copied and not modified, use the Credits section of the source document find the source it cites used and cite that source instead. (See [Credits](#51-credits) for more details)
+Use this format if your source is a slot in another document or a subsection of a slot in another document.  Make sure the the source you are copying from is either the original source of the text, or has modified the text from the original source (see the slot comments below for how to tell the difference).  If the source text you found is copied and not modified, use the Credits section of the source document to find the source it cites used and cite that source instead. (See [Credits](#51-credits) for more details)
 
 If the text in your slot is a copy of the entire text from a slot in a source document use this comment. Still use this comment if you have changed the formatting, but left the text the same. 
 
@@ -96,7 +94,7 @@ Closing slot comment to be placed after your slot:
 
 ## 3.1.2: Slots Containing Purely Original Text
 
-A slot that does not derive its text from another source can also be defined.  This can be useful if you are making a module file or if you want to use the content from a game file to be easily referenced by other game file.  In this case the following comments are used.
+A slot that does not derive its text from another source can also be defined.  This can be useful if you are making a module file or if you want the content from a game file to be easily referenced by other game file.  In this case the following comments are used.
 
 Opening slot comment to be placed under the heading that defines your slot:
 
@@ -153,7 +151,7 @@ Use the name of the work as the hyperlink text in the odd case that there is no 
 
 ## 5: Attribution
 
-All document that use Adorn need to have a Credits and a Licenses section.  In the Credits section, give credit to 
+All document that use Adorn need to have a Credits and a Licenses section.
 
 ## 5.1: Credits
 
@@ -179,9 +177,9 @@ Rendered markdown text:
 
 If a piece of information can not be found, the field may be left blank if leaving it blank does not violate the terms of the license.  Note that the link to the license should be a link to the the text of license section of your document.  The license section contains any text that the original license requires you to include. (See [Licenses](#52-licenses) for more details)
 
-Also note that credits are defined as markdown anchors so that they can be linked to at the point of use in your document. See the [Slot Comments](#31-slot-comments) and [Non-Modular Borrowed Text](#4-non-modular-borrowed-text) sections for more details on formatting these links at the point of use.
+Also note that credits are prefaced by anchors so that they can be linked to at the point of use in your document. See the [Slot Comments](#31-slot-comments) and [Non-Modular Borrowed Text](#4-non-modular-borrowed-text) sections for more details on formatting these links at the point of use.
 
-If the text you include is modified originally from a different original source, you need to credit that original source as well. In fact, you need to cite all modifying works between your work and the original text.  Luckily, Adorn makes this easy in that you can often just copy the citation in the work you directly quite and modify it slightly.  To keep citations as streamlined as possible, please make sure the work you directly quite is a modified slot and is not simply a copy. If it i a copy, cite the source of the copy instead (If they follow this format, the source should be easy to find in the copying document's Credits section!)
+If the text you include is a modified version of some text from a third source, you need to credit that original source as well. In fact, you need to cite all modifying works between your work and the original text.  Luckily, Adorn makes this easy in that you can often just copy the citation in the work you directly cite and modify it slightly.  To keep citations as streamlined as possible, please make sure the slot you directly cite is a modified slot and is not simply a copy. If it is a copy, cite the source of the copy instead (If they follow this format, the source should be easy to find in the document's Credits section!)
 
 Raw markdown text:
 
@@ -221,7 +219,7 @@ If a piece of information can not be found, the field may be left blank if leavi
 
 ## 5.2: Licenses
 
-All text that you are required to include by the licenses of the text you have copied into your document go in this section.  Each license that requires you to include text in your dcument has its own section here.  Start each section with an anchor containing the license name and follow it with the text that the license requires you to include.  Often this text includes the text of the original license or a link to it.  Use the following format to do this.
+All text that you are required to include by the licenses of the text you have copied into your document goes in this section.  Each license that requires you to include text in your document has its own section here.  Start each section with an anchor containing the license name and follow it with the text that the license requires you to include.  Often this text includes the text of the original license or a link to it.  Use the following format to do this.
 
 Raw markdown text:
 
@@ -249,15 +247,14 @@ Sometimes you want to acknowledge someone's influence on your work because:
 - They supported you in some way
 - Any other reason.
 
-This is the place todo it!  Adorn prescribes no format for how to do this, but encourages you to do it liberally and to feel free to link to this section (or to any piece of this section) in your text if you think it's appropriate.
+The Acknowledgements section is the place todo it!  Adorn prescribes no format for how to do this, but encourages you to do it liberally and to feel free to link to this section (or to any piece of this section) in your text if you think it's appropriate.
 
 ## 5.4: Including a License for Your Document
 
 At the end of your file you should include a License for your own document.
 
-The default license is XXX, It implies YYY (free use with attribution, irrevocable) we suggest an irrevocable license so that authors don't revoke licenses and invalidate a ton of documents all at once. Citing documents that use this license is easy and only requires ZZZ. For this paragraph, I maybe need some kind of "this is not legal advice" disclaimer, and/or "this is not a substitute for the license" disclaimer. talk to a lawyer? is this legal advice? if so, can I even give it?
-
-Documents that use Adorn (or otherwise) do not have to use this license.  In all cases, read and understand the license before you copy text. 
+The default license is XXX, It implies YYY (free use with attribution, irrevocable) we suggest an irrevocable license so that authors don't revoke licenses and invalidate a ton of documents all at once. Citing documents that use this license is easy and only requires ZZZ. 
+NOTE: For this paragraph, I maybe need some kind of "this is not legal advice" disclaimer, and/or "this is not a substitute for the license" disclaimer. talk to a lawyer? is this legal advice? if so, can I even give it?
 
 ## 6: Hosting on GitHub
 
