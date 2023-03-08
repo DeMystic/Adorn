@@ -118,7 +118,7 @@ Closing slot comment to be placed after your slot:
 
     <!---/Slot_Name: "name of this slot"-->
 
-Alternatively, Use the following format if the text in your slot is modified from a slot in a source document.  Leave the field after URL bank if not applicable.
+Alternatively, Use the following format if the text in your slot is modified from the original text in the source document.  Leave the field after URL blank if not applicable.
 
 Opening slot comment to be placed under the heading that defines your slot:
 
