@@ -59,9 +59,9 @@ See sample_game.md and sample_modules.md for examples of slot comments in use.
 
 There are a few different ways to annotate a slot using slot comments.  These are based on where you got the text in the slot from and if you modified it.
 
-In all slot comments you may leave any field that you can not find a reference for empty.
+In all slot comments you may leave any field that you can not find the data for empty.
 
-General note about referencing: Even if the source you use is a text modified from some third source, in your slot comment you always reference the source that you directly copied/modified from.  The original author and all modifying authors will be linked to in the credits section. 
+Even if the source you use is a text modified from some third source, in your slot comment you always reference the source that you directly copied/modified from.  The original author and all modifying authors will be linked to in the credits section. 
 
 Always follow a slot comment with an embedded link to the Credits section of your document using the following format:
 
