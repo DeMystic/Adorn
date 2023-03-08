@@ -157,6 +157,10 @@ All document that use Adorn need to have a Credits and a Licenses section.  In t
 
 All text included from other sources needs to be represented in the Credits section of your game file or module file.
 
+When crediting a work, if a required piece of information can not be found, the field may be left blank if leaving it blank does not violate the terms of the license that covers that work.
+
+Note that you only need to include a link to the License section in a credit when the credited work's license requires you to include some text in your document.
+
 ## 5.1.1: Crediting a Document That Uses Adorn
 
 A credit to an Adorn complicit document source document looks like:
