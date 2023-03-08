@@ -24,8 +24,6 @@ This includes standards for:
 To support this Adorn provides a standard format for authors of a module or game to include a license or a desired attribution text with their work.
 This format allows the author to indicate how they want to be attributed and indicate if a license needs to be carried through to the final text. (see below for specifics)
 
----
-
 ## 1: Documents with Slots
 
 In Adorn, slots denote places in a file where the current chunk of text may be easily swapped out for another.
@@ -35,21 +33,17 @@ Often the copied/modified text is a module (in other words, it lives in a slot) 
 Slots can also contain modules original to the current document that you want to be easily referenced by other documents.
 (see Making a Slot for more details)
 
----
-
 ## 2: Document Types
 
 Adorn concerns itself with two different kinds of documents.
 
-## 2.1: Game Files
+### 2.1: Game Files
 
 Game files are the markdown file in which you write the text of your game.  This file should appear almost the same as any other markdown file with the addition of a few Adorn specific annotations and attributions.  See style_guide.md and sample_game.md for more details. 
 
-## 2.2: Module Files
+### 2.2: Module Files
 
 Module files are also markdown files.  Module files contain a list of related generally interchangeable modules, each in their own slot.  Similar to game files, module files are essentially just normal markdown files with a few Adorn specific annotations and attributions.  They contain all the same pieces as a game file (e.g. a [Credits](#51-credits) section and a [Licenses](#52-licenses) section) but instead of containing a game, they just contain a serries of slots each containing a module. See style_guide.md and sample_modules.md for more details. 
-
----
 
 ## 3: Making a Slot
 
@@ -58,7 +52,7 @@ You can denote any heading as a slot by adding an opening slot comment directly 
 Each slot should have a name that is unique when compared to other slots in the same document. (slot names do not have to be the same as the the name of the heading they fall under)
 The slot's heading should always be followed by a link to the credits section at the end of the game file (see the [Attribution](#5-attribution) section for more details)
 
-## 3.1: Slot Comments
+### 3.1: Slot Comments
 
 See sample_game.md and sample_modules.md for examples of slot comments in use.
 
@@ -73,7 +67,7 @@ Always follow a slot comment with an embedded link to the Credits section of you
 Use the name of the work as the hyperlink text in the odd case that there is no author name.
 (See the [Attribution](#5-attribution) section for more details)
 
-## 3.1.1: Slots Containing Text from Other Slots
+#### 3.1.1: Slots Containing Text from Other Slots
 
 Use this format if your source is a slot in another document or a subsection of a slot in another document.  Make sure the the source you are copying from is either the original source of the text, or has modified the text from the original source (see the slot comments bow for how to tell the difference).  If the source text you found is copied and not modified, use the Credits section of the source document find the source it cites used and cite that source instead. (See [Credits](#51-credits) for more details)
 
@@ -97,7 +91,7 @@ Closing slot comment to be placed after your slot:
 
     <!---/Slot_Name: "name of this slot"-->
 
-## 3.1.2: Slots Containing Purely Original Text
+#### 3.1.2: Slots Containing Purely Original Text
 
 A slot that does not derive its text from another source can also be defined.  This can be useful if you are making a module file or if you want to use the content from a game file to be easily referenced by other game file.  In this case the following comments are used.
 
@@ -109,7 +103,7 @@ Closing slot comment to be placed after your slot:
 
     <!---/Slot_Name: "name_of_this_slot"-->
 
-## 3.1.3: Slots Containing Text from non-Slot Sources
+#### 3.1.3: Slots Containing Text from non-Slot Sources
 
 This format is useful if you want to use text from a source that does not use Adorn.  It also lets you include text from documents that do use Adorn when the the text you want to use is not annotated as a slot in the source document.
 
@@ -133,8 +127,6 @@ Closing slot comment to be placed after your slot:
 
     <!---/Slot_Name: "name of this slot"-->
 
----
-
 ## 4: Non-Modular Borrowed Text
 
 Sometimes you only use a few lines of text from another source and it does not make sense to turn that text into a slot with its own heading.  Adorn still supports this with a slightly different format than with slots.  
@@ -156,8 +148,6 @@ Follow this comment with a link to the credits section of your document of the f
 Use the name of the work as the hyperlink text in the odd case that there is no author name.
 (see the [Attribution](#5-attribution) section for more details)
 
----
-
 ## 5: Attribution
 
 All document that use Adorn need to have a Credits and a Licenses section.  In the Credits section, give credit to 
@@ -166,7 +156,7 @@ All document that use Adorn need to have a Credits and a Licenses section.  In t
 
 All text included from other sources needs to be represented in the Credits section of your game file or module file.
 
-## 5.1.1: Crediting a Document That Uses Adorn
+#### 5.1.1: Crediting a Document That Uses Adorn
 
 A credit to an Adorn complicit document source document looks like:
 
@@ -204,7 +194,7 @@ Rendered markdown text:
 
 Note that you start with the citation to the work you directly used as a source, then work bact towards the original author of the text.
 
-## 5.1.2: Crediting a Document That Does Not Use Adorn
+#### 5.1.2: Crediting a Document That Does Not Use Adorn
 
 Adorn gives a standardized way to credit work from non Adorn complicit sources as well.  However, if a non Adorn work is based on copied text from a third separate work, Adorn does not give a standardized way to credit that third work. In this case, please follow the terms of the license of the work you copied the text from and that third work.
 
@@ -222,7 +212,7 @@ Rendered markdown text:
 
 If a piece of information can not be found, the field may be left blank if leaving it blank does not violate the terms of the license.
 
-## 5.2: Licenses
+### 5.2: Licenses
 
 All text that you are required to include by the licenses of the text you have copied into your document go in this section.  Similarly to denoting a credit in the credits section, each license you must include text from has its own section here.  Start each section with an anchor containing the license name and follow it with the text that the license requires you to include.  Often this text is the text of the original license or a link to it.  Use the following format to do this.
 
@@ -246,7 +236,7 @@ Some licenses require you to include text in addition to the licenses text.  Tha
 
 Finally, this section also includes the license that you would like to share this work under.
 
-## 5.3: Acknowledgements  
+### 5.3: Acknowledgements  
 
 Sometimes you want to acknowledge someone's influence on your work because:
 - You used some of their ideas (but none of their text)
@@ -256,15 +246,13 @@ Sometimes you want to acknowledge someone's influence on your work because:
 -  
 This is the place todo it!  Adorn prescribes no format for how to do this, but encourages you to do it liberally and to feel free to link to this section (or to any piece of this section) in your text if you think it's appropriate.
 
-## 5.4: Including a License for Your Document
+### 5.4: Including a License for Your Document
 
 At the end of your file you should include a License for your own document.
 
 The default license is XXX, It implies YYY (free use with attribution, irrevocable) we suggest an irrevocable license so that authors don't revoke licenses and invalidate a ton of documents all at once. Citing documents that use this license is easy and only requires ZZZ. For this paragraph, I maybe need some kind of "this is not legal advice" disclaimer, and/or "this is not a substitute for the license" disclaimer. talk to a lawyer? is this legal advice? if so, can I even give it?
 
 Documents that use Adorn (or otherwise) do not have to use this license.  In all cases, read and understand the license before you copy text. 
-
----
 
 ## 6: Hosting on GitHub
 
