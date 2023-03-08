@@ -233,13 +233,11 @@ Rendered markdown text:
 >- Required Text 1
 >- Required Text 2
 
-If it is unclear if the author intends for you to use their text the way you want to, reach out to them and ask even if their license seems to permit the use ou intend.
+If it is unclear if the author intends for you to use their text the way you want to, reach out to them and ask even if their license seems to permit the use you intend.
 
 Some licenses require you to include some version of themselves in your work when you copy text from the source document. Those licenses go in this section.
 
 Some licenses require you to include text in addition to the licenses text.  That text also goes in this section. If the license requires you to add specific text to other parts of your document outside of what adorn requires, pease do so.
-
-Finally, this section also includes the license that you would like to share this work under.
 
 ## 5.3: Acknowledgements  
 
