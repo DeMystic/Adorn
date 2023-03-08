@@ -115,30 +115,30 @@ A credit to an authors original text from an Adorn complicit source document loo
 Raw markdown text:
 
     <a name="title-of-source-work">Title of Source Work\</a>
-    - Title: **Title of Source Work**, By: **Author Name**. [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
+    - Title: **Title of Source Work**, By: **Author Name**. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
 Rendered markdown text:
 
 ><a name="title-of-source-work">Title of Source Work</a>
->- Title: **Title of Source Work**, By: **Author Name**. [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
+>- Title: **Title of Source Work**, By: **Author Name**. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
 A credit to a modified text from an Adorn complicit source document looks like:
 
 Raw markdown text:
 
     <a name="title-work-you-directly-quoted">Title of Work You Directly Quoted</a>
-    - Title: **Title of Work You Directly Quoted**, Modified By: **Author of Work You Directly Quoted**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
-        - Title: **Title of Second Modifying Work**, Modified By: **Author of Second Modifying Work**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
-        - Title: **Title of First Modifying Work**, Modified By: **Author of First Modifying Work**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
-    - Title: **Title of Original Work**, By: **Author of Original Work**, Link: URL of document. [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
+    - Title: **Title of Work You Directly Quoted**, Modified By: **Author of Work You Directly Quoted**, [Link to Source](URL_of_Source) | [License Name](#license-name)
+        - Title: **Title of Second Modifying Work**, Modified By: **Author of Second Modifying Work**, [Link to Source](URL_of_Source) | [License Name](#license-name)
+        - Title: **Title of First Modifying Work**, Modified By: **Author of First Modifying Work**, [Link to Source](URL_of_Source) | [License Name](#license-name)
+    - Title: **Title of Original Work**, By: **Author of Original Work**, Link: URL of document. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
 Rendered markdown text:
 
 ><a name="title-work-you-directly-quoted">Title of Work You Directly Quoted</a>
->- Title: **Title of Work You Directly Quoted**, Modified By: **Author of Work You Directly Quoted**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
->    - Title: **Title of Second Modifying Work**, Modified By: **Author of Second Modifying Work**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
->    - Title: **Title of First Modifying Work**, Modified By: **Author of First Modifying Work**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
->- Title: **Title of Original Work**, By: **Author of Original Work**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
+>- Title: **Title of Work You Directly Quoted**, Modified By: **Author of Work You Directly Quoted**, [Link to Source](URL_of_Source) | [License Name](#license-name)
+>    - Title: **Title of Second Modifying Work**, Modified By: **Author of Second Modifying Work**, [Link to Source](URL_of_Source) | [License Name](#license-name)
+>    - Title: **Title of First Modifying Work**, Modified By: **Author of First Modifying Work**, [Link to Source](URL_of_Source) | [License Name](#license-name)
+>- Title: **Title of Original Work**, By: **Author of Original Work**, [Link to Source](URL_of_Source) | [License Name](#license-name)
 
 Note that you start with the citation to the work you directly used as a source, then work back towards the original author of the text.
 
