@@ -1,6 +1,6 @@
 # Adorn Quick Reference
 
-This document is not the full specification of Adorn.  It is a quick reference for how Adorn expects features to be implemented in Adorn complicit documents
+This document is not the full specification of Adorn.  It is a quick reference for how Adorn expects features to be implemented in Adorn complicit markdown documents.
 
 For a the full standard, see the Adorn Format Standard document.
 
