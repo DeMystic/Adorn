@@ -1,6 +1,7 @@
 # Adorn Standard
 
 TODO: Find an irrevocable attribution CC license to use as the default.  Copyleft or not?
+TODO: Add a way to credit adorn in complicit documents. add it here and in the quick reference. 
 
 This document is the full specification for the Adorn Standard. 
 
