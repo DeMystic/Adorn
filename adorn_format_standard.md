@@ -243,7 +243,7 @@ Sometimes you want to acknowledge someone's influence on your work because:
 - They inspired you with their own work
 - They supported you in some way
 - Any other reason.
--  
+
 This is the place todo it!  Adorn prescribes no format for how to do this, but encourages you to do it liberally and to feel free to link to this section (or to any piece of this section) in your text if you think it's appropriate.
 
 ## 5.4: Including a License for Your Document
