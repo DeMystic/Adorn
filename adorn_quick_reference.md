@@ -10,7 +10,7 @@ A slot should always fall under its own heading in your document.  A slot can co
 
 You open a slot with an opening slot comment under its heading and close it with a closing slot comment at the end of the slot.
 
-Leave any field that you can not find a reference for empty.
+In a slot comment leave any field that you can not find a reference for empty.
 
 Follow each opening comment of this type with a link to the credits section of your document of the following format:
 
@@ -56,7 +56,9 @@ Closing slot comment to be placed after your slot:
 
 If a slot contains text from a source that does not use Adorn use this pair of opening and closing comments.  
 
-Also use this pair of opening and closing comments to include text from documents that do use Adorn when the the text you want to use is not annotated as a slot in the source document.
+Also use this type of opening and closing comments to include text from documents that do use Adorn when the the text you want to use is not annotated as a slot in the source document.
+
+Use the following format if the text in your slot is directly coppied from the text in the source document.
 
 Opening slot comment to be placed under the heading that defines your slot:
 
@@ -122,7 +124,7 @@ Rendered markdown text:
 ><a name="title-of-source-work">Title of Source Work</a>
 >- Title: **Title of Source Work**, By: **Author Name**. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
-A credit to a modified text from an Adorn complicit source document looks like:
+A credit to a text that is a modified version of text from some other Adorn complicit source document looks like:
 
 Raw markdown text:
 
@@ -158,7 +160,7 @@ Rendered markdown text:
 
 ## 3.2: Licenses
 
-All text that you are required to include by the licenses of the text you have copied into your document is included in the Licenses section.  Using the following format to include this text:
+All text that you are required to include by the licenses of the text you have copied into your document is included in the Licenses section.  Use the following format to include this text:
 
 Raw markdown text:
 
