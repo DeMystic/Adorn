@@ -43,7 +43,7 @@ Game files are the markdown file in which you write the text of your game.  This
 
 ## 2.2: Module Files
 
-Module files are also markdown files.  Module files contain a list of related (generally interchangeable) modules, each in their own slot.  Similar to game files, module files are essentially just normal markdown files with a few Adorn specific annotations and attributions.  Module files contain all the same pieces as a game file (e.g. a [Credits](#51-credits) section and a [Licenses](#52-licenses) section) but instead of containing a game, they just contain a serries of slots each containing a module. See style_guide.md and sample_modules.md for more details. 
+Module files are also markdown files.  Module files contain a list of related (generally interchangeable) modules, each in their own slot.  Similar to game files, module files are essentially just normal markdown files with a few Adorn specific annotations and attributions.  Module files contain all the same pieces as a game file as specified in this document(e.g. a [Credits](#51-credits) section and a [Licenses](#52-licenses) section) but instead of containing a game, they just contain a serries of slots each containing a module. See style_guide.md and sample_modules.md for more details. 
 
 ## 3: Making a Slot
 
