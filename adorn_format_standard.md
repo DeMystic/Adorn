@@ -219,7 +219,7 @@ If a piece of information can not be found, the field may be left blank if leavi
 
 ## 5.2: Licenses
 
-All text that you are required to include by the licenses of the text you have copied into your document go in this section.  Similarly to denoting a credit in the credits section, each license you must include text from has its own section here.  Start each section with an anchor containing the license name and follow it with the text that the license requires you to include.  Often this text is the text of the original license or a link to it.  Use the following format to do this.
+All text that you are required to include by the licenses of the text you have copied into your document go in this section.  Each license that requires you to include text in your dcument has its own section here.  Start each section with an anchor containing the license name and follow it with the text that the license requires you to include.  Often this text includes the text of the original license or a link to it.  Use the following format to do this.
 
 Raw markdown text:
 
