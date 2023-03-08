@@ -168,12 +168,12 @@ A credit to an Adorn complicit document source document looks like:
 Raw markdown text:
 
     <a name="title-of-source-work">Title of Source Work\</a>
-    - Title: **Title of Source Work**, By: **Author Name**. [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
+    - Title: **Title of Source Work**, By: **Author Name**. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
 Rendered markdown text:
 
 ><a name="title-of-source-work">Title of Source Work</a>
->- Title: **Title of Source Work**, By: **Author Name**. [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
+>- Title: **Title of Source Work**, By: **Author Name**. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
 If a piece of information can not be found, the field may be left blank if leaving it blank does not violate the terms of the license.  Note that the link to the license should be a link to the the text of license section of your document.  The license section contains any text that the original license requires you to include. (See [Licenses](#52-licenses) for more details)
 
@@ -184,18 +184,18 @@ If the text you include is modified originally from a different original source,
 Raw markdown text:
 
     <a name="title-work-you-directly-quoted">Title of Work You Directly Quoted</a>
-    - Title: **Title of Work You Directly Quoted**, Modified By: **Author of Work You Directly Quoted**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
-        - Title: **Title of Second Modifying Work**, Modified By: **Author of Second Modifying Work**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
-        - Title: **Title of First Modifying Work**, Modified By: **Author of First Modifying Work**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
-    - Title: **Title of Original Work**, By: **Author of Original Work**, Link: URL of document. [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
+    - Title: **Title of Work You Directly Quoted**, Modified By: **Author of Work You Directly Quoted**, [Link to Source](URL_of_Source) | [License Name](#license-name)
+        - Title: **Title of Second Modifying Work**, Modified By: **Author of Second Modifying Work**, [Link to Source](URL_of_Source) | [License Name](#license-name)
+        - Title: **Title of First Modifying Work**, Modified By: **Author of First Modifying Work**, [Link to Source](URL_of_Source) | [License Name](#license-name)
+    - Title: **Title of Original Work**, By: **Author of Original Work**, Link: URL of document. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
 Rendered markdown text:
 
 ><a name="title-work-you-directly-quoted">Title of Work You Directly Quoted</a>
->- Title: **Title of Work You Directly Quoted**, Modified By: **Author of Work You Directly Quoted**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
->    - Title: **Title of Second Modifying Work**, Modified By: **Author of Second Modifying Work**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
->    - Title: **Title of First Modifying Work**, Modified By: **Author of First Modifying Work**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
->- Title: **Title of Original Work**, By: **Author of Original Work**, [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
+>- Title: **Title of Work You Directly Quoted**, Modified By: **Author of Work You Directly Quoted**, [Link to Source](URL_of_Source) | [License Name](#license-name)
+>    - Title: **Title of Second Modifying Work**, Modified By: **Author of Second Modifying Work**, [Link to Source](URL_of_Source) | [License Name](#license-name)
+>    - Title: **Title of First Modifying Work**, Modified By: **Author of First Modifying Work**, [Link to Source](URL_of_Source) | [License Name](#license-name)
+>- Title: **Title of Original Work**, By: **Author of Original Work**, [Link to Source](URL_of_Source) | [License Name](#license-name)
 
 Note that you start with the citation to the work you directly used as a source, then work bact towards the original author of the text.
 
@@ -208,12 +208,12 @@ The format for citing a non Adorn source is below:
 Raw markdown text:
 
     <a name="title-of-source-work">Title of Source Work</a>
-    - Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
+    - Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
 Rendered markdown text:
 
 ><a name="title-of-source-work">Title of Source Work</a>
->- Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
+>- Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
 If a piece of information can not be found, the field may be left blank if leaving it blank does not violate the terms of the license.
 
