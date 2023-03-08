@@ -48,6 +48,7 @@ Module files are also markdown files.  Module files contain a list of related ge
 ## 3: Making a Slot
 
 Each slot should fall under its own heading in your game text. (For including smaller pieces of text from other works see the [Non-Modular Borrowed Text](#4-non-modular-borrowed-text) section)
+Slots can contain any text including sub headings.
 You can denote any heading as a slot by adding an opening slot comment directly below the heading.  Also add a closing slot comment at the end of the slot.
 Each slot should have a name that is unique when compared to other slots in the same document. (slot names do not have to be the same as the the name of the heading they fall under)
 The slot's heading should always be followed by a link to the credits section at the end of the game file (see the [Attribution](#5-attribution) section for more details)
