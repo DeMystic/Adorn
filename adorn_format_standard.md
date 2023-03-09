@@ -108,9 +108,7 @@ Closing slot comment to be placed after your slot:
 
 ## 3.1.3: Slots Containing Text from non-Slot Sources
 
-This format is useful if you want to use text from a source that does not use Adorn.  It also lets you include text from documents that do use Adorn when the the text you want to use is not annotated as a slot in the source document.
-
-Use the following format if the text in your slot is copied from a slot in a source document.  Leave the field after URL bank if not applicable.
+This format is used if you want to use text from a source that does not use Adorn.  It also lets you include text from documents that do use Adorn when the the text you want to use is not annotated as a slot in the source document.  Use the following pair of comments if the slot contains a direct copy of the source text. 
 
 Opening slot comment to be placed under the heading that defines your slot:
 
@@ -120,7 +118,7 @@ Closing slot comment to be placed after your slot:
 
     <!---/Slot_Name: "name of this slot"-->
 
-Alternatively, Use the following format if the text in your slot is modified from the original text in the source document.  Leave the field after URL blank if not applicable.
+Alternatively, Use the following format if the text in your slot is modified from the text in the source document.
 
 Opening slot comment to be placed under the heading that defines your slot:
 
@@ -134,17 +132,15 @@ Closing slot comment to be placed after your slot:
 
 Sometimes you only use a few lines of text from another source and it does not make sense to turn that text into a slot with its own heading.  Adorn still supports this with a slightly different format than with slots.  
 
-Place this comment at the end the paragraph that contains the copied text.
+Place this comment at the end the paragraph that contains strictly copied text from the source.
 
     <!---Copied_From, Source_Document: "Name of source document", Link: "URL of source if applicable"-->
 
-If you modified the source text or intermingled it with your own text use this comment:
+If you modified the source text or intermingled it with your own text use this comment at the end of the paragraph that contains the text:
 
     <!---Modified_From, Source_Document: "Name of source document", Link: "URL of source if applicable"-->
 
-Like with slot comments, leave the Link field empty if there is no appropriate way to link to the source material.
-
-Follow this comment with a link to the credits section of your document of the following format:
+Follow this comment with an embedded link to the credits section of your document of the following format:
 
     [(name of author)](#title-of-source-work)
 
@@ -177,11 +173,11 @@ Rendered markdown text:
 ><a name="title-of-source-work">Title of Source Work</a>
 >- Title: **Title of Source Work**, By: **Author Name**. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
-If a piece of information can not be found, the field may be left blank if leaving it blank does not violate the terms of the license.  Note that the link to the license should be a link to the the text of license section of your document.  The license section contains any text that the original license requires you to include. (See [Licenses](#52-licenses) for more details)
+Note that the link to the license should be a link to the the text of license section of your document.  The license section contains any text that the original license requires you to include. (See [Licenses](#52-licenses) for more details)
 
 Also note that credits are prefaced by anchors so that they can be linked to at the point of use in your document. See the [Slot Comments](#31-slot-comments) and [Non-Modular Borrowed Text](#4-non-modular-borrowed-text) sections for more details on formatting these links at the point of use.
 
-If the text you include is a modified version of some text from a third source, you need to credit that original source as well. In fact, you need to cite all modifying works between your work and the original text.  Luckily, Adorn makes this easy in that you can often just copy the citation in the work you directly cite and modify it slightly.  To keep citations as streamlined as possible, please make sure the slot you directly cite is a modified slot and is not simply a copy. If it is a copy, cite the source of the copy instead (If they follow this format, the source should be easy to find in the document's Credits section!)
+If the text you include is a modified version of some text from a third source, you need to credit that original source as well. In fact, you need to cite all modifying works between your work and the original text.  Do this even when the origial text does not use Adorn.  Luckily, Adorn makes this easy in that you can often just copy the citation in the work you directly cite and modify it slightly.  To keep citations as streamlined as possible, please make sure the slot you directly cite is a modified slot and is not simply a copy. If it is a copy, cite the source of the copy instead (If they follow the Adorn format well, the source should be easy to find in the document's Credits section!)
 
 Raw markdown text:
 
@@ -217,11 +213,9 @@ Rendered markdown text:
 ><a name="title-of-source-work">Title of Source Work</a>
 >- Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
-If a piece of information can not be found, the field may be left blank if leaving it blank does not violate the terms of the license.
-
 ## 5.2: Licenses
 
-All text that you are required to include by the licenses of the text you have copied into your document goes in this section.  Each license that requires you to include text in your document has its own section here.  Start each section with an anchor containing the license name and follow it with the text that the license requires you to include.  Often this text includes the text of the original license or a link to it.  Use the following format to do this.
+All text that you are required to include by the licenses of the works that you have copied or modified from goes in this section.  Each license that requires you to include text in your document has its own section here.  Start each section with an anchor containing the license name and follow it with the text that the license requires you to include.  Often this text includes the text of the original license or a link to it.  Use the following format to do this.
 
 Raw markdown text:
 
@@ -237,7 +231,7 @@ Rendered markdown text:
 
 If it is unclear if the author intends for you to use their text the way you want to, reach out to them and ask even if their license seems to permit the use you intend.
 
-Some licenses require you to include some version of themselves in your work when you copy text from the source document. Those licenses go in this section.
+Some licenses require you to include some version of themselves in your work. Those licenses go in this section.
 
 Some licenses require you to include text in addition to the licenses text.  That text also goes in this section. If the license requires you to add specific text to other parts of your document outside of what adorn requires, pease do so.
 
@@ -261,7 +255,7 @@ NOTE: For this paragraph, I maybe need some kind of "this is not legal advice" d
 ## 6: Hosting on GitHub
 
 Files that comply with Adorn are typically hosted on GitHub or another online git-based repository.
-GitHub (and other git-based repositories) automatically keep record or all older versions of your module files and game files which means that people who copy text from your modules can always cite the correct source material.
+GitHub (and other git-based repositories) automatically keep record or all older versions of your module files and game files which means that people who copy text from your modules can always cite the correct version of the source material.
 
 You can get very fancy when automating your workflow using git, but it's also easy enough to simply copy the text of your document or your document itself from your personal computer into your GitHub repository. In that case GitHub takes care of all the version control itself.
 
