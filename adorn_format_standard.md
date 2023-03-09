@@ -84,7 +84,7 @@ Closing slot comment to be placed after your slot:
 
     <!---/Slot_Name: "name of this slot"-->
     
-If the text in your slot is modified from a slot in a source document use this pair of opening and closing comments. Any non-formatting textual changes count as modifications. Including only a subsection of the source slot also counts as a modification.
+If the text in your slot is **modified** from text in a slot in a source document use the following pair of opening and closing comments instead of the above. Any non-formatting textual changes count as modifications. Including only a subsection of the source slot also counts as a modification.
 
 Opening slot comment to be placed under the heading that defines your slot:
 
