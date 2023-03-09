@@ -74,7 +74,7 @@ Use the name of the work as the hyperlink text in the odd case that there is no 
 
 Use this format if your source is a slot in another document or a subsection of a slot in another document.  Make sure the the source you are copying from is either the original source of the text, or has modified the text from the original source (see the slot comments below for how to tell the difference).  If the source text you found is copied and not modified, use the Credits section of the source document to find the source it cites used and cite that source instead. (See [Credits](#51-credits) for more details)
 
-If the text in your slot is a copy of the entire text from a slot in a source document use this comment. Still use this comment if you have changed the formatting, but left the text the same. 
+If the text in your slot is a copy of the entire text from a slot in a source document use the following pair of comments. Still use these comments if you have changed the formatting, but left the text the same. 
 
 Opening slot comment to be placed under the heading that defines your slot:
 
