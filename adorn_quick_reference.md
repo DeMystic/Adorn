@@ -6,11 +6,13 @@ For a the full standard, see the Adorn Format Standard document.
 
 ## 1: Slot Comments
 
-A slot should always fall under its own heading in your document.  A slot can contain sub headings. 
+A slot should always fall under its own heading in your document.  The module in a slot can be made up of any kind of text, including sub headings, tables, or even other slot comments. 
 
 You open a slot with an opening slot comment under its heading and close it with a closing slot comment at the end of the slot.
 
 In a slot comment leave any field that you can not find a reference for empty.
+
+Never reference a source that simply copied the text you want to use verbatim from a third source. Instead, reference the source that first produced the text in the form that you want to copy/modify.
 
 Follow each opening comment of this type with a link to the credits section of your document of the following format:
 
@@ -83,6 +85,8 @@ Closing slot comment to be placed after your slot:
 To copy text from a source that is too short or broken up to warrant a slot, use the following comments.
 
 Like with slot comments, leave the fields empty if there is no appropriate way to fill them.
+
+Like with slot comments, never reference a source that simply copied the text you want to use verbatim from a third source. Instead, reference the source that first produced the text in the form that you want to copy/modify.
 
 Place this comment at the end the paragraph that contains the copied text.
 
@@ -158,9 +162,20 @@ Rendered markdown text:
 ><a name="title-of-source-work">Title of Source Work</a>
 >- Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [Link to License: License Name](#license-name)
 
+## 3.1.3: Crediting Adorn
+
+At the end of your credits section put the following credit to the adorn standard:
+
+    Adorn
+    - This document uses the Adorn Standard for easy and transparent sharing of text.  To learn more, about Adorn see the [Adorn Standard](https://github.com/DeMystic/Adorn).  The text of the Adorn Standard is offered under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
 ## 3.2: Licenses
 
-All text that you are required to include by the licenses of the text you have copied into your document is included in the Licenses section.  Use the following format to include this text:
+All text that you are required to include by the licenses of the text you have copied/modified into your document is included in the Licenses section.
+
+When you use text from one source that is modified from some third source, always check if you need to be compliant with the license of that third source.  If so, include any text required to be compliant with the license of that third source in this section as well.
+
+Use the following format to include this text:
 
 Raw markdown text:
 
@@ -180,4 +195,16 @@ Sometimes you want to acknowledge someone's influence on your work, do that in t
 
 ## 4: Including a License for Your Document
 
-At the end of your file you should include a License for your own document.
+In this section we briefly discuss a few licenses.  This discussion is not intended as a full description of the licenses, nor is it intended as legal advice.
+
+At the end of your file you may include a License for your own document.
+
+The default Licenses for Adorn complicit documents are:
+- [The CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+- [The CC BY-SA 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
+See the full Adorn Format Standard or the links to the licenses above for more details about what these two licenses imply.
+
+You are not restricted to picking between the two Licenses mentioned above. See [the other CC licenses](https://creativecommons.org/licenses) for more examples.
+
+Choose carefully before publish/upload a work with a license attached.  Many licenses are irrevocable.
