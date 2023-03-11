@@ -262,7 +262,7 @@ In this section we briefly discuss a few licenses.  This discussion is not inten
 
 At the end of your file, you may include a license for your own document. This is what allows other authors to use and share the text within your document. The license also tells other authors exactly what they can/cant do with your work and how to credit you.
 
-The default licenses for Adorn complicit documents are:
+The default licenses for Adorn compliant documents are:
 - [The CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 - [The CC BY-SA 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
