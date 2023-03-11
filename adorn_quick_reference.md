@@ -1,6 +1,6 @@
 # Adorn Quick Reference
 
-This document is not the full specification of Adorn.  It is a quick reference for how Adorn expects features to be implemented in Adorn complicit markdown documents.
+This document is not the full specification of Adorn.  It is a quick reference for how Adorn expects features to be implemented in Adorn compliant markdown documents.
 
 For a the full standard, see the Adorn Format Standard document.
 
@@ -116,7 +116,7 @@ You only need to include a link to the License section in a credit when the cred
 
 ## 3.1.1: Crediting a Document That Uses Adorn
 
-A credit to an authors original text from an Adorn complicit source document looks like:
+A credit to an authors original text from an Adorn compliant source document looks like:
 
 Raw markdown text:
 
@@ -128,7 +128,7 @@ Rendered markdown text:
 ><a name="title-of-source-work">Title of Source Work</a>
 >- Title: **Title of Source Work**, By: **Author Name**. [Link to Source](URL_of_Source) | [License Name](#license-name)
 
-A credit to a text that is a modified version of text from some other Adorn complicit source document looks like:
+A credit to a text that is a modified version of text from some other Adorn compliant source document looks like:
 
 Raw markdown text:
 
@@ -150,7 +150,7 @@ Note that you start with the citation to the work you directly used as a source,
 
 ## 3.1.2: Crediting a Document That Does Not Use Adorn
 
-A credit to a non Adorn complicit source looks like:
+A credit to a non Adorn compliant source looks like:
 
 Raw markdown text:
 
@@ -199,7 +199,7 @@ In this section we briefly discuss a few licenses.  This discussion is not inten
 
 At the end of your file you may include a License for your own document.
 
-The default Licenses for Adorn complicit documents are:
+The default Licenses for Adorn compliant documents are:
 - [The CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 - [The CC BY-SA 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
