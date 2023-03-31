@@ -312,10 +312,10 @@ Its up to the GM to make and interpret the results in a way that is fun without 
 
 # Acknowledgements
 
-Into the odd
-Index card RPG
-Maze rats
+Into the Odd
+Index Card RPG
+Maze Rats
 Errant
-Shadow dark
+Shadowdark
 B/X DnD
 James
