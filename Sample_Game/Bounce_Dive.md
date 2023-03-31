@@ -166,9 +166,39 @@ Small items will often fit into a bag or case of 10 or 20.  These small containe
 You have a number of slots equal to five plus your strength.
 
 If you carry more than 5 + STR it is assumed that you are lugging things around in your arms. So, you will not be able to take any actions besides moving in combat, and your GM may give you a penalty on checks involving moving fast or gracefully.  You can carry up to an absolute max of 6 + 2 x STR slots worth of items.
-
 <!---/Slot_Name: "Slots"-->
-# Combat
+
+# Encountering Creatures
+
+Sometime you run into the denizens of the ruin.  They can be twisted creatures of nightmares, mundane animals, or strangely relatable humans.
+
+## Surprise
+<!---Slot_Name: "Surprise", Copied_From, Source_Slot: "Check_vs_Check_Surprise", Link: "XXX"-->
+
+When you enter a room with a creature in it or a creature enters the room that you are in, each member of both parties first roll an awareness check to see if one party surprises the other. The highest roll from each party is compared, and the party that rolled the highest gets to act once before the other party is aware.  
+
+The GM may grant bonuses or penalties to checks based on actions taken by either side to be: extra sneaky, extra noticeable, less weary, or extra weary.
+<!---/Slot_Name: "Surprise"-->
+
+## Reaction
+<!---Slot_Name: "Reaction_Rolls", Copied_From, Source_Slot: "DM_Dice_Hybrid_Reaction", Link: "XXX"-->
+
+Some creatures will always be hostile to you when you meet them, some creatures will be neutral towards you, and some may even be happy to see you. If the GM has not determined this beforehand, they may do so in the moment by rolling a d6:
+
+|d6|Outcome|
+|-|-|
+|1-4|Hostile|
+|5|Neutral|
+|6|Friendly|
+
+While some creatures will be totally fixed in their initial impression, the GM may allow you to make a charisma check to change the monster's initial reaction towards you.  the default target for this check is 16, but it may be adjusted by the GM based on the specific creature and the current circumstances.
+<!---/Slot_Name: "Reaction_Rolls"-->
+
+## Combat
+
+
+## Fleeing and Chasing
+
 
 # Time in the Ruin
 
@@ -282,13 +312,10 @@ Its up to the GM to make and interpret the results in a way that is fun without 
 
 # Acknowledgements
 
-Into the Odd
-Index Card RPG
-Maze Rats
+Into the odd
+Index card RPG
+Maze rats
 Errant
-Shadowdark
+Shadow dark
 B/X DnD
 James
-
-
-
