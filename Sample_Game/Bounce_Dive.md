@@ -154,7 +154,7 @@ The list of items below are what the prison store commonly stocks.  They may sto
 
 *These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
 
-<!---/Slot_Name: "Starting Equipment"-->
+<!---/Slot_Name: "Shop Equipment"-->
 
 # Inventory
 <!---Slot_Name: "Inventory", Copied_From, Source_Slot: "Slots", Link: "XXX"-->
@@ -166,7 +166,26 @@ Small items will often fit into a bag or case of 10 or 20.  These small containe
 You have a number of slots equal to five plus your strength.
 
 If you carry more than 5 + STR it is assumed that you are lugging things around in your arms. So, you will not be able to take any actions besides moving in combat, and your GM may give you a penalty on checks involving moving fast or gracefully.  You can carry up to an absolute max of 6 + 2 x STR slots worth of items.
-<!---/Slot_Name: "Slots"-->
+<!---/Slot_Name: "Inventory"-->
+
+# Distance
+<!---Slot_Name: "Distance", Copied_From, Source_Slot: "Close_Near_Far", Link: "XXX"-->
+
+In the ruins, distance is broken down into three relevant ranges:
+- Close (less than 2m* away)
+  - You can touch it
+  - You can hit it with a melee weapon
+- Near (less than 30m* away)
+  - It is a stone throw away
+  - You can hit it with a ranged weapon
+- Far: (greater than 30m* away)
+  - It is farther than a stone throw away
+  - You cant hit it with conventional weapons
+
+*a meter is just a yard, if you want to use freedom units
+
+In one combat turn, a player may move from one distance range to an adjacent one (e.g. Close to Near, not Close to Far).  Note that it may take longer to move from Far to Near depending on how far away the player is.  How to handle this is up to the GM, see Fleeing and Chasing below for some ideas.
+<!---/Slot_Name: "Distance"-->
 
 # Encountering Creatures
 
@@ -196,9 +215,44 @@ While some creatures will be totally fixed in their initial impression, the GM m
 
 ## Combat
 
+### Initiative
+<!---Slot_Name: "Initiative", Copied_From, Source_Slot: "Group_Initiative", Link: "XXX"-->
+When you enter combat with a creature or group of creatures in the ruin, the group that won the surprise roll gets the first turn.
+
+Combat is split into alternating turns between the group of players and the group of non-player creatures.  All members of a given group can take actions on their turn in whatever order they please.  One pair of turns (an enemy turn + a player turn) is sometimes called a round.
+<!---/Slot_Name: "Initiative"-->
+
+### Combat Actions
+<!---Slot_Name: "Combat", Copied_From, Source_Slot: "Damage_Dodge_Combat", Link: "XXX"-->
+
+On their turn a player or creature can move once and take one action.  This action can be making an attack or doing something else that would take a similar amount of time.
+
+Attacking:
+- The player or creature picks a target player or creature within range as their target and then rolls the damage die associated with their weapon.  The creature takes that much damage.
+
+Dodging:
+- After the damage die has been rolled, a creature or player may choose to dodge the incoming damage.  In this case, they forgo their next action (so, on their next turn they can not attack or take another action, but can still move) and subtract their Reflex from the incoming attack. A given creature or player can only do this once per round.
+
+Moving:
+- If a player is not within melee range of a target, they can not make melee attacks. The player may, however, move into melee range of the enemy they wish to attack and then make their attack. See the Distance section for more details.
+- If a player is within melee range of a hostile, they can not make range attacks.  The player may, however, move away from enemies at the beginning of their turn and then make a ranged attack.  See the Distance section for more details.
+<!---/Slot_Name: "Combat"-->
 
 ## Fleeing and Chasing
+<!---Slot_Name: "Fleeing", Copied_From, Source_Slot: "Check_vs_Check_Fleeing", Link: "XXX"-->
 
+This is one way to handle running from combat.  Knowing when to disengage is critical to surviving the ruin.
+
+If you want to flee combat, you must try to outrun your enemy.  Note that most creatures are highly territorial and wont chase you further than a few rooms.
+
+When fleeing or chasing, all members of the party fleeing and the party chasing roll Strength checks. If the party wishes to stay together, they all take the lowest value rolled, but individual members may take higher values if they want to separate from their allies.
+
+If the terrain is rough or tricky to navigate, the GM may have you use another check like Dexterity or Awareness instead of Strength.
+
+Very large or heavy enemies may get a penalty to chasing.  This is up to the DM.
+<!---/Slot_Name: "Fleeing"-->
+
+## Hiding
 
 # Time in the Ruin
 
@@ -207,6 +261,8 @@ While some creatures will be totally fixed in their initial impression, the GM m
 # Character Creation Cheat Sheet
 
 # Appendix
+
+## Mutations
 
 ## Mundane Items
 
