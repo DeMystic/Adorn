@@ -228,7 +228,7 @@ Combat is split into alternating turns between the group of players and the grou
 On their turn a player or creature can move once and take one action.  This action can be making an attack or doing something else that would take a similar amount of time.
 
 Attacking:
-- The player or creature picks a target player or creature within range as their target and then rolls the damage die associated with their weapon.  The creature takes that much damage.
+- The player or creature picks a target player or creature within range as their target and then rolls the damage die associated with their weapon.  The creature takes that much damage. If the attacked creature is armored, they may subtract their armor rating from the incoming damage.
 
 Dodging:
 - After the damage die has been rolled, a creature or player may choose to dodge the incoming damage.  In this case, they forgo their next action (so, on their next turn they can not attack or take another action, but can still move) and subtract their Reflex from the incoming attack. A given creature or player can only do this once per round.
@@ -264,6 +264,12 @@ Very large or heavy enemies may get a penalty to chasing.  This is up to the DM.
 <!---/Slot_Name: "Fleeing"-->
 
 ## Hiding
+<!---Slot_Name: "Hiding", Copied_From, Source_Slot: "Simple_Hiding", Link: "XXX"-->
+
+To hide you must first not have line of sight to the enemy you are hiding from and second you must have an appropriate hiding spot (e.g. a closet or a pile of crates).
+
+To hide, you roll an Awareness check (the GM may give you a bonus based on your hiding spot) when an enemy enters the same space as you, they also roll an Awareness check.  They may get a bonus if they are actively searching for you, or a penalty if they are not.  If they beat your check, they find you.  If they don't, they likely move on unless they have some specific reason to expect you there.  If they have reason to continue searching the space, they may make a few checks before continuing onwards.
+<!---/Slot_Name: "Hiding"-->
 
 # Time in the Ruin
 
