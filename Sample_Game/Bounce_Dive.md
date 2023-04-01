@@ -275,6 +275,94 @@ Very large or heavy enemies may get a penalty to chasing.  This is up to the DM.
 
 ## Mutations
 
+### Mild Mutations
+<!---Slot_Name: "Mild Mutations", Copied_From, Source_Slot: "Mild_Fantasy_Physical_Mutations", Link: "XXX"-->
+
+These mutations cause a neutral, slightly negative, or (rarely) slightly positive changes to the character.
+
+|d100|Mutation|
+|-|-|
+|1-2|One arm is now covered in rough scales|
+|3-4|Eyes are now painfully sensitive to light|
+|5-6|The skin has a strange metallic sheen, and it's constantly cold to the touch|
+|7-8|The body becomes extremely heavy|
+|9-6|All hair on the body falls out, replaced with thick fur|
+|11-12|Hands have been transformed into claws, making fine manipulation difficult|
+|13-14|The nose is now an elongated snout|
+|15-16|Teeth are now sharper than normal, but made of glass|
+|17-18|Fingers become longer and thinner, like spider legs|
+|19-20|Feet become webbed, and the toes fuse together|
+|21-22|The ears grow long and pointy, like those of a fox|
+|23-24|The tongue grows much larger, becoming forked at the end|
+|25-26|All hair turns white|
+|27-28|Joints of one limb lock up|
+|29-30|The eyes glow faintly when in darkness|
+|31-32|The skin develops a pattern of darker blotchy patches|
+|33-34|The hands and feet shrink in size|
+|35-36|Nails become 1 cm long and hard as metal, making fine manipulation difficult|
+|37-38|Top canine teeth lengthen and curve back, making it hard to talk|
+|39-40|The skin turns red and steams constantly|
+|41-42|The voice becomes noticeably deeper|
+|43-44|Whenever exposed to sunlight, the skin starts to blister|
+|45-46|The skin becomes translucent|
+|47-48|Your body becomes very flexible, able to dislocate and relocate joints at will|
+|49-50|You grow a 1m long prehensile tail|
+|51-52|The body is covered in tiny feathers|
+|53-54|The skin takes on a slight odd colored hue|
+|55-56|The head sprouts two large horns|
+|57-58|The skin hardens, making it resistant to blunt force trauma, but harder to move|
+|59-60|One arm becomes significantly shorter|
+|61-62|The entire face is now covered in short, bristled hair|
+|63-64|The skin becomes scaly and dry, like that of a lizard|
+|65-66|The body releases a musky odor|
+|67-68|Your heartbeat becomes as audible as a loud whisper|
+|69-70|The skin develops a series of intricate shifting patterns|
+|71-72|The lips become swollen and purple|
+|73-74|The skin produces a thin coating of slime|
+|75-76|Whenever the person speaks, their breath smells overwhelmingly like garlic|
+|77-78|The skin develops odd-shaped chitinous growths all over|
+|79-80|The skin becomes extremely sensitive, blistering after any kind of contact even with rough cloth|
+|81-82|When exposed to sunlight, the skin turns pitch black|
+|83-84|The body becomes completely hairless|
+|85-86|The fingers are replaced with tentacles|
+|87-88|The body becomes woody, plantlike, and very vulnerable to fire|
+|89-90|YOur body emits low buzzing noise whenever you move|
+|91-92|The eyes become completely white|
+|93-94|The skin becomes incredibly hot to the touch|
+|95-96|The skin becomes incredibly cold to the touch|
+|97-98|The fingers become incredibly short|
+|99-100|The skin becomes incredibly stretchy|
+<!---/Slot_Name: "Mild_Mutations"-->
+
+### Severe Mutations
+<!---Slot_Name: "Severe Mutations", Copied_From, Source_Slot: "Severe_Fantasy_Physical_Mutations", Link: "XXX"-->
+
+These mutations cause severely debilitating changes to the character.
+
+|d20|Mutation|
+|-|-|
+|1|One limb is now reduced to a shrived and painful stub|
+|2|The eyes are now stone and can not see|
+|3|The sense of balance is destroyed|
+|4|The body has become brittle and sickly, reducing health by half|
+|5|The tongue is now split into two distinct tongues, the voice is reduced to a gurgling moan|
+|6|The ears have been replaced with a pair of small tentacles, the character can not hear|
+|7|All limbs have grown together, creating an unnatural amalgamation of flesh|
+|8|The body has become horribly bloated, swollen beyond recognition, movement is almost impossible|
+|9|All of the face except for the ears is gone|
+|10|Both arms or both legs become fleshy boneless ropes|
+|11|gain narcolepsy and risks falling asleep every 10 min|
+|12|Slowly turn to stone and loses function of another limb every day|
+|13|Become an animated skeleton. Retain all their senses, but attributes are halved and rounded down|
+|14|The arms have grown longer than normal, ending in single spindly points|
+|15|The body has begun secreting an incredibly sticky slime that quickly hardens|
+|16|The body shrinks to 1/4th the normal size. Attributes are lose 3 points (they can be negative)|
+|17|The body has been covered in thorns. Take one damage every 5 min when exploring the ruin|
+|18|The skin secretes a slick slime, the character can not grip things properly anymore|
+|19|The body emits a shrill whistling sound at all times|
+|20|Become an ethereal shade of yourself. You can only weakly interact with the physical world|
+<!---/Slot_Name: "Severe_Mutations"-->
+
 ## Mundane Items
 
 Here are a few lists of items that the characters may find in the general store or in the ruin.
