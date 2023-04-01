@@ -156,6 +156,10 @@ The list of items below are what the prison store commonly stocks.  They may sto
 
 <!---/Slot_Name: "Shop Equipment"-->
 
+### Armor
+
+TODO: don't sell armor by default (or make it very expensive and heavy) but explain it here.
+
 # Inventory
 <!---Slot_Name: "Inventory", Copied_From, Source_Slot: "Slots", Link: "XXX"-->
 
