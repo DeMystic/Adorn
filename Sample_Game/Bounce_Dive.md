@@ -175,10 +175,10 @@ In the ruins, distance is broken down into three relevant ranges:
 - Close (less than 2m* away)
   - You can touch it
   - You can hit it with a melee weapon
-- Near (less than 30m* away)
+- Near (In the same room and within 30m*)
   - It is a stone throw away
   - You can hit it with a ranged weapon
-- Far: (greater than 30m* away)
+- Far: (more than one room away or greater than 30m* away)
   - It is farther than a stone throw away
   - You cant hit it with conventional weapons
 
@@ -239,13 +239,24 @@ Moving:
 <!---/Slot_Name: "Combat"-->
 
 ## Fleeing and Chasing
-<!---Slot_Name: "Fleeing", Copied_From, Source_Slot: "Check_vs_Check_Fleeing", Link: "XXX"-->
+<!---Slot_Name: "Fleeing", Copied_From, Source_Slot: "Close_Near_Far.Check_vs_Check_Fleeing", Link: "XXX"-->
 
 This is one way to handle running from combat.  Knowing when to disengage is critical to surviving the ruin.
 
 If you want to flee combat, you must try to outrun your enemy.  Note that most creatures are highly territorial and wont chase you further than a few rooms.
 
-When fleeing or chasing, all members of the party fleeing and the party chasing roll Strength checks. If the party wishes to stay together, they all take the lowest value rolled, but individual members may take higher values if they want to separate from their allies.
+When fleeing or chasing, all members of the party fleeing and the party chasing roll Chase Checks (Strength checks) to see how fast they can go. Each party takes the lowest value rolled by a member of that party as the check for that party.  The party with the highest Chase Check changes the distance between the two parties in their favor by one unit. So Close could become Near, or Near could become Far.  If the parties are already far apart, then the distance continues to change in 30m increments. 
+
+Attacks can be made by Fleeing or Chasing creatures if the attacker is in range after resolving the Chase Check. Attacking during a chase gives the attacker a -3 penalty to their next Chase Check.  The chasing creatures also take a -3 to their next Chase Check if they choose to dodge an incoming attack from the fleeing party. Members of the Fleeing party may dodge incoming attacks without incurring any penalty.
+
+The case ends when:
+- One party gives up
+- The fleeing party is cornered
+- The Fleeing party has broken line of sight and successfully hidden from the chasers
+  - By losing them in the twisting passages of the ruins
+  - By hiding (see the Hiding section)
+
+If individual members of a party in a chase decide to separate from their slower companions take higher values if they want to separate from their allies, the result can be very situation dependant. For example, does a fast enemy choose to chase down the slowest member of the main group of players, or do they skirt around them and try to catch the fastest? It's up to the DM to decide what to do in this case.
 
 If the terrain is rough or tricky to navigate, the GM may have you use another check like Dexterity or Awareness instead of Strength.
 
