@@ -415,7 +415,7 @@ These mutations cause a neutral, slightly negative, or (rarely) slightly positiv
 |83-84|The body becomes completely hairless|
 |85-86|The fingers are replaced with tentacles|
 |87-88|The body becomes woody, plantlike, and very vulnerable to fire|
-|89-90|YOur body emits low buzzing noise whenever you move|
+|89-90|Your body emits low buzzing noise whenever you move|
 |91-92|The eyes become completely white|
 |93-94|The skin becomes incredibly hot to the touch|
 |95-96|The skin becomes incredibly cold to the touch|
