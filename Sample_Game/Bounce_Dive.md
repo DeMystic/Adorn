@@ -11,7 +11,7 @@ But not into water. No... Divers dredge the depths of a twisted ruin.
 
 The twisted rooms and the creatures therein them seem out of place and even out of time.
 
-Artifacts teh Divers find there have strange powers that defy the imagination.
+Artifacts the Divers find there have strange powers that defy the imagination.
 
 A cloying curse pervades the space: When divers linger too long they find themselves horribly twisted as they resurface.
 
