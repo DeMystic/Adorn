@@ -5,13 +5,13 @@ You are a hapless prisoner, locked in an icy camp, far from anywhere.
 
 You don't break rocks, you don't mine salt... You Dive.
 
-But not into water. No, you dredge the depths of an impossible ruin.
+But not into water. No... Divers dredge the depths of a twisted ruin.
 
 ## The Ruin
 
 The twisted rooms and the creatures therein them seem out of place and even out of time.
 
-Artifacts you find there have strange powers that defy the imagination.
+Artifacts teh Divers find there have strange powers that defy the imagination.
 
 A cloying curse pervades the space: When divers linger too long they find themselves horribly twisted as they resurface.
 
@@ -58,7 +58,7 @@ A 0 is slightly below average, a 1 is average, a 2 is good and a 3 is exceptiona
 # What Can You Do?
 <!---Slot_Name: "Checks", Copied_From, Source_Slot: "Checks_d10", Link: "XXX"-->
 
-You can attempt almost any action but will sometimes need to perform an attribute check to see if you succeed.
+A Diver can attempt almost any action but will sometimes need to perform an attribute check to see if they succeed.
 
 To roll a check, roll 2d10 and add a relevant attribute.  If the result is equal or greater than a target value decided by the GM, your action succeeds.
 
@@ -83,9 +83,9 @@ Example difficulty values:
 ## Starting Equipment
 <!---Slot_Name: "Starting Equipment", Copied_From, Source_Slot: "Gonzo_Mundane", Link: "XXX"-->
 
-The guards offer you a small backpack full of starting equipment before your first decent.  On future decents you will have to spend tokens given to you for retrieving Artifacts on new equipment.
+The guards give new Divers a small backpack full of starting equipment before their first dive.  On future dives, Divers have to buy new equipment by spending tokens given to them for retrieving Artifacts and completing missions.
 
-To find your starting equipment roll a 3d20 and take the corresponding equipment.  Look at the table below for the three corresponding lists of equipment and pick the one you like best.
+To find your starting equipment roll a d20 three times and look at the corresponding equipment on the list below.  Pick the result you like best.
 
 |d20 Value|Equipment|
 |-|-|
@@ -119,7 +119,7 @@ See the mundane items section in the appendix for the full list of items and som
 ## Shop Equipment
 <!---Slot_Name: "Shop Equipment", Copied_From, Source_Slot: "Gonzo_Mundane_Shop", Link: "XXX"-->
 
-In the prison store, you may exchange the tokens given to you for completing missions for equipment that may be used on the next one.  The prison store always offers some items, but others come and go.  Maybe these items are traded from other prison camps like yours?  the guards never say.
+In the prison store, Divers may exchange the tokens given to them for completing missions on "new" equipment.  The prison store always offers some items, but others come and go.  Maybe these items are traded from other prison camps like yours?  Maybe they are dredged up by other Divers?  The guards never say.
 
 The list of items below are what the prison store commonly stocks.  They may stock other items at your GM's discretion.  A list of other items that they may stock can be found in the appendix under mundane items.  Artifacts will only ever be accidentally sold here.
 
@@ -163,11 +163,11 @@ Armor is not sold by default, but may be available on occasion.  All armor has a
 # Inventory
 <!---Slot_Name: "Inventory", Copied_From, Source_Slot: "Slots", Link: "XXX"-->
 
-Your inventory is mde up of slots.  Most items take up one slot, items that are heavy take up two slots.  Some items may take up more than two slots, but this will be explicitly stated if it is the case.
+A Diver's inventory is mde up of slots.  Most items take up one slot, items that are heavy take up two slots.  Some items may take up more than two slots, but this will be explicitly stated if it is the case.
 
 Small items will often fit into a bag or case of 10 or 20.  These small containers often take up a single slot or two slots.
 
-You have a number of slots equal to five plus your strength.
+A Diver has a number of slots equal to five plus their Strength.
 
 If you carry more than 5 + STR it is assumed that you are lugging things around in your arms. So, you will not be able to take any actions besides moving in combat, and your GM may give you a penalty on checks involving moving fast or gracefully.  You can carry up to an absolute max of 6 + 2 x STR slots worth of items.
 <!---/Slot_Name: "Inventory"-->
@@ -193,7 +193,7 @@ In one combat turn, a player may move from one distance range to an adjacent one
 
 # Encountering Creatures
 
-Sometime you run into the denizens of the ruin.  They can be twisted creatures of nightmares, mundane animals, or strangely relatable humans.
+Sometime Divers run into the denizens of the ruin.  They can be twisted creatures of nightmares, mundane animals, or strangely relatable humans.
 
 ## Surprise
 <!---Slot_Name: "Surprise", Copied_From, Source_Slot: "Check_vs_Check_Surprise", Link: "XXX"-->
@@ -206,7 +206,7 @@ The GM may grant bonuses or penalties to checks based on actions taken by either
 ## Reaction
 <!---Slot_Name: "Reaction_Rolls", Copied_From, Source_Slot: "DM_Dice_Hybrid_Reaction", Link: "XXX"-->
 
-Some creatures will always be hostile to you when you meet them, some creatures will be neutral towards you, and some may even be happy to see you. If the GM has not determined this beforehand, they may do so in the moment by rolling a d6:
+Some creatures will always be hostile to Divers when they meet them, some creatures will be neutral towards them, and some may even be happy to see them. If the GM has not determined this beforehand, they may do so in the moment by rolling a d6:
 
 |d6|Outcome|
 |-|-|
@@ -214,10 +214,23 @@ Some creatures will always be hostile to you when you meet them, some creatures 
 |5|Neutral|
 |6|Friendly|
 
-While some creatures will be totally fixed in their initial impression, the GM may allow you to make a charisma check to change the monster's initial reaction towards you.  the default target for this check is 16, but it may be adjusted by the GM based on the specific creature and the current circumstances.
+While some creatures will be totally fixed in their initial impression, the GM may allow you to make a Charisma check to change the monster's initial reaction towards you.  the default target for this check is 16, but it may be adjusted by the GM based on the specific creature and the current circumstances.
 <!---/Slot_Name: "Reaction_Rolls"-->
 
 ## Combat
+
+### Health
+<!---Slot_Name: "Health", Copied_From, Source_Slot: "Simple_health", Link: "XXX"-->
+A Diver's life in metered out in HP (Health Points).
+
+As a Diver takes physical damage, they run out of HP.
+
+When a Diver runs out of HP, they are dead.
+
+A Diver recovers their HP when they finally have time to rest back on the surface.
+
+A Diver has a max HP equal to four plus twice their Endurance.
+<!---/Slot_Name: "Health"-->
 
 ### Initiative
 <!---Slot_Name: "Initiative", Copied_From, Source_Slot: "Group_Initiative", Link: "XXX"-->
@@ -309,16 +322,46 @@ If an action takes much longer to do in game than it takes to say (e.g. "I build
 ## Acclimation
 <!---Slot_Name: "Acclimation", Copied_From, Source_Slot: "Simple_Acclimation", Link: "XXX"-->
 
-Each time a diver spends more than 45 consecutive min in the ruin, they become more acclimated.
+Each time a diver spends more than 45 consecutive min in the ruin, they become more acclimated to the curse.
+
+Acclimation extends all times required for the various levels of the curse to take effect by 15 min.  This includes the time till the next acclimation increment.
+
+The longest time extension physically attainable by acclimation is 2 hours.
 
 <!---/Slot_Name: "Acclimation"-->
 
 # Embarking
+<!---Slot_Name: "Embarking", Copied_From, Source_Slot: "Ice_Prison_Embark", Link: "XXX"-->
 
-# Character Creation Cheat Sheet
+The entire camp sits next do an ancient dead ice field.
+
+The entry to the ruin is a gaping crevasse in the ice.  A steam powered winch lowers a cage that can fit 8 people down into the ruin.  It descends out of the bottom of a huge spoked wheelhouse on the ice.  A lever in the cage lets you call for it to be lifted by the operator at the top.
+<!---/Slot_Name: "Embarking"-->
 
 # Appendix
 
+## Character Creation Cheat Sheet
+
+Each character has 6 attributes:
+- **Strength** is for: carrying more things, running fast, moving heavy things, etc...
+- **Dexterity** is for: dodging attacks, climbing, reflexes, etc...
+- **Endurance** is for: surviving attacks, resisting ill physical effects, toughness, etc...
+- **Charisma** is for: making people/creatures like you, persuading, resisting persuasion, etc...
+- **Awareness** is for: moving silently, seeing hidden creatures, noticing lies, etc...
+- **Craftiness** is for: makeshift construction, misappropriating supplies, understanding mechanisms, etc...
+
+Assign the following numbers to them as you please: (Higher is better)
+
+|3|2|2|1|1|0|
+|-|-|-|-|-|-|
+
+Relevant Derived Stats:
+- HP = 4 + 2 x Endurance
+- Number of Inventory Slots = 5 + Strength
+- Dodgeable Damage = Dexterity
+
+Starting Equipment
+- Find your starting inventory by rolling on the starting equipment table three times and picking your favorite result.
 ## Mutations
 
 ### Mild Mutations
