@@ -154,11 +154,11 @@ The list of items below are what the prison store commonly stocks.  They may sto
 
 *These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
 
-<!---/Slot_Name: "Shop Equipment"-->
-
 ### Armor
 
-TODO: don't sell armor by default (or make it very expensive and heavy) but explain it here.
+Armor is not sold by default, but may be available on occasion.  All armor has an armor rating that indicates how much protection it gives the wearer. See the Combat section for more details.
+
+<!---/Slot_Name: "Shop Equipment"-->
 
 # Inventory
 <!---Slot_Name: "Inventory", Copied_From, Source_Slot: "Slots", Link: "XXX"-->
@@ -275,7 +275,43 @@ To hide you must first not have line of sight to the enemy you are hiding from a
 To hide, you roll an Awareness check (the GM may give you a bonus based on your hiding spot) when an enemy enters the same space as you, they also roll an Awareness check.  They may get a bonus if they are actively searching for you, or a penalty if they are not.  If they beat your check, they find you.  If they don't, they likely move on unless they have some specific reason to expect you there.  If they have reason to continue searching the space, they may make a few checks before continuing onwards.
 <!---/Slot_Name: "Hiding"-->
 
-# Time in the Ruin
+# The Curse
+<!---Slot_Name: "The_Curse", Copied_From, Source_Slot: "Cursed_on_Return", Link: "XXX"-->
+
+The longer a diver spends in the ruin, the more they are punished by its curse.  Returning to the surface after spending too long below causes strange mutations to warp the diver.
+
+Upon their return:
+- Less than 60 min below leaves the fiver nauseous but unchanged.
+- More than 60 min below gives the diver one mild mutation.
+- More than 90 min below gives the diver two mild mutations.
+- More than 120 min below gives the diver one mild mutation and one severe mutation.
+- More than 150 min below gives the diver two severe mutations.
+- Spending longer than 180 min below results in death upon return.
+
+Mild mutations are generally slightly inconvenient, but some can be quite bad for some divers.  They are rarely positive.
+
+Severe mutations are generally debilitating.  Players who receive sever mutations may consider retiring their character afterwards.
+
+Mutations can be determined by rolling on the mutation tables in the appendix.
+
+<!---/Slot_Name: "The_Curse"-->
+
+<!---Slot_Name: "Time_Keeping", Copied_From, Source_Slot: "Simple_Realtime", Link: "XXX"-->
+Time is kept in realtime.  This means that the GM must be well prepared. Favor reacting quickly to reacting correctly. Try to keep the description of rooms to less than 50 words, consider mapping for your players.  Drawing a simple node map (boxes connected by lines) can be enough.
+
+If this is too much pressure or feels unfair to the players, consider using a timer that only runs when the players are acting.
+
+Consider letting the players "Pause" the game to ask about rules.
+
+If an action takes much longer to do in game than it takes to say (e.g. "I build a barricade.")  have the players roll a check to see how fast they work and then give them a 
+<!---/Slot_Name: "Simple_Realtime"-->
+
+## Acclimation
+<!---Slot_Name: "Acclimation", Copied_From, Source_Slot: "Simple_Acclimation", Link: "XXX"-->
+
+Each time a diver spends more than 45 consecutive min in the ruin, they become more acclimated.
+
+<!---/Slot_Name: "Acclimation"-->
 
 # Embarking
 
