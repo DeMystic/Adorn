@@ -126,13 +126,13 @@ The list of items below are what the prison store commonly stocks.  They may sto
 ### Weapons and Ammunition
 |Price|Item|
 |-|-|
-|5|knife (d6 damage)|
-|5|club (d6 damage)|
-|20|sword* (d8 damage)|
-|5|slingshot (d6 damage)|
-|20|bow* (d8 damage)|
-|5|quiver* of 10 arrows|
-|20|box of 10 bullets|
+|5|knife (d4 damage)|
+|5|club* (d6 damage)|
+|30|long sword* (d8 damage)|
+|5|slingshot (d4 damage)|
+|20|bow (d6 damage)|
+|5|quiver of 10 arrows*|
+|30|box of 10 bullets|
 
 *These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
 
@@ -457,9 +457,72 @@ These mutations cause severely debilitating changes to the character.
 Here are a few lists of items that the characters may find in the general store or in the ruin.
 It is not exhaustive, and similarly not all items are expected to be in the shop at all times.  One way to use these tables it to roll for a few of these items to be temporarily added to the shop each time the players visit
 
-### Weapons
+### Weapons and Ammunition
+
+Consider making weapons ruin loot only.  If you stock them in your shop, consider rolling a d100 to pick which one and only picking one if the roll is 20 or less.
+
+Conversely, ammunition may take more careful balancing. Consider always stocking ammunition that the party has a weapon to use, while only rarely or never stocking things like bombs and flashbangs.
+
+<!---Slot_Name: "Weapons_and_Ammunition", Copied_From, Source_Slot: "Mixed_Modern_Classical_Weapons_and_Ammunition", Link: "XXX"-->
+
+|d100|Price|Weapon|Damage|
+|-|-|-|-|
+|1|5|knife/dagger|d4|
+|2|5|slingshot|d4|
+|3|10|hatchet|d6|
+|4|60|battle axe*|d10|
+|5|20|bow|d6|
+|6|40|crossbow*|d8|
+|7|60|pistol|d10|
+|8|5|club (or baseball bat)*|d6|
+|9|30|sword(broad/long)*|d8|
+|10|50|sword(rapier/short)|d8|
+|11|60|glaive*|d10|
+|12|30|flail*|d8|
+|13|30|harpoon*|d8|
+|14|20|blowgun|d4|
+|15|20|set of bolas|d6|
+|16|30|trident*|d8|
+|17|10|whip|d6|
+|18|10|scythe/sickle|d6|
+|29|10|spear|d6|
+|20|30|mace*|d8|
+|>20|-|Nothing|-|
+
+|d8|Price|Ammunition|
+|-|-|-|
+|1|5|quiver of 10 arrows/bolts*|
+|2|30|box of 10 bullets|
+|3|30|smoke grenade|
+|4|40|flashbang|
+|5|60|bomb|
+|6|5|10 blow darts|
+|7|10|10 throwing stars|
+|8|20|box of 10 blank rounds|
+
+*These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
+
+<!---/Slot_Name: "Weapons_and_Ammunition"-->
 
 ### Armor
+
+Note that when general, lighter and stronger armor should be rarer.  It's generally a good idea to not include anything other than leather or padded armor in the shop.
+
+Armor makes great ruin loot, but If you do want to sock armor occasionally in your shop, consider rolling a d100 then stocking leather or padded on rolls less than 20 and chain or banded on rolls of 1 or 2 (if at all).
+<!---Slot_Name: "Armor_list", Copied_From, Source_Slot: "Mixed_Modern_Classical_Armor", Link: "XXX"-->
+
+|Price|Type|Armor Rating|
+|-|-|-|
+|30|Leather*|+1|
+|30|Padded*|+1|
+|40|Kevlar|+1|
+|50|Chain Mail*|+2|
+|50|Banded Mail*|+2|
+|60|Ceramic Plate|+2|
+
+*These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
+
+<!---/Slot_Name: "Armor_list"-->
 
 ### General Items
 <!---Slot_Name: "General_Item_List", Copied_From, Source_Slot: "100_Mixed_Modern_Classical_Generic_Items", Link: "XXX"-->
@@ -522,6 +585,29 @@ It is not exhaustive, and similarly not all items are expected to be in the shop
 <!---/Slot_Name: "General_Item_List"-->
 
 ### Battery Operated
+Consider having batteries die quickly in the ruin (e.g. all batteries brought into the ruin die after one dive, weather the party uses them or not.). If you do this, stock one or two batteries in your shop before each dive and charge ~20 tokens for one.
+
+Consider making these items ruin loot only.  If you stock them in your shop, consider rolling a d100 to pick which one and only picking one if the roll is 10 or less
+
+<!---Slot_Name: "Battery_Powered_Item_List", Copied_From, Source_Slot: "Battery_Powered_Items_Classical", Link: "XXX"-->
+
+|d100|Price|Name|
+|-|-|-|
+|1|20|laser pointer|
+|2|40|night vision goggles|
+|3|30|stun gun|
+|4|30|walkie talkies|
+|5|50|gravity gun (max 10 kg lifted)*|
+|6|40|auto lockpick|
+|7|30|pocket computer|
+|8|50|healing nanobots (heal 1d4+1, consumed on use)|
+|9|40|metal detector*|
+|10|30|electric headlamp|
+|>10|-|Nothing|
+
+*These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
+
+<!---/Slot_Name: "Battery_Powered_Item_List"-->
 
 ## Artifacts
 
@@ -562,4 +648,4 @@ Maze Rats
 Errant
 Shadowdark
 B/X DnD
-James
+James Bennett
