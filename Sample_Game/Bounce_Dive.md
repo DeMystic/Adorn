@@ -585,9 +585,11 @@ Armor makes great ruin loot, but If you do want to sock armor occasionally in yo
 <!---/Slot_Name: "General_Item_List"-->
 
 ### Battery Operated
+These items are definitely not of this world.
+
 Consider having batteries die quickly in the ruin (e.g. all batteries brought into the ruin die after one dive, weather the party uses them or not.). If you do this, stock one or two batteries in your shop before each dive and charge ~20 tokens for one.
 
-Consider making these items ruin loot only.  If you stock them in your shop, consider rolling a d100 to pick which one and only picking one if the roll is 10 or less
+Also consider making these items ruin loot only.  If you stock them in your shop, consider rolling a d100 to pick which one and only picking one if the roll is 10 or less
 
 <!---Slot_Name: "Battery_Powered_Item_List", Copied_From, Source_Slot: "Battery_Powered_Items_Classical", Link: "XXX"-->
 
