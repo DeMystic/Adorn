@@ -112,9 +112,9 @@ To find your starting equipment roll a d20 three times and look at the correspon
 
 *These items are heavy and may take up more space in your inventory.  See the next section for details.
 
-See the mundane items section in the appendix for the full list of items and some relevant details.
-
 <!---/Slot_Name: "Starting Equipment"-->
+
+See the mundane items section in the appendix for the full list of items and some relevant details.
 
 ## Shop Equipment
 <!---Slot_Name: "Shop Equipment", Copied_From, Source_Slot: "1800s_Focused.Prison_Shop", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
@@ -154,11 +154,11 @@ The list of items below are what the prison store commonly stocks.  They may sto
 
 *These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
 
+<!---/Slot_Name: "Shop Equipment"-->
+
 ### Armor
 
 Armor is not sold by default, but may be available on occasion.  All armor has an armor rating that indicates how much protection it gives the wearer. See the Combat section for more details.
-
-<!---/Slot_Name: "Shop Equipment"-->
 
 # Inventory
 <!---Slot_Name: "Inventory", Copied_From, Source_Slot: "Slots", Link: "XXX"-->
