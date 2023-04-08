@@ -646,6 +646,8 @@ Its up to the GM to make and interpret the results in a way that is fun without 
 
 The following is a filled in template for making an enemy creature.  This format is intended as more of a suggestion than a strict rule.  For example: the maximum chase distance can be used to determine how far the players must run to escape combat with the monster, but this may not be applicable to your setting.  Similarly you may want to add explicit use-per-day limits on monster abilities if you want to give the players more interesting tactical choices.
 
+Note that derived statistics like HP and carrying capacity can be derived from the core 6 stats just like they would be for a player character.
+
 ### Bone cube
 
 Description
