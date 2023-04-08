@@ -678,7 +678,7 @@ Chase range
 - Small group: 1d4+1 rooms
 - Horde: Indefinite
 
-|Stat|Value|
+|Attribute|Value|
 |-|-|
 |Strength|3|
 |Dexterity|1|
