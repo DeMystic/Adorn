@@ -81,7 +81,7 @@ Example difficulty values:
 
 # Equipment
 ## Starting Equipment
-<!---Slot_Name: "Starting Equipment", Copied_From, Source_Slot: "1800s_Focused_starting_Equipment", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
+<!---Slot_Name: "Starting Equipment", Copied_From, Source_Slot: "1800s_Focused.Starting_Equipment", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
 
 The guards give new Divers a small backpack full of starting equipment before their first dive.  On future dives, Divers have to buy new equipment by spending tokens given to them for retrieving Artifacts and completing missions.
 
@@ -117,7 +117,7 @@ See the mundane items section in the appendix for the full list of items and som
 <!---/Slot_Name: "Starting Equipment"-->
 
 ## Shop Equipment
-<!---Slot_Name: "Shop Equipment", Copied_From, Source_Slot: "1800s_Focused_Prison_Shop", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
+<!---Slot_Name: "Shop Equipment", Copied_From, Source_Slot: "1800s_Focused.Prison_Shop", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
 
 In the prison store, Divers may exchange the tokens given to them for completing missions on "new" equipment.  The prison store always offers some items, but others come and go.  Maybe these items are traded from other prison camps like yours?  Maybe they are dredged up by other Divers?  The guards never say.
 
@@ -463,7 +463,7 @@ Consider making weapons ruin loot only.  If you stock them in your shop, conside
 
 Conversely, ammunition may take more careful balancing. Consider always stocking ammunition that the party has a weapon to use, while only rarely or never stocking things like bombs and flashbangs.
 
-<!---Slot_Name: "Weapons_and_Ammunition", Copied_From, Source_Slot: "1800s_Focused_Weapons_and_Ammunition", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
+<!---Slot_Name: "Weapons_and_Ammunition", Copied_From, Source_Slot: "1800s_Focused.Weapons_and_Ammunition", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
 
 |d100|Price|Weapon|Damage|
 |-|-|-|-|
@@ -509,7 +509,7 @@ Conversely, ammunition may take more careful balancing. Consider always stocking
 Note that when general, lighter and stronger armor should be rarer.  It's generally a good idea to not include anything other than leather or padded armor in the shop.
 
 Armor makes great ruin loot, but If you do want to sock armor occasionally in your shop, consider rolling a d100 then stocking leather or padded on rolls less than 20 and chain or banded on rolls of 1 or 2 (if at all).
-<!---Slot_Name: "Armor_list", Copied_From, Source_Slot: "1800s_Focused_Armor", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
+<!---Slot_Name: "Armor_list", Copied_From, Source_Slot: "1800s_Focused.Armor", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
 
 |Price|Type|Armor Rating|
 |-|-|-|
@@ -525,7 +525,7 @@ Armor makes great ruin loot, but If you do want to sock armor occasionally in yo
 <!---/Slot_Name: "Armor_list"-->
 
 ### General Items
-<!---Slot_Name: "General_Item_List", Copied_From, Source_Slot: "1800s_Focused_Generic_Items", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
+<!---Slot_Name: "General_Item_List", Copied_From, Source_Slot: "1800s_Focused.Generic_Items", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
 
 |d100|Price|Item Name||d100|Price|Item Name|
 |-|-|-|-|-|-|-|
@@ -591,7 +591,7 @@ Consider having batteries die quickly in the ruin (e.g. all batteries brought in
 
 Also consider making these items ruin loot only.  If you stock them in your shop, consider rolling a d100 to pick which one and only picking one if the roll is 10 or less
 
-<!---Slot_Name: "Battery_Powered_Item_List", Copied_From, Source_Slot: "1800s_Focused_Battery_Powered_Items", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
+<!---Slot_Name: "Battery_Powered_Item_List", Copied_From, Source_Slot: "1800s_Focused.Battery_Powered_Items", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
 
 |d100|Price|Name|
 |-|-|-|
@@ -613,7 +613,7 @@ Also consider making these items ruin loot only.  If you stock them in your shop
 
 ## Artifacts
 
-<!---Slot_Name: "Artifacts", Copied_From, Source_Slot: "1800s_Magic_Item_Generator", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
+<!---Slot_Name: "Artifacts", Copied_From, Source_Slot: "1800s_Focused.Magic_Item_Generator", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
 
 Artifacts are items that appear to be mundane items but have some kind of otherworldly properties.  They are generated by rolling four times (roll 4d20) on the following table and combining the results.
 
