@@ -9,9 +9,9 @@ But not into water. No... Divers dredge the depths of a twisted ruin.
 
 ## The Ruin
 
-The twisted rooms and the creatures therein them seem out of place and even out of time.
+The liminal rooms and creatures therein them seem out of place and even out of time.
 
-Artifacts the Divers find there have strange powers that defy the imagination.
+The Artifacts that the Divers search for have strange powers that defy the imagination.
 
 A cloying curse pervades the space: When divers linger too long they find themselves horribly twisted as they resurface.
 
