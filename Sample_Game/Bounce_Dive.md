@@ -545,7 +545,7 @@ Armor makes great ruin loot, but If you do want to sock armor occasionally in yo
 |14|10|iron pot/pan*||64|20|roll of wire (10m)|
 |15|10|tinderbox||65|20|wood saw*|
 |16|10|chisel||66|25|metal saw*|
-|17|20|pickaxe*||67|30|bone/ceramic saw*|
+|17|20|pickaxe*||67|30|leiden jar|
 |18|20|spyglass||68|5|chalk|
 |19|15|bottle of grease||69|30|bottle of mercury|
 |20|10|paper/notebook||70|20|10 small caltrops|
@@ -563,8 +563,8 @@ Armor makes great ruin loot, but If you do want to sock armor occasionally in yo
 |32|10|shovel*||82|20|waterproof bag|
 |33|30|binoculars||83|10|stone hammer*|
 |34|15|lamp||84|20|string of firecrackers*|
-|35|20|lantern||85|30|parachute*|
-|36|30|shuttered lantern||86|30|nail gun*|
+|35|20|lantern (sometimes shuttered)||85|30|parachute*|
+|36|20|5 fish hooks||86|30|nail gun*|
 |37|15|bottle of lamp oil||87|30|silencer|
 |38|10|bucket*||88|15|pocket knife|
 |39|20|wrench||89|10|matches(20)|

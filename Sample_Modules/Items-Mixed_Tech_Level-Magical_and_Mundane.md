@@ -165,7 +165,7 @@ The list of items below are what the prison store commonly stocks.  They may sto
 |14|10|iron pot/pan*||64|20|roll of wire (10m)|
 |15|10|tinderbox||65|20|wood saw*|
 |16|10|chisel||66|25|metal saw*|
-|17|20|pickaxe*||67|30|bone/ceramic saw*|
+|17|20|pickaxe*||67|30|leiden jar|
 |18|20|spyglass||68|5|chalk|
 |19|15|bottle of grease||69|30|bottle of mercury|
 |20|10|paper/notebook||70|20|10 small caltrops|
@@ -183,8 +183,8 @@ The list of items below are what the prison store commonly stocks.  They may sto
 |32|10|shovel*||82|20|waterproof bag|
 |33|30|binoculars||83|10|stone hammer*|
 |34|15|lamp||84|20|string of firecrackers*|
-|35|20|lantern||85|30|parachute*|
-|36|30|shuttered lantern||86|30|nail gun*|
+|35|20|lantern (sometimes shuttered)||85|30|parachute*|
+|36|20|5 fish hooks||86|30|nail gun*|
 |37|15|bottle of lamp oil||87|30|silencer|
 |38|10|bucket*||88|15|pocket knife|
 |39|20|wrench||89|10|matches(20)|
@@ -208,7 +208,7 @@ The list of items below are what the prison store commonly stocks.  They may sto
 
 |d100|Price|Item Name||d100|Price|Item Name|
 |-|-|-|-|-|-|-|
-|1|30|switchable magnet boots|
+|1|30|switchable magnetic boots|
 |2|5|plastic water bottle|
 |3|10|pocket knife|
 |4|30|topical antiseptic|
@@ -217,7 +217,7 @@ The list of items below are what the prison store commonly stocks.  They may sto
 |7|20|set of magnetic screwdriver bits|
 |8|10|duct tape|
 |9|20|metal tape|
-|10|30|thermite welding charge|
+|10|30|thermite welding/cutting charge 10cm|
 |11|20|thick rubber gloves|
 |12|10|welding/work gloves|
 |13|5|5 energy bars(food)|
@@ -243,7 +243,50 @@ The list of items below are what the prison store commonly stocks.  They may sto
 |33|10|folding steel saw|
 |33|30|folding carbide saw|
 |33|60|folding diamond saw|
+|34|60|portable atomic stove*|
+|35|10|portable gas stove|
+|36|10|binoculars|
+|37|10|bug spray|
+|38|10|20 safety pins|
+|39|30|bottle laughing gas(anesthetic)|
+|40|20|book of 20 waterproof matches|
+|41|20|paracord 30m|
+|42|10|hand mirror|
+|43|10|wire cutters|
+|44|20|bolt cutters|
+|45|40|hasmat (environmental) suit|
+|46|10|plastic poncho|
+|47|10|chalk|
+|48|20|lockpick set|
+|49|10|metal or plastic tweezers|
+|50|40|switchable magnetic grappling hook|
+|51|40|filtered respirator (gas mask)|
+|52|20|case of 3 empty glass vials|
+|53|30|telescoping ladder|
+|54|20|hammer|
+|55|10|bag of 5 pitons (iron spikes)|
+|56|30|crampons|
+|57|10|carabiner|
+|58|30|ice pick|
+|59|40|bungee cord with hooked ends (1m)|
+|60|50|titanium wire 10m|
+|61|30|25 kg fishing line 10m|
+|62|10|5 fish hooks|
+|63|40|teflon flask of super acid or base (100mL)|
+|64|20|calibrated weights|
+|65|30|waterproof bag|
+|66|10|waterproof notebook|
+|67|5|pen/pencil|
+|68|10|sleeping bag|
+|69|40|portable winch 30m rope max 80kg|
+|70|10|folding stretcher|
+|71|20|mechanical clock (alarm)|
+|72|40|self inflating raft|
+|73|10|life vest|
+|74|30|chemical fire extinguisher|
+|75|40|telescoping pole (1m-10m)|
 
+<!---placed here for the convenience of editing
 
 battery
 
@@ -252,10 +295,24 @@ battery
 |1|10|flashlight|
 |2|50|plasma cutting torch|
 |3|10|arc lighter|
+|4|20|portable electric stove|
+|5|50|thermal camera|
+|6|60|acoustic camera|
+|7|5|red laser pointer|
+|8|20|blue hgh power laser pointer|
+|9|40|auto lockpick|
+|10|30|electric scale|
+|11|60|electric winch 60m rope 160 kg|
+|12|60|poison gas detector|
+|13|60|geiger counter|
+|14|10|digital alarm clock|
+|15|20|peristaltic air pump|
 
 Weapons
 
 |1|30|flare gun|
+
+-->
 
 # Battery Operated Items
 ## 1800s Focused
