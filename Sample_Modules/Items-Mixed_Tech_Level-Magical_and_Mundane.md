@@ -204,6 +204,59 @@ The list of items below are what the prison store commonly stocks.  They may sto
 
 <!---/Slot_Name: "1800s_Focused.Generic_Items"-->
 
+## 2100s Focused
+
+|d100|Price|Item Name||d100|Price|Item Name|
+|-|-|-|-|-|-|-|
+|1|30|switchable magnet boots|
+|2|5|plastic water bottle|
+|3|10|pocket knife|
+|4|30|topical antiseptic|
+|5|10|space blanket|
+|6|10|screwdriver with a replaceable magnetic bit|
+|7|20|set of magnetic screwdriver bits|
+|8|10|duct tape|
+|9|20|metal tape|
+|10|30|thermite welding charge|
+|11|20|thick rubber gloves|
+|12|10|welding/work gloves|
+|13|5|5 energy bars(food)|
+|14|30|portable oxygen tank|
+|15|40|portable acetylene tank|
+|16|30|portable butane tank|
+|17|40|cutting torch head|
+|18|10|crowbar|
+|19|10|compass|
+|20|10|5 10min glow sticks|
+|21|10|road flare|
+|22|10|dark wraparound goggles|
+|23|10|polymer water bladder|
+|24|20|water purifier straw|
+|25|20|folding shovel|
+|26|10|ferrocerium and magnesium rods|
+|27|5|whistle|
+|28|10|multitool: hammer wrench pliers|
+|29|10|memory polymer earplugs|
+|30|20|20 zip ties|
+|31|20|chemical hand warmer|
+|32|20|chemical ice pack|
+|33|10|folding steel saw|
+|33|30|folding carbide saw|
+|33|60|folding diamond saw|
+
+
+battery
+
+|d100|Price|Item Name|
+|-|-|-|
+|1|10|flashlight|
+|2|50|plasma cutting torch|
+|3|10|arc lighter|
+
+Weapons
+
+|1|30|flare gun|
+
 # Battery Operated Items
 ## 1800s Focused
 <!---Slot_Name: "1800s_Focused.Battery_Powered_Items", Original-->
