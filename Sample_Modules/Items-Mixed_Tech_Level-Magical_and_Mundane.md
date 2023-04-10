@@ -208,109 +208,68 @@ The list of items below are what the prison store commonly stocks.  They may sto
 
 |d100|Price|Item Name||d100|Price|Item Name|
 |-|-|-|-|-|-|-|
-|1|30|switchable magnetic boots|
-|2|5|plastic water bottle|
-|3|10|pocket knife|
-|4|30|topical antiseptic|
-|5|10|space blanket|
-|6|10|screwdriver with a replaceable magnetic bit|
-|7|20|set of magnetic screwdriver bits|
-|8|10|duct tape|
-|9|20|metal tape|
-|10|30|thermite welding/cutting charge 10cm|
-|11|20|thick rubber gloves|
-|12|10|welding/work gloves|
-|13|5|5 energy bars(food)|
-|14|30|portable oxygen tank|
-|15|40|portable acetylene tank|
-|16|30|portable butane tank|
-|17|40|cutting torch head|
-|18|10|crowbar|
-|19|10|compass|
-|20|10|5 10min glow sticks|
-|21|10|road flare|
-|22|10|dark wraparound goggles|
-|23|10|polymer water bladder|
-|24|20|water purifier straw|
-|25|20|folding shovel|
-|26|10|ferrocerium and magnesium rods|
-|27|5|whistle|
-|28|10|multitool: hammer wrench pliers|
-|29|10|memory polymer earplugs|
-|30|20|20 zip ties|
-|31|20|chemical hand warmer|
-|32|20|chemical ice pack|
-|33|10|folding steel saw|
-|33|30|folding carbide saw|
-|33|60|folding diamond saw|
-|34|60|portable atomic stove*|
-|35|10|portable gas stove|
-|36|10|binoculars|
-|37|10|bug spray|
-|38|10|20 safety pins|
-|39|30|bottle laughing gas(anesthetic)|
-|40|20|book of 20 waterproof matches|
-|41|20|paracord 30m|
-|42|10|hand mirror|
-|43|10|wire cutters|
-|44|20|bolt cutters|
-|45|40|hasmat (environmental) suit|
-|46|10|plastic poncho|
-|47|10|chalk|
-|48|20|lockpick set|
-|49|10|metal or plastic tweezers|
-|50|40|switchable magnetic grappling hook|
-|51|40|filtered respirator (gas mask)|
-|52|20|case of 3 empty glass vials|
-|53|30|telescoping ladder|
-|54|20|hammer|
-|55|10|bag of 5 pitons (iron spikes)|
-|56|30|crampons|
-|57|10|carabiner|
-|58|30|ice pick|
-|59|40|bungee cord with hooked ends (1m)|
-|60|50|titanium wire 10m|
-|61|30|25 kg fishing line 10m|
-|62|10|5 fish hooks|
-|63|40|teflon flask of super acid or base (100mL)|
-|64|20|calibrated weights|
-|65|30|waterproof bag|
-|66|10|waterproof notebook|
-|67|5|pen/pencil|
-|68|10|sleeping bag|
-|69|40|portable winch 30m rope max 80kg|
-|70|10|folding stretcher|
-|71|20|mechanical clock (alarm)|
-|72|40|self inflating raft|
-|73|10|life vest|
-|74|30|chemical fire extinguisher|
-|75|40|telescoping pole (1m-10m)|
+|1|30|switchable magnetic boots||51|40|filtered respirator (gas mask)|
+|2|5|plastic water bottle||52|20|case of 3 empty glass vials|
+|3|10|pocket knife||53|20|case of 3 empty glass vials|
+|4|30|topical antiseptic||54|30|telescoping ladder|
+|5|10|space blanket or sleeping bag||55|10|bag of 5 pitons (iron spikes)|
+|6|10|screwdriver with a replaceable magnetic bit||56|30|crampons|
+|7|20|set of magnetic screwdriver bits||57|10|carabiner|
+|8|10|duct tape||58|30|ice pick|
+|9|20|metal tape||59|40|bungee cord with hooked ends (1m)|
+|10|30|thermite welding/cutting charge 10cm||60|50|titanium wire 10m|
+|11|20|thick rubber gloves||61|30|25 kg fishing line 10m|
+|12|10|welding/work gloves||62|10|5 fish hooks|
+|13|5|5 energy bars(food)||63|40|teflon flask of super acid or base (100mL)|
+|14|30|portable oxygen tank||64|20|calibrated weights|
+|15|40|portable acetylene tank||65|30|waterproof bag|
+|16|30|portable butane tank||66|10|waterproof notebook|
+|17|40|cutting torch head||67|5|pen/pencil|
+|18|10|crowbar||68|10|hammer|
+|19|10|compass||69|40|portable hand winch 30m rope max 80kg|
+|20|10|5 10min glow sticks||70|10|folding stretcher|
+|21|10|road flare||71|20|mechanical clock (alarm)|
+|22|10|dark wraparound goggles||72|40|self inflating raft|
+|23|10|polymer water bladder||73|10|life vest|
+|24|20|water purifier straw||74|30|chemical fire extinguisher|
+|25|20|folding shovel||75|40|telescoping pole (1m-10m)|
+|26|10|ferrocerium and magnesium rods||76|30|bioluminescent paint|
+|27|5|whistle||77|60|rebreather (30 min)|
+|28|10|multitool: hammer wrench pliers||78|30|cryogenic liquid canister|
+|29|10|memory polymer earplugs||79|30|gecko whip (10m)|
+|30|20|20 zip ties||80|70|switchable gravitational anchor (fixed in space when on)|
+|31|20|chemical hand warmer||81|60|nanite disassembler (destroys 1m^3  of any material in 1 min, consumed on use)|
+|32|20|chemical ice pack||82|20|EMP grenade (single use, permanently breaks all electronics in a 10m range)|
+|33|10|folding saw (steel carbide or diamond)||83|40|quantum lockpick (unlocks any mechanical lock, single use)|
+|34|60|portable atomic stove*||84|60|nanofog grenade (thickens the air to the consistency of water in a 10m radius)|
+|35|10|portable gas stove||85|70|clone_putty (single use, becomes a perfect copy of an object it touches that is less than 10cm^3)|
+|36|10|binoculars||86|60|antigravity sled (1m diameter, 85kg limit)|
+|37|10|bug spray||87|70|memory crystal(can be written to contain one 1min memory, the memory is experienced when touched)|
+|38|10|20 safety pins||88|30|switchable magnetic gloves|
+|39|30|bottle laughing gas(anesthetic)||89|70|energy sponge (adsorbs all electromagnetic energy that touches it, releases the energy when squeezed)|
+|40|20|book of 20 waterproof matches||90|20|mirror paint|
+|41|20|paracord 30m||91|70|kinetic battery(recharges itself in 1 hour)|
+|42|10|hand mirror||92|70|time anchor (single use, freezes time in a 10m radius for 1min)|
+|43|10|wire cutters||93|70|quantum tag (a compass that points to the lat object that it was paired with, pairing takes 1 min)|
+|44|20|bolt cutters||94|70|quantum AI (single use, 1min, a super intelligent AI)|
+|45|40|hasmat (environmental) suit||95|30|welding glue(welds any two object together)|
+|46|10|plastic poncho||96|10|handcuffs|
+|47|10|chalk||97|30|switchable blackout beacon (repels all light within 10m)|
+|48|20|lockpick set||98|10|bag of glass marbles|
+|49|10|metal or plastic tweezers||99|20|hand crank siren| 
+|50|40|switchable magnetic grappling hook||100|40|alcohol or drugs|
 
 <!---placed here for the convenience of editing
-
-battery
-
-|d100|Price|Item Name|
-|-|-|-|
-|1|10|flashlight|
-|2|50|plasma cutting torch|
-|3|10|arc lighter|
-|4|20|portable electric stove|
-|5|50|thermal camera|
-|6|60|acoustic camera|
-|7|5|red laser pointer|
-|8|20|blue hgh power laser pointer|
-|9|40|auto lockpick|
-|10|30|electric scale|
-|11|60|electric winch 60m rope 160 kg|
-|12|60|poison gas detector|
-|13|60|geiger counter|
-|14|10|digital alarm clock|
-|15|20|peristaltic air pump|
 
 Weapons
 
 |1|30|flare gun|
+energy whip
+
+Armor
+
+|1|60|energy armor|
+passive camo
 
 -->
 
@@ -335,6 +294,43 @@ Weapons
 *These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
 
 <!---/Slot_Name: "1800s_Focused.Battery_Powered_Items"-->
+
+## 2100s Focused
+
+|d100|Price|Item Name|
+|-|-|-|
+|1|10|flashlight|
+|2|50|plasma cutting torch|
+|3|10|arc lighter|
+|4|20|portable electric stove|
+|5|50|thermal camera|
+|6|60|acoustic camera|
+|7|5|red laser pointer|
+|8|20|blue hgh power laser pointer|
+|9|40|auto lockpick|
+|10|30|electric scale|
+|11|60|electric winch 60m rope 160 kg|
+|12|60|poison gas detector|
+|13|60|geiger counter|
+|14|10|digital alarm clock|
+|15|20|peristaltic air pump|
+|16|40|laser drill (20x1cm hole)|
+|17|30|laser scalpel|
+|18|30|fpv drone|
+|19|40|gravity gun (max 10 kg lifted)*|
+|20|50|healing nanobots (heal 1d4+1, consumed on use)|
+|21|60|text to hologram projector (10m radius)|
+|22|20|universal translator|
+|23|60|inertial dampener (negate fall damage)|
+|24|60|phase shifter (pass through walls for 15 sec per battery)|
+|25|60|life form scanner|
+|26|20|night vision goggles|
+|27|60|swarm of 5 microdrones|
+|28|60|pocket dimension (can hold one 10cm object, has no external volume)|
+|29|40|sonic stabilizer (solidifies all loose gravel or liquid within 10m when active)|
+|30|20|walkie talkies|
+|31|70|hard light projector (makes a solid hologram for 1min per battery, takes 1min to configure)|
+
 
 # Magic_Item_Generators
 ## 1800s Focused
