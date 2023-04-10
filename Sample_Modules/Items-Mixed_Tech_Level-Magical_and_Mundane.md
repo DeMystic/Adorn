@@ -228,7 +228,7 @@ The list of items below are what the prison store commonly stocks.  They may sto
 |18|10|crowbar||68|10|hammer|
 |19|10|compass||69|40|portable hand winch 30m rope max 80kg|
 |20|10|5 10min glow sticks||70|10|folding stretcher|
-|21|10|road flare||71|20|mechanical clock (alarm)|
+|21|10|road flare||71|20|mechanical clock (pocket or alarm)|
 |22|10|dark wraparound goggles||72|40|self inflating raft|
 |23|10|polymer water bladder||73|10|life vest|
 |24|20|water purifier straw||74|30|chemical fire extinguisher|
