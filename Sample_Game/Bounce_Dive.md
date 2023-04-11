@@ -527,6 +527,8 @@ Armor makes great ruin loot, but If you do want to sock armor occasionally in yo
 ### General Items
 <!---Slot_Name: "General_Item_List", Copied_From, Source_Slot: "1800s_Focused.Generic_Items", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
 
+A GM may, for example, roll a few times on this table to see what items may be in the shop at the beginning and/or end of a session.
+
 |d100|Price|Item Name||d100|Price|Item Name|
 |-|-|-|-|-|-|-|
 |1|10|dark goggles||52|20|carabiner|

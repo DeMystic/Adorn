@@ -147,6 +147,8 @@ The list of items below are what the prison store commonly stocks.  They may sto
 ## 1800s Focused
 <!---Slot_Name: "1800s_Focused.Generic_Items", Original-->
 
+A GM may, for example, roll a few times on this table to see what items may be in the shop at the beginning and/or end of a session.
+
 |d100|Price|Item Name||d100|Price|Item Name|
 |-|-|-|-|-|-|-|
 |1|10|dark goggles||52|20|carabiner|
@@ -205,59 +207,62 @@ The list of items below are what the prison store commonly stocks.  They may sto
 <!---/Slot_Name: "1800s_Focused.Generic_Items"-->
 
 ## 2100s Focused
+<!---Slot_Name: "2100s_Focused.Generic_Items", Original-->
 
 |d100|Price|Item Name||d100|Price|Item Name|
 |-|-|-|-|-|-|-|
-|1|30|switchable magnetic boots||51|40|filtered respirator (gas mask)|
+|1|30|switchable magnetic boots*||51|40|filtered respirator (gas mask)|
 |2|5|plastic water bottle||52|20|case of 3 empty glass vials|
-|3|10|pocket knife||53|20|case of 3 empty glass vials|
-|4|30|topical antiseptic||54|30|telescoping ladder|
+|3|10|pocket knife||53|30|set of diamond files|
+|4|30|topical antiseptic||54|30|telescoping ladder (10m)*|
 |5|10|space blanket or sleeping bag||55|10|bag of 5 pitons (iron spikes)|
 |6|10|screwdriver with a replaceable magnetic bit||56|30|crampons|
 |7|20|set of magnetic screwdriver bits||57|10|carabiner|
-|8|10|duct tape||58|30|ice pick|
+|8|10|duct tape||58|30|ice pick*|
 |9|20|metal tape||59|40|bungee cord with hooked ends (1m)|
-|10|30|thermite welding/cutting charge 10cm||60|50|titanium wire 10m|
+|10|30|thermite welding/cutting charge (10cm length)||60|50|titanium wire 10m|
 |11|20|thick rubber gloves||61|30|25 kg fishing line 10m|
 |12|10|welding/work gloves||62|10|5 fish hooks|
-|13|5|5 energy bars(food)||63|40|teflon flask of super acid or base (100mL)|
-|14|30|portable oxygen tank||64|20|calibrated weights|
-|15|40|portable acetylene tank||65|30|waterproof bag|
-|16|30|portable butane tank||66|10|waterproof notebook|
+|13|5|5 energy bars(food)||63|40|teflon flask of super acid or base (100mL, one time seal)|
+|14|30|portable oxygen tank*||64|20|calibrated weights|
+|15|40|portable acetylene tank*||65|30|waterproof bag|
+|16|30|portable butane tank*||66|10|waterproof notebook|
 |17|40|cutting torch head||67|5|pen/pencil|
-|18|10|crowbar||68|10|hammer|
-|19|10|compass||69|40|portable hand winch 30m rope max 80kg|
-|20|10|5 10min glow sticks||70|10|folding stretcher|
+|18|10|crowbar*||68|10|hammer*|
+|19|10|compass||69|40|portable hand winch 30m rope max 80kg*|
+|20|10|5 10min glow sticks||70|10|folding stretcher*|
 |21|10|road flare||71|20|mechanical clock (pocket or alarm)|
-|22|10|dark wraparound goggles||72|40|self inflating raft|
-|23|10|polymer water bladder||73|10|life vest|
-|24|20|water purifier straw||74|30|chemical fire extinguisher|
-|25|20|folding shovel||75|40|telescoping pole (1m-10m)|
-|26|10|ferrocerium and magnesium rods||76|30|bioluminescent paint|
-|27|5|whistle||77|60|rebreather (30 min)|
-|28|10|multitool: hammer wrench pliers||78|30|cryogenic liquid canister|
-|29|10|memory polymer earplugs||79|30|gecko whip (10m)|
-|30|20|20 zip ties||80|70|switchable gravitational anchor (fixed in space when on)|
+|22|10|dark wraparound goggles||72|40|self inflating raft (4 person)*|
+|23|10|polymer water bladder||73|10|life vest*|
+|24|20|water purifier straw||74|30|chemical fire extinguisher*|
+|25|20|folding shovel*||75|40|telescoping pole (1m-10m)|
+|26|10|ferrocerium and magnesium rods||76|30|bioluminescent paint (10mL, one time seal)|
+|27|5|whistle||77|60|rebreather (30 min)*|
+|28|10|multitool: hammer wrench pliers||78|30|cryogenic liquid canister*|
+|29|10|memory polymer earplugs||79|30|sticky gecko whip (10m long 85kg carrying weight)*|
+|30|20|20 zip ties||80|70|switchable gravitational anchor (fixed in space when on)*|
 |31|20|chemical hand warmer||81|60|nanite disassembler (destroys 1m^3  of any material in 1 min, consumed on use)|
 |32|20|chemical ice pack||82|20|EMP grenade (single use, permanently breaks all electronics in a 10m range)|
-|33|10|folding saw (steel carbide or diamond)||83|40|quantum lockpick (unlocks any mechanical lock, single use)|
+|33|10|folding saw (steel carbide or diamond)*||83|40|quantum lockpick (unlocks any mechanical lock, single use)|
 |34|60|portable atomic stove*||84|60|nanofog grenade (thickens the air to the consistency of water in a 10m radius)|
-|35|10|portable gas stove||85|70|clone_putty (single use, becomes a perfect copy of an object it touches that is less than 10cm^3)|
-|36|10|binoculars||86|60|antigravity sled (1m diameter, 85kg limit)|
-|37|10|bug spray||87|70|memory crystal(can be written to contain one 1min memory, the memory is experienced when touched)|
-|38|10|20 safety pins||88|30|switchable magnetic gloves|
-|39|30|bottle laughing gas(anesthetic)||89|70|energy sponge (adsorbs all electromagnetic energy that touches it, releases the energy when squeezed)|
-|40|20|book of 20 waterproof matches||90|20|mirror paint|
+|35|10|portable gas stove||85|70|clone_putty (single use, becomes a perfect copy of an object it touches that is less than 10x10x10cm)|
+|36|10|binoculars||86|60|antigravity sled (1m diameter, 85kg limit)*|
+|37|10|bug spray||87|70|memory crystal(can be written once to contain one 1min memory, the memory is experienced when touched)|
+|38|10|20 safety pins||88|30|switchable magnetic gloves*|
+|39|30|10mL bottle laughing gas(anesthetic, single use)||89|70|energy sponge (adsorbs all electromagnetic energy that touches it, releases the energy when squeezed)*|
+|40|20|book of 20 waterproof matches||90|20|mirror paint (10mL, one time seal)|
 |41|20|paracord 30m||91|70|kinetic battery(recharges itself in 1 hour)|
-|42|10|hand mirror||92|70|time anchor (single use, freezes time in a 10m radius for 1min)|
+|42|10|hand mirror||92|70|time anchor (single use, freezes time in a 10m radius for 1min)*|
 |43|10|wire cutters||93|70|quantum tag (a compass that points to the lat object that it was paired with, pairing takes 1 min)|
 |44|20|bolt cutters||94|70|quantum AI (single use, 1min, a super intelligent AI)|
-|45|40|hasmat (environmental) suit||95|30|welding glue(welds any two object together)|
+|45|40|hasmat (environmental) suit*||95|30|welding glue(welds any two object together, single use, 10x10 cm area)|
 |46|10|plastic poncho||96|10|handcuffs|
-|47|10|chalk||97|30|switchable blackout beacon (repels all light within 10m)|
+|47|10|chalk||97|30|switchable blackout beacon (repels all light within 10m)*|
 |48|20|lockpick set||98|10|bag of glass marbles|
-|49|10|metal or plastic tweezers||99|20|hand crank siren| 
-|50|40|switchable magnetic grappling hook||100|40|alcohol or drugs|
+|49|10|metal or plastic tweezers||99|20|hand crank siren*| 
+|50|40|switchable magnetic grappling hook*||100|40|alcohol or drugs|
+
+<!---/Slot_Name: "2100s_Focused.Generic_Items"-->
 
 <!---placed here for the convenience of editing
 
