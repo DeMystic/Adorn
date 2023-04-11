@@ -302,6 +302,8 @@ passive camo
 
 ## 2100s Focused
 
+<!---Slot_Name: "2100s_Focused.Battery_Powered_Items", Original-->
+
 |d100|Price|Item Name|
 |-|-|-|
 |1|10|flashlight|
@@ -311,7 +313,7 @@ passive camo
 |5|50|thermal camera|
 |6|60|acoustic camera|
 |7|5|red laser pointer|
-|8|20|blue hgh power laser pointer|
+|8|20|blue high power laser pointer|
 |9|40|auto lockpick|
 |10|30|electric scale|
 |11|60|electric winch 60m rope 160 kg|
@@ -335,7 +337,18 @@ passive camo
 |29|40|sonic stabilizer (solidifies all loose gravel or liquid within 10m when active)|
 |30|20|walkie talkies|
 |31|70|hard light projector (makes a solid hologram for 1min per battery, takes 1min to configure)|
+|32|30|night vision goggles|
+|33|30|stun gun|
+|34|50|gravity gun (max 10 kg lifted)*|
+|35|30|auto lockpick|
+|36|20|smart phone|
+|37|40|healing nanobots (heal 1d4+1, consumed on use)|
+|38|20|metal detector*|
+|>38|-|Nothing|
 
+*These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
+
+<!---/Slot_Name: "1800s_Focused.Battery_Powered_Items"-->
 
 # Magic_Item_Generators
 ## 1800s Focused
