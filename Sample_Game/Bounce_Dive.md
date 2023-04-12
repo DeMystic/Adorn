@@ -706,7 +706,7 @@ Adorn
 
 # Acknowledgements
 
-Thanks to the following source and their authors for inspiration.
+Thanks to the following sources and their authors for inspiration.
 
 - Into the Odd
 
