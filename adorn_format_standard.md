@@ -206,12 +206,12 @@ The format for citing a non Adorn source is below:
 Raw markdown text:
 
     <a name="title-of-source-work">Title of Source Work</a>
-    - Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [License Name](#license-name)
+    - Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [Link to License](#license-name)
 
 Rendered markdown text:
 
 ><a name="title-of-source-work">Title of Source Work</a>
->- Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [License Name](#license-name)
+>- Title: Title of Source Work, By: Author Name, Version: Edition of the Work etc. [Link to Source](URL_of_Source) | [Link to License](#license-name)
 
 ## 5.1.3: Crediting Adorn
 
