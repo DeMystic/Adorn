@@ -82,6 +82,7 @@ Example difficulty values:
 # Equipment
 ## Starting Equipment
 <!---Slot_Name: "Starting Equipment", Copied_From, Source_Slot: "1800s_Focused.Starting_Equipment", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items_Mixed_Tech_Level_Magical_and_Mundane.md"-->
+[(Credit: DeMystic)](#items-mixed-tech-level-magical-and-mundane)
 
 The guards give new Divers a small backpack full of starting equipment before their first dive.  On future dives, Divers have to buy new equipment by spending tokens given to them for retrieving Artifacts and completing missions.
 
@@ -693,7 +694,7 @@ Chase range
 
 # Credits
 
-<a name="title-of-source-work">Items: Mixed Tech Level, Magical and Mundane</a>
+<a name="items-mixed-tech-level-magical-and-mundane">Items: Mixed Tech Level, Magical and Mundane</a>
 - Title: **Items: Mixed Tech Level, Magical and Mundane**, By: **DeMystic**. [Link to Source](https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items-Mixed_Tech_Level-Magical_and_Mundane.md) | [Link to License: DeMystic CC](#demystic-cc)
 
 Adorn
