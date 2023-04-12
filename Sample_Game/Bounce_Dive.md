@@ -694,7 +694,7 @@ Chase range
 # Credits
 
 <a name="title-of-source-work">Items: Mixed Tech Level, Magical and Mundane\</a>
-- Title: **Items: Mixed Tech Level, Magical and Mundane**, By: **DeMystic**. [Link to Source]([URL_of_Source](https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items-Mixed_Tech_Level-Magical_and_Mundane.md)) | [Link to License: DeMystic CC](#demystic-cc)
+- Title: **Items: Mixed Tech Level, Magical and Mundane**, By: **DeMystic**. [Link to Source]([URL_of_Source](https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items-Mixed_Tech_Level-Magical_and_Mundane.md) | [Link to License: DeMystic CC](#demystic-cc)
 
 Adorn
 - This document uses the Adorn standard for easy and transparent sharing of text.  To learn more, about Adorn see the [Adorn Standard](https://github.com/DeMystic/Adorn).  The text of the Adorn standard is offered under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
