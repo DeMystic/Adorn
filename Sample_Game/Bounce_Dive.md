@@ -691,6 +691,20 @@ Chase range
 
 <!---/Slot_Name: "Monster_Template"-->
 
+# Credits
+
+<a name="title-of-source-work">Items: Mixed Tech Level, Magical and Mundane\</a>
+- Title: **Items: Mixed Tech Level, Magical and Mundane**, By: **DeMystic**. [Link to Source]([URL_of_Source](https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items-Mixed_Tech_Level-Magical_and_Mundane.md)) | [Link to License: DeMystic CC](#demystic-cc)
+
+Adorn
+- This document uses the Adorn standard for easy and transparent sharing of text.  To learn more, about Adorn see the [Adorn Standard](https://github.com/DeMystic/Adorn).  The text of the Adorn standard is offered under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+# Licenses
+
+<a name="license-name">DeMystic CC</a>
+- DeMystic is the author of the text covered by this license
+- The text used from these sources is covered under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
 # Acknowledgements
 
 Into the Odd
@@ -708,3 +722,18 @@ B/X DnD
 James Bennett
 
 Koen Jorissen
+
+# License for this Document
+
+The text of this document is offered under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
+Find below a summary of what is required of you if you directly copy text from this document into a document of your own that you wish to distribute. Note that this is not a replacement for the license. See the link above for the license itself.
+
+You can not add any text to your document that implies that the authors of this text endorse your work. You also may not do anything to restrict others from using the text of the Adorn standard.
+
+If you directly use text from this document in a document you distribute you need to include in your document:
+- credit to "DeMystic" as the author of this work
+- a link to this document
+- a statement indicating if any changes were made to the text copied from this document
+- a statement that the copied text is offered under a CC BY 4.0 License
+- a link to the text of the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
