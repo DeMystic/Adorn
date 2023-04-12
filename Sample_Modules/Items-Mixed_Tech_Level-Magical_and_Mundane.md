@@ -384,3 +384,17 @@ Its up to the GM to make and interpret the results in a way that is fun without 
 |20|Pen, pencil, or page|Animate or reanimate|Authority|The object is tricky to use and requires a skill check of some kind|
 
 <!---/Slot_Name: "1800s_Focused.Magic_Item_Generator"-->
+
+# License for this Document
+
+The text of this document is offered under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
+Find below a summary of what is required of you if you directly copy text from this document into a document of your own that you wish to distribute. Note that this is not a replacement for the license. See the link above for the license itself.
+
+You can not add any text to your document that implies that the authors of this text endorse your work. You also may not do anything to restrict others from using the text of the Adorn standard.
+
+If you directly use text from this document in a document you distribute you need to include in your document:
+- credit to "DeMystic" as the author of this work
+- a link to this document
+- a statement indicating if any changes were made to the text copied from this document
+- a link to the text of the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) that covers this document
