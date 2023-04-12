@@ -702,7 +702,6 @@ Adorn
 # Licenses
 
 <a name="demystic-cc">DeMystic CC</a>
-- DeMystic is the author of the text covered by this license
 - The text used from these sources is covered under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 # Acknowledgements
