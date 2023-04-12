@@ -693,7 +693,7 @@ Chase range
 
 # Credits
 
-<a name="title-of-source-work">Items: Mixed Tech Level, Magical and Mundane\</a>
+<a name="title-of-source-work">Items: Mixed Tech Level, Magical and Mundane</a>
 - Title: **Items: Mixed Tech Level, Magical and Mundane**, By: **DeMystic**. [Link to Source](https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items-Mixed_Tech_Level-Magical_and_Mundane.md) | [Link to License: DeMystic CC](#demystic-cc)
 
 Adorn
