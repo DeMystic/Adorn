@@ -208,3 +208,15 @@ See the full Adorn Format Standard or the links to the licenses above for more d
 You are not restricted to picking between the two Licenses mentioned above. See [the other CC licenses](https://creativecommons.org/licenses) for more examples.
 
 Choose carefully before publish/upload a work with a license attached.  Many licenses are irrevocable.
+
+## 5: License for this Document
+
+The text of this abridged version of the standard is offered under a CC BY 4.0 License
+
+The below text summarizes what the license requires of you but is not a replacement for the license. See the link above for the license itself.
+
+You can not add any text to your document that implies that the authors of Adorn endorse your work. You also may not do anything to restrict others from using the text of the Adorn standard.
+
+Simply adding the credit to the adorn standard is generally enough for a document that implements the standard to be compliant. In many regions, implementing the standard in your document may even qualify as fair use and require no citation to Adorn at all (we still very much still appreciate the citation in that case, it helps us grow!)
+
+If you are using parts of this text to publish a new standard based on Adorn, you need to explicitly state in your document that you modified the original text of the Adorn Standard and link to both the Adorn Standard and the CC BY 4.0 license that it is shared under.
