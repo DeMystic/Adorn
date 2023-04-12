@@ -397,4 +397,5 @@ If you directly use text from this document in a document you distribute you nee
 - credit to "DeMystic" as the author of this work
 - a link to this document
 - a statement indicating if any changes were made to the text copied from this document
-- a link to the text of the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) that covers this document
+- a statement that the copied text is offered under a CC BY 4.0 License
+- a link to the text of the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
