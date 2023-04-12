@@ -706,21 +706,25 @@ Adorn
 
 # Acknowledgements
 
-Into the Odd
+Thanks to the following source and their authors for inspiration.
 
-Index Card RPG
+- Into the Odd
 
-Maze Rats
+- Index Card RPG
 
-Errant
+- Maze Rats
 
-Shadowdark
+- Errant
 
-B/X DnD
+- Shadowdark
 
-James Bennett
+- B/X D&D
 
-Koen Jorissen
+Thanks to the following people for their free sharing of ideas and fruitful discussions.
+
+- James Bennett
+
+- Koen Jorissen
 
 # License for this Document
 
