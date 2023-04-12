@@ -16,7 +16,7 @@ Never reference a source that simply copied the text you want to use verbatim fr
 
 Follow each opening comment of this type with a link to the credits section of your document of the following format:
 
-    [(name of author)](#title-of-source-work)
+    [(Credit: name of author)](#title-of-source-work)
 
 Use the name of the work as the hyperlink text in the odd case that there is no author name.
 
@@ -98,7 +98,7 @@ Place this comment at the end the paragraph if you modified the source text or i
 
 Follow each comment of this type with a link to the credits section of your document of the following format:
 
-    [(name of author)](#title-of-source-work)
+    [(Credit: name of author)](#title-of-source-work)
 
 Use the name of the work as the hyperlink text in the odd case that there is no author name.
 
