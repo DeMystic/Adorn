@@ -63,7 +63,7 @@ Never reference a source that simply copied the text you want to use verbatim fr
 
 Always follow a slot comment with an embedded link to the Credits section of your document using the following format:
 
-    [(name of author)](#title-of-source-work)
+    [(Credit: name of author)](#title-of-source-work)
 
 Use the name of the work as the hyperlink text in the odd case that there is no author name.
 (See the [Attribution](#5-attribution) section for more details)
@@ -142,7 +142,7 @@ If you modified the source text or intermingled it with your own text use this c
 
 Follow this comment with an embedded link to the credits section of your document of the following format:
 
-    [(name of author)](#title-of-source-work)
+    [(Credit: name of author)](#title-of-source-work)
 
 Use the name of the work as the hyperlink text in the odd case that there is no author name.
 (see the [Attribution](#5-attribution) section for more details)
