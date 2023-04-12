@@ -219,4 +219,4 @@ You can not add any text to your document that implies that the authors of Adorn
 
 Simply adding [the credit to the adorn standard](#313-crediting-adorn) is generally enough for a document that implements the standard to be compliant. In many regions, implementing the standard in your document may even qualify as fair use and require no citation to Adorn at all (we still very much still appreciate the citation in that case, it helps us grow!)
 
-If you are using parts of this text to publish a new standard based on Adorn, you need to explicitly state in your document that you modified the original text of the Adorn Standard and link to both the Adorn Standard and the CC BY 4.0 license that it is shared under.
+If you are using parts of this text to publish a new standard based on Adorn, you need to explicitly state in your document that you modified the original text of the Adorn Standard and link to both the Adorn Standard and the CC BY 4.0 license that it is shared under. You must also state explicitly that the text of Adorn is offered under the CC BY 4.0 license.
