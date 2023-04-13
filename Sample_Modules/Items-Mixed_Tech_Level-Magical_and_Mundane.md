@@ -269,7 +269,21 @@ A GM may, for example, roll a few times on this table to see what items may be i
 Weapons
 
 |1|30|flare gun|
-energy whip
+malmetal whip
+EM gun (fires metal objects smaller than 2cm x 2cm x 2cm, one battery per shot)
+baton
+mining laser (one battery per use)
+kinetic glove (metal glove wth a flywheel, energy stored on backswing then released when punching)
+pistol
+explosive bat (melee, a blank or normal bullet can be used to enhance the strike but is consumed)
+stabilized graphene knife
+stabilized graphene spear
+stabilized graphene sword
+spring loaded slingshot
+carbon fiber javelin
+carbide war hammer 
+
+Ammo
 
 Armor
 
