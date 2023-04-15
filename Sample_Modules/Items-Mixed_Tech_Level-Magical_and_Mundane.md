@@ -41,6 +41,12 @@ To find your starting equipment roll a d20 three times and look at the correspon
 
 <!---/Slot_Name: "1800s_Focused.Starting_Equipment"-->
 
+## 2100s Focused
+
+|d20|Equipment|
+|1|teflon flask of super acid (100mL, one time seal), butane lighter, butane tank,resin stabilized graphene knife|
+|2|gas mask, tear gas grenade(10m radius), bug spray, spring loaded slingshot|
+
 # Prison Shop Equipment
 ## 1800s Focused
 <!---Slot_Name: "1800s_Focused.Prison_Shop", Original-->
@@ -114,17 +120,57 @@ The list of items below are what the prison store commonly stocks.  They may sto
 |d8|Price|Ammunition|
 |-|-|-|
 |1|5|quiver of 10 arrows/bolts*|
-|2|30|box of 10 bullets|
+|2|30|box of 10 bullets/blanks|
 |3|30|smoke grenade|
 |4|40|flashbang|
 |5|60|bomb|
 |6|5|10 blow darts|
 |7|10|10 throwing stars|
-|8|20|box of 10 blank rounds|
+|8|20|tear gas grenade (10m radius)|
 
 *These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
 
 <!---/Slot_Name: "1800s_Focused.Weapons_and_Ammunition"-->
+
+## 2100s Focused
+<!---Slot_Name: "2100s_Focused.Weapons_and_Ammunition", Original-->
+
+|d100|Price|Damage|Weapon|
+|-|-|-|-|
+|1|30|d6|flare gun|
+|2|20|d8|Razor wire whip*|
+|3|10|d6|EM gun (fires any metal objects smaller than a walnut, one battery per shot)|
+|4|5|d4|baton*|
+|5|20|d10|mining laser* (one battery per shot)|
+|6|10|d6|kinetic glove (metal glove wth a flywheel, energy stored on backswing then released when punching)|
+|7|60|d10|pistol|
+|8|70|d10|explosive bat (melee, a blank or normal bullet can be used to enhance the strike but is consumed)|
+|9|10|d4|resin stabilized graphene knife|
+|10|50|d8|resin stabilized graphene spear*|
+|11|60|d8|resin stabilized graphene sword|
+|12|10|d4|spring loaded slingshot|
+|13|10|d6|composite javelin|
+|14|70|d10|carbide weighted sledge hammer*|
+|15|70|d10|carbide bladed axe*|
+|16|20|d6|carbide bolas|
+|17|10|d8|crossbow*|
+|>17|-|-|Nothing|
+
+|d8|Price|Ammunition|
+|-|-|-|
+|1|5|quiver of 10 arrows/bolts*|
+|2|30|box of 10 bullets|
+|3|30|smoke grenade|
+|4|40|stun grenade|
+|5|60|bomb|
+|6|5|10 carbide throwing darts|
+|7|20|box of 10 blank rounds|
+|8|5|flare gun round|
+
+*These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
+
+<!---/Slot_Name: "2100s_Focused.Weapons_and_Ammunition"-->
+
 
 # Armor
 ## 1800s Focused
@@ -142,6 +188,15 @@ The list of items below are what the prison store commonly stocks.  They may sto
 *These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
 
 <!---/Slot_Name: "1800s_Focused.Armor"-->
+
+## 2100s Focused
+
+<!---Slot_Name: "2100s_Focused.Armor", Copied_From, Original-->
+
+|1|60|energy armor|
+passive camo
+
+<!---/Slot_Name: "2100s_Focused.Armor"-->
 
 # Generic Items
 ## 1800s Focused
@@ -216,8 +271,8 @@ A GM may, for example, roll a few times on this table to see what items may be i
 |3|10|pocket knife||53|30|set of diamond files|
 |4|30|topical antiseptic||54|30|telescoping ladder (10m)*|
 |5|10|space blanket or sleeping bag||55|10|bag of 5 pitons (iron spikes)|
-|6|10|screwdriver with a replaceable magnetic bit||56|30|crampons|
-|7|20|set of magnetic screwdriver bits||57|10|carabiner|
+|6|10|screwdriver with a replaceable magnetic bits||56|30|crampons|
+|7|10|butane lighter||57|10|carabiner|
 |8|10|duct tape||58|30|ice pick*|
 |9|20|metal tape||59|40|bungee cord with hooked ends (1m)|
 |10|30|thermite welding/cutting charge (10cm length)||60|50|titanium wire 10m|
@@ -263,34 +318,6 @@ A GM may, for example, roll a few times on this table to see what items may be i
 |50|40|switchable magnetic grappling hook*||100|40|alcohol or drugs|
 
 <!---/Slot_Name: "2100s_Focused.Generic_Items"-->
-
-<!---placed here for the convenience of editing
-
-Weapons
-
-|1|30|flare gun|
-malmetal whip
-EM gun (fires metal objects smaller than 2cm x 2cm x 2cm, one battery per shot)
-baton
-mining laser (one battery per use)
-kinetic glove (metal glove wth a flywheel, energy stored on backswing then released when punching)
-pistol
-explosive bat (melee, a blank or normal bullet can be used to enhance the strike but is consumed)
-stabilized graphene knife
-stabilized graphene spear
-stabilized graphene sword
-spring loaded slingshot
-carbon fiber javelin
-carbide war hammer 
-
-Ammo
-
-Armor
-
-|1|60|energy armor|
-passive camo
-
--->
 
 # Battery Operated Items
 ## 1800s Focused
