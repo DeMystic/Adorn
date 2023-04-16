@@ -44,6 +44,7 @@ To find your starting equipment roll a d20 three times and look at the correspon
 ## 2100s Focused
 
 |d20|Equipment|
+|-|-|
 |1|teflon flask of super acid (100mL, one time seal), butane lighter, butane tank,resin stabilized graphene knife|
 |2|gas mask, tear gas grenade(10m radius), bug spray, spring loaded slingshot|
 |3|memory crystal(written once to contain one 1min memory, memory experienced on touch), 10mL bottle laughing gas(anesthetic, single use), stun gun, resin stabilized graphene knife|
