@@ -46,6 +46,25 @@ To find your starting equipment roll a d20 three times and look at the correspon
 |d20|Equipment|
 |1|teflon flask of super acid (100mL, one time seal), butane lighter, butane tank,resin stabilized graphene knife|
 |2|gas mask, tear gas grenade(10m radius), bug spray, spring loaded slingshot|
+|3|memory crystal(written once to contain one 1min memory, memory experienced on touch), 10mL bottle laughing gas(anesthetic, single use), stun gun, resin stabilized graphene knife|
+|4|bioluminescent paint (10mL, one time seal), 5 10min glow sticks, paracord 30m, kinetic glove (metal glove wth a flywheel, energy stored on backswing then released when punching)|
+|5|alarm clock, plastic plate vest*, resin stabilized graphene sword|
+|6|switchable blackout beacon (repels all light within 10m)*,  quantum lockpick (unlocks any mechanical lock, single use), cloak, resin stabilized graphene knife|
+|7|portable acetylene tank*, cutting torch head, butane lighter, resin stabilized graphene knife|
+|8|hammer*, bag of 5 pitons (iron spikes), paracord 30m, resin stabilized graphene knife|
+|9|welding glue(welds any two object together single use 10x10 cm area), carbide folding saw*, baton*|
+|10|thick rubber gloves, case of 3 empty glass vials, teflon flask of super base (100mL, one time seal), resin stabilized graphene knife|
+|11|kinetic battery(recharges itself in 1 hour), hard light projector (makes a solid hologram for 1min per battery, takes 1min to configure), baton*|
+|12|binoculars,walkie talkies,2x batteries, resin stabilized graphene knife|
+|13|carbide bolas, tear gas grenade(10m radius), padded armor*, flashlight|
+|14|multitool: hammer wrench pliers, 20 zip ties, duct tape, baton*|
+|15|Binoculars, Laser pointer, Crossbow*, 20 bolts*|
+|16|ferrocerium and magnesium rods, lantern(full, 1 hour), lantern oil(1 hour), carbide throwing darts|
+|17|kinetic battery(recharges itself in 1 hour), fpv drone, resin stabilized graphene knife, torch*|
+|18|resin stabilized graphene knife, Bag of marbles, Caltrops(10, small),lantern(full, 1 hour)|
+|19|lantern(full, 1 hour), nanofog grenade (thickens the air to the consistency of water in a 10m radius), rebreather (30 min)*,resin stabilized graphene knife|
+|20|bottle of whisky, Razor wire whip*, padded armor*|
+
 
 # Prison Shop Equipment
 ## 1800s Focused
@@ -120,13 +139,13 @@ The list of items below are what the prison store commonly stocks.  They may sto
 |d8|Price|Ammunition|
 |-|-|-|
 |1|5|quiver of 10 arrows/bolts*|
-|2|30|box of 10 bullets/blanks|
+|2|30|box of 10 bullets|
 |3|30|smoke grenade|
 |4|40|flashbang|
 |5|60|bomb|
 |6|5|10 blow darts|
 |7|10|10 throwing stars|
-|8|20|tear gas grenade (10m radius)|
+|2|30|box of 10 blank rounds|
 
 *These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
 
@@ -159,9 +178,9 @@ The list of items below are what the prison store commonly stocks.  They may sto
 |d8|Price|Ammunition|
 |-|-|-|
 |1|5|quiver of 10 arrows/bolts*|
-|2|30|box of 10 bullets|
-|3|30|smoke grenade|
-|4|40|stun grenade|
+|2|30|box of 10 bullets/blanks|
+|3|30|smoke grenade/flash bang|
+|4|40|tear gas grenade (10m radius)|
 |5|60|bomb|
 |6|5|10 carbide throwing darts|
 |7|20|box of 10 blank rounds|
@@ -271,12 +290,15 @@ A GM may, for example, roll a few times on this table to see what items may be i
 <!---/Slot_Name: "1800s_Focused.Generic_Items"-->
 
 ## 2100s Focused
+
+Note that thi list can be supplemented with the 1800s focused list.
+
 <!---Slot_Name: "2100s_Focused.Generic_Items", Original-->
 
 |d100|Price|Item Name||d100|Price|Item Name|
 |-|-|-|-|-|-|-|
 |1|30|switchable magnetic boots*||51|40|filtered respirator (gas mask)|
-|2|5|plastic water bottle||52|20|case of 3 empty glass vials|
+|2|5|simple clothing||52|20|case of 3 empty glass vials|
 |3|10|pocket knife||53|30|set of diamond files|
 |4|30|topical antiseptic||54|30|telescoping ladder (10m)*|
 |5|10|space blanket or sleeping bag||55|10|bag of 5 pitons (iron spikes)|
@@ -301,24 +323,24 @@ A GM may, for example, roll a few times on this table to see what items may be i
 |24|20|water purifier straw||74|30|chemical fire extinguisher*|
 |25|20|folding shovel*||75|40|telescoping pole (1m-10m)|
 |26|10|ferrocerium and magnesium rods||76|30|bioluminescent paint (10mL, one time seal)|
-|27|5|whistle||77|60|rebreather (30 min)*|
+|27|20|lantern or lantern oil(1 hour)||77|60|rebreather (30 min)*|
 |28|10|multitool: hammer wrench pliers||78|30|cryogenic liquid canister*|
-|29|10|memory polymer earplugs||79|30|sticky gecko whip (10m long 85kg carrying weight)*|
+|29|10|earplugs||79|30|sticky gecko whip (10m long 85kg carrying weight)*|
 |30|20|20 zip ties||80|70|switchable gravitational anchor (fixed in space when on)*|
 |31|20|chemical hand warmer||81|60|nanite disassembler (destroys 1m^3  of any material in 1 min, consumed on use)|
 |32|20|chemical ice pack||82|20|EMP grenade (single use, permanently breaks all electronics in a 10m range)|
 |33|10|folding saw (steel carbide or diamond)*||83|40|quantum lockpick (unlocks any mechanical lock, single use)|
 |34|60|portable atomic stove*||84|60|nanofog grenade (thickens the air to the consistency of water in a 10m radius)|
-|35|10|portable gas stove||85|70|clone_putty (single use, becomes a perfect copy of an object it touches that is less than 10x10x10cm)|
+|35|10|portable gas stove||85|70|clone putty (single use, becomes a perfect copy of an object it touches that is less than 10x10x10cm)|
 |36|10|binoculars||86|60|antigravity sled (1m diameter, 85kg limit)*|
 |37|10|bug spray||87|70|memory crystal(can be written once to contain one 1min memory, the memory is experienced when touched)|
-|38|10|20 safety pins||88|30|switchable magnetic gloves*|
+|38|10|20 safety pins||88|10|torch*|
 |39|30|10mL bottle laughing gas(anesthetic, single use)||89|70|energy sponge (adsorbs all electromagnetic energy that touches it, releases the energy when squeezed)*|
 |40|20|book of 20 waterproof matches||90|20|mirror paint (10mL, one time seal)|
 |41|20|paracord 30m||91|70|kinetic battery(recharges itself in 1 hour)|
 |42|10|hand mirror||92|70|time anchor (single use, freezes time in a 10m radius for 1min)*|
 |43|10|wire cutters||93|70|quantum tag (a compass that points to the lat object that it was paired with, pairing takes 1 min)|
-|44|20|bolt cutters||94|70|quantum AI (single use, 1min, a super intelligent AI)|
+|44|20|bolt cutters*||94|70|quantum AI (single use, 1min, a super intelligent AI)|
 |45|40|hasmat (environmental) suit*||95|30|welding glue(welds any two object together, single use, 10x10 cm area)|
 |46|10|plastic poncho||96|10|handcuffs|
 |47|10|chalk||97|30|switchable blackout beacon (repels all light within 10m)*|
@@ -344,7 +366,8 @@ A GM may, for example, roll a few times on this table to see what items may be i
 |8|50|healing nanobots (heal 1d4+1, consumed on use)|
 |9|40|metal detector*|
 |10|30|electric headlamp|
-|>10|-|Nothing|
+|11|100|box of 5 batteries|
+|>11|-|Nothing|
 
 *These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
 
@@ -394,13 +417,14 @@ A GM may, for example, roll a few times on this table to see what items may be i
 |36|20|smart phone|
 |37|40|healing nanobots (heal 1d4+1, consumed on use)|
 |38|20|metal detector*|
-|>38|-|Nothing|
+|39|50|box of 5 batteries|
+|>39|-|Nothing|
 
 *These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
 
 <!---/Slot_Name: "1800s_Focused.Battery_Powered_Items"-->
 
-# Magic_Item_Generators
+# Magic Item Generators
 ## 1800s Focused
 <!---Slot_Name: "1800s_Focused.Magic_Item_Generator", Original-->
 

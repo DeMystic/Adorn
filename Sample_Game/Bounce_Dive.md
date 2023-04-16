@@ -594,7 +594,7 @@ A GM may, for example, roll a few times on this table to see what items may be i
 ### Battery Operated
 These items are definitely not of this world.
 
-Consider having batteries die quickly in the ruin (e.g. all batteries brought into the ruin die after one dive, weather the party uses them or not.). If you do this, stock one or two batteries in your shop before each dive and charge ~20 tokens for one.
+Consider having batteries die quickly in the ruin (e.g. all batteries brought into the ruin die after one dive, weather the party uses them or not.). If you do this, stock one or two batteries in your shop before each dive and charge ~20 tokens for one. 5 batteries per inventory slot is recommended.
 
 Also consider making these items ruin loot only.  If you stock them in your shop, consider rolling a d100 to pick which one and only picking one if the roll is 10 or less
 
@@ -613,7 +613,8 @@ Also consider making these items ruin loot only.  If you stock them in your shop
 |8|50|healing nanobots (heal 1d4+1, consumed on use)|
 |9|40|metal detector*|
 |10|30|electric headlamp|
-|>10|-|Nothing|
+|11|100|box of 5 batteries|
+|>11|-|Nothing|
 
 *These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
 
