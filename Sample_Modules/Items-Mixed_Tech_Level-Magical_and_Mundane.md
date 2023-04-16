@@ -107,6 +107,48 @@ The list of items below are what the prison store commonly stocks.  They may sto
 
 <!---/Slot_Name: "1800s_Focused.Prison_Shop"-->
 
+## 2100s Focused
+
+<!---Slot_Name: "2100s_Focused.Prison_Shop", Original-->
+
+In the prison store, Divers may exchange the tokens given to them for completing missions on "new" equipment.  The prison store always offers some items, but others come and go.  Maybe these items are traded from other prison camps like yours?  Maybe they are dredged up by other Divers?  The guards never say.
+
+The list of items below are what the prison store commonly stocks.  They may stock other items at your GM's discretion.  A list of other items that they may stock can be found in the appendix under mundane items.  Artifacts will only ever be accidentally sold here.
+
+### Weapons and Ammunition
+|Price|Item|
+|-|-|
+|10|resin reinforced graphene knife (d4 damage)|
+|5|baton* (d4 damage)|
+|30|resin reinforced graphene spear* (d8 damage)|
+|5|spring loaded slingshot (d4 damage)|
+|20|bow (d6 damage)|
+|5|quiver of 10 arrows*|
+|5|10 carbide throwing darts|
+
+*These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
+
+
+### Tools
+|Price|Item|
+|-|-|
+|10|ferrocerium and magnesium rods|
+|5|tinder box|
+|5|torch*|
+|20|flask of lamp/lantern oil (1 hour)|
+|10|hammer*|
+|10|bag of 5 pitons (iron spikes)|
+|20|paracord (30m)|
+|10|empty polymer water bladder|
+|5|small bag|
+|5|cloth clothing|
+|5|5 energy bars (food)|
+|50|box of 5 batteries|
+
+*These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
+
+<!---/Slot_Name: "2100s_Focused.Prison_Shop"-->
+
 # Weapons and Ammunition
 ## 1800s Focused
 
@@ -173,7 +215,8 @@ The list of items below are what the prison store commonly stocks.  They may sto
 |15|70|d10|carbide bladed axe*|
 |16|20|d6|carbide bolas|
 |17|10|d8|crossbow*|
-|>17|-|-|Nothing|
+|18|10|bow|d6|
+|>18|-|-|Nothing|
 
 |d8|Price|Ammunition|
 |-|-|-|
@@ -298,7 +341,7 @@ Note that thi list can be supplemented with the 1800s focused list.
 |d100|Price|Item Name||d100|Price|Item Name|
 |-|-|-|-|-|-|-|
 |1|30|switchable magnetic boots*||51|40|filtered respirator (gas mask)|
-|2|5|simple clothing||52|20|case of 3 empty glass vials|
+|2|5|simple clothing/pouches||52|20|case of 3 empty glass vials|
 |3|10|pocket knife||53|30|set of diamond files|
 |4|30|topical antiseptic||54|30|telescoping ladder (10m)*|
 |5|10|space blanket or sleeping bag||55|10|bag of 5 pitons (iron spikes)|
@@ -458,6 +501,10 @@ Its up to the GM to make and interpret the results in a way that is fun without 
 |20|Pen, pencil, or page|Animate or reanimate|Authority|The object is tricky to use and requires a skill check of some kind|
 
 <!---/Slot_Name: "1800s_Focused.Magic_Item_Generator"-->
+
+## 2100s Focued
+
+Just use the 1800s table.  Optionally replace some or all of the items with items from the 2100s focused item list.
 
 # License for this Document
 
