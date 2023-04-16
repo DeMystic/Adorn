@@ -193,8 +193,17 @@ The list of items below are what the prison store commonly stocks.  They may sto
 
 <!---Slot_Name: "2100s_Focused.Armor", Copied_From, Original-->
 
-|1|60|energy armor|
-passive camo
+|Price|Type|Armor Rating|
+|-|-|-|
+|20|padded*|+1|
+|30|plastic plate vest*|+1|
+|30|kevlar|+1|
+|40|chain mail*|+2|
+|40|riot gear*|+2|
+|50|ceramic plate|+2|
+|60|reactive armor (single use)|+3|
+
+*These items are heavy and may take up more space in your inventory.  See the Inventory section for details.
 
 <!---/Slot_Name: "2100s_Focused.Armor"-->
 
