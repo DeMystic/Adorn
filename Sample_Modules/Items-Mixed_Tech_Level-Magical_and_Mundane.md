@@ -504,7 +504,7 @@ Its up to the GM to make and interpret the results in a way that is fun without 
 
 ## 2100s Focued
 
-Just use the 1800s table.  Optionally replace some or all of the items with items from the 2100s focused item list.
+Use the above 1800s table.  Optionally replace some or all of the items with items from the 2100s focused item list.
 
 # License for this Document
 
