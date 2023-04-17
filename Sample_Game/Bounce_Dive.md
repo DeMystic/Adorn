@@ -318,7 +318,7 @@ If this is too much pressure or feels unfair to the players, consider using a ti
 
 Consider letting the players "Pause" the game to ask about rules.
 
-If an action takes much longer to do in game than it takes to say (e.g. "I build a barricade.")  have the players roll a check to see how fast they work and then give them a 
+If an action takes much longer to do in game than it takes to say (e.g. "I build a barricade.")  have the players roll a check to see how fast they work and then give them a faster but appropriate time for a better roll.
 <!---/Slot_Name: "Simple_Realtime"-->
 
 ## Acclimation
