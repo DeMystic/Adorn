@@ -175,10 +175,10 @@ If you carry more than 5 + STR it is assumed that you are lugging things around 
 <!---/Slot_Name: "Inventory"-->
 
 # Distance
-<!---Slot_Name: "Distance", Copied_From, Source_Slot: "Close_Near_Far", Link: "XXX"-->
+<!---Slot_Name: "Distance", Copied_From, Source_Slot: "Touch_Near_Far", Link: "XXX"-->
 
 In the ruins, distance is broken down into three relevant ranges:
-- Close (less than 2m* away)
+- Touch (less than 2m* away)
   - You can touch it
   - You can hit it with a melee weapon
 - Near (In the same room and within 30m*)
@@ -190,7 +190,7 @@ In the ruins, distance is broken down into three relevant ranges:
 
 *a meter is just a yard, if you want to use freedom units
 
-In one combat turn, a player may move from one distance range to an adjacent one (e.g. Close to Near, not Close to Far).  Note that it may take longer to move from Far to Near depending on how far away the player is.  How to handle this is up to the GM, see Fleeing and Chasing below for some ideas.
+In one combat turn, a player may move from one distance range to an adjacent one (e.g. Touch to Near, not Touch to Far).  Note that it may take longer to move from Far to Near depending on how far away the player is.  How to handle this is up to the GM, see Fleeing and Chasing below for some ideas.
 <!---/Slot_Name: "Distance"-->
 
 # Encountering Creatures
@@ -258,13 +258,13 @@ Moving:
 <!---/Slot_Name: "Combat"-->
 
 ## Fleeing and Chasing
-<!---Slot_Name: "Fleeing", Copied_From, Source_Slot: "Close_Near_Far.Check_vs_Check_Fleeing", Link: "XXX"-->
+<!---Slot_Name: "Fleeing", Copied_From, Source_Slot: "Touch_Near_Far.Check_vs_Check_Fleeing", Link: "XXX"-->
 
 This is one way to handle running from combat.  Knowing when to disengage is critical to surviving the ruin.
 
 If you want to flee combat, you must try to outrun your enemy.  Note that most creatures are highly territorial and wont chase you further than a few rooms.
 
-When fleeing or chasing, all members of the party fleeing and the party chasing roll Chase Checks (Strength checks) to see how fast they can go. Each party takes the lowest value rolled by a member of that party as the check for that party.  The party with the highest Chase Check changes the distance between the two parties in their favor by one unit. So Close could become Near, or Near could become Far.  If the parties are already far apart, then the distance continues to change in 30m increments. 
+When fleeing or chasing, all members of the party fleeing and the party chasing roll Chase Checks (Strength checks) to see how fast they can go. Each party takes the lowest value rolled by a member of that party as the check for that party.  The party with the highest Chase Check changes the distance between the two parties in their favor by one unit. So Touch could become Near, or Near could become Far.  If the parties are already far apart, then the distance continues to change in 30m increments. 
 
 Attacks can be made by Fleeing or Chasing creatures if the attacker is in range after resolving the Chase Check. Attacking during a chase gives the attacker a -3 penalty to their next Chase Check.  The chasing creatures also take a -3 to their next Chase Check if they choose to dodge an incoming attack from the fleeing party. Members of the Fleeing party may dodge incoming attacks without incurring any penalty.
 
