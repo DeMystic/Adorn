@@ -340,7 +340,7 @@ The longest time extension physically attainable by acclimation is 2 hours.
 
 # Death
 
-By default, when a character dies, it is final.  The player may rejoin the next dive with a new character.  They may make that new character while the party finishes the current dive.
+By default, when a character dies it is final.  The player of a dead character must then wait to rejoin the next dive with a new character and may make that new character while the party finishes the current dive.
 
 However, this can be a little harsh for some players, and bring down the mood in a game. Below are two house rules that can make death more forgiving and interesting.  If you run these house rules, tie the mechanics to the Bell that each party already carries to stave off the curse.
 
