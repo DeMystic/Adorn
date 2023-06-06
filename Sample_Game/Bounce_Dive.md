@@ -344,17 +344,17 @@ By default, when a character dies, it is final.  The player of a dead character 
 
 For some GMs and parties, this harsh mechanic can bring down the mood of a game. Below are two house rules that can make death more forgiving and interesting.  If you run these house rules, tie the mechanics to the Bell that each party already carries to stave off the curse.
 
-## Calling for Reinforcements:
+## Calling for Reinforcements
 <!---Slot_Name: "Death_Regen", Copied_From, Source_Slot: "Death_Regen", Link: "XXX"-->
 
-Upon a diver dying, the remaining divers may summon a new comrade by ringing their Bell once and then waiting in place for 5 min.  If they do so, a new prisoner from the camp materializes to take their fallen comrade's place.  Note that wandering monsters are likely to find the divers while they wait and the that moving to another room in the ruin will reset this timer and require them to ring the bell if they wish to start summoning again.
+Upon a diver dying, the remaining divers may summon a new comrade by ringing their Bell once and then waiting in place for 5 min.  If they do so, a new prisoner from the camp materializes to take their fallen comrade's place.  Note that wandering monsters are likely to find the divers while they wait. Furthermore, moving to another room in the ruin will stop the summoning and require them to ring the bell again if they wish to start summoning again.
 
 <!---/Slot_Name: "Death_Regen"-->
 
 ## A Ghoulish End
 <!---Slot_Name: "Death_Ghoul", Copied_From, Source_Slot: "Death_Ghoul", Link: "XXX"-->
 
-Upon a diver dying, they become a Goul that lives for an additional 5 min.  If they kill another diver in that time, they come back to life and that second diver dies in their place.  A diver killed by a Ghoul does not come back as a Ghoul.
+Upon a diver dying, they become a Goul that lives for an additional 5 min.  If they kill another diver in this time, they come back to life and that second diver dies in their place.  A diver killed by a Ghoul does not come back as a Ghoul.
 
 <!---/Slot_Name: "Death_Ghoul"-->
 
