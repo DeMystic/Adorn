@@ -293,19 +293,25 @@ To hide, you roll an Awareness check (the GM may give you a bonus based on your 
 # The Curse
 <!---Slot_Name: "The_Curse", Copied_From, Source_Slot: "Cursed_on_Return", Link: "XXX"-->
 
-The longer a diver spends in the ruin, the more they are punished by its curse.  Returning to the surface after spending too long below causes strange mutations to warp the diver.
+The ruin is pervaded by a curse that would mutate beyond recognition any living thing that tries to leave it.  Luckily, each team of divers are given an artifact, a small Bell, that can hold off this ill effect as they surface.  But be wary, the power of the Bell is finite.  Even with a Bell, the longer a diver spends below, the more twisted they are upon their return.
 
-Upon their return:
-- Less than 60 min below leaves the fiver nauseous but unchanged.
+The following effects occur to characters as they ride the finial lift back to the surface.
+
+Upon returning with a Bell:
+- Less than 60 min below leaves the diver nauseous but unchanged.
 - More than 60 min below gives the diver one mild mutation.
 - More than 90 min below gives the diver two mild mutations.
 - More than 120 min below gives the diver one mild mutation and one severe mutation.
 - More than 150 min below gives the diver two severe mutations.
-- Spending longer than 180 min below results in death upon return.
+- Spending longer than 180 min below results in three severe mutations and total madness upon return.
+
+Upon returning without a Bell:
+- More than 60 min below gives the diver one mild mutation and one severe mutation.
+- More than 90 min below results in three severe mutations and total madness upon return.
 
 Mild mutations are generally slightly inconvenient, but some can be quite bad for some divers.  They are rarely positive.
 
-Severe mutations are generally debilitating.  Players who receive sever mutations may consider retiring their character afterwards.
+Severe mutations are generally debilitating.  Players who receive sever mutations may consider retiring their character afterwords.
 
 Mutations can be determined by rolling on the mutation tables in the appendix.
 
@@ -331,6 +337,26 @@ Acclimation extends all times required for the various levels of the curse to ta
 The longest time extension physically attainable by acclimation is 2 hours.
 
 <!---/Slot_Name: "Acclimation"-->
+
+# Death
+
+By default, when a character dies, it is final.  The player may rejoin the next dive with a new character.  They may make that new character while the party finishes the current dive.
+
+However, this can be a little harsh for some players, and bring down the mood in a game. Below are two house rules that can make death more forgiving and interesting.  If you run these house rules, tie the mechanics to the Bell that each party already carries to stave off the curse.
+
+## Calling for Reinforcements:
+<!---Slot_Name: "Death_Regen", Copied_From, Source_Slot: "Death_Regen", Link: "XXX"-->
+
+Upon a diver dying, the remaining divers may summon a new comrade by ringing their Bell once and then waiting in place for 5 min.  If they do so, a new prisoner from the camp materializes to take their fallen comrade's place.  Note that wandering monsters are likely to find the divers while they wait and the that moving to another room in the ruin will reset this timer and require them to ring the bell if they wish to start summoning again.
+
+<!---/Slot_Name: "Death_Regen"-->
+
+## A Ghoulish End
+<!---Slot_Name: "Death_Ghoul", Copied_From, Source_Slot: "Death_Ghoul", Link: "XXX"-->
+
+Upon a diver dying, they become a Goul that lives for an additional 5 min.  If they kill another diver in that time, they come back to life and that second diver dies in their place.  A diver killed by a Ghoul does not come back as a Ghoul.
+
+<!---/Slot_Name: "Death_Ghoul"-->
 
 # Embarking
 <!---Slot_Name: "Embarking", Copied_From, Source_Slot: "Ice_Prison_Embark", Link: "XXX"-->
