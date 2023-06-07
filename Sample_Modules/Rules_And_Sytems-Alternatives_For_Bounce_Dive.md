@@ -4,7 +4,7 @@ Module of rules and systems that could easily be swapped in for some of those cu
 
 # Core Attributes
 ## Bounce Dive Default
-The default attributes used in Bounce Dive. Willpower is lumped into charisma. Both intelligence and common sense are lumped into Craftiness.
+The default attributes used in Bounce Dive. Willpower is lumped into Charisma. Both intelligence and common sense are lumped into Craftiness.
 
 <!---Slot_Name: "Bounce_Dive_Default_Six.Attributes", Original-->
 Your character has six attributes relevant to your dive:
@@ -29,38 +29,31 @@ Any other attributes are up to you and the GM.
 ## Lumped Intuition
 Common sense, charisma and perception are lumped into Intuition to make room for resolve
 
-- **Strength** is for: carrying more things, running fast, moving heavy things, etc...
-  - Anyone can push a small wooden crate, few people can bust down a hardwood door in a single blow.
-- **Reflex** is for: dodging attacks, climbing, dexterity, etc...
-  - Anyone can climb a rope. Few people can scale a sheer stone wall.
-- **Endurance** is for: surviving attacks, resisting ill physical effects, toughness, etc...
-  - Anyone can stand a slight chill. Few can survive on a glacier for hours without proper gear.
-
-Strength 	(STR) 	physical strength
-Endurance 	(END) 	resistance to getting hurt (fitness as opposed to sickliness)
-Reflex 		(REF)	coordination and speed
-Intuition 	(INU)	your common sense and people smarts
-Intelligence	(INT)	book smarts
-Resolve		(RES)	Strength of will
+-Strength 	(STR) 	physical strength
+-Endurance 	(END) 	resistance to getting hurt (fitness as opposed to sickliness)
+-Reflex 		(REF)	coordination and speed
+-Intuition 	(INU)	your common sense and people smarts
+-Intelligence	(INT)	book smarts
+-Resolve		(RES)	Strength of will
 
 ## Lumped Wisdom
 Resolve perception and common sense are lumped into Wisdom.
 
-Strength 	(STR) 	physical strength
-Endurance 	(END) 	resistance to getting hurt (fitness as opposed to sickliness)
-Reflex 		(REF)	coordination and speed
-Charisma 	(CHR)	people smarts and charm
-Intelligence	(INT)	book smarts
-Wisdom		(WIS)	strength of will, common sense and perception
+-Strength 	(STR) 	physical strength
+-Endurance 	(END) 	resistance to getting hurt (fitness as opposed to sickliness)
+-Reflex 		(REF)	coordination and speed
+-Charisma 	(CHR)	people smarts and charm
+-Intelligence	(INT)	book smarts
+-Wisdom		(WIS)	strength of will, common sense and perception
 
 # Expanded
 
-Strength  (STR)  physical strength
-Endurance  (END)  resistance to getting hurt (fitness as opposed to sickliness)
-Reflex   (REF) coordination and speed
-Charisma  (CHR) people smarts and charm
-Intelligence (INT) book smarts
-Resolve (WIS) strength of will, common sense and perception
-Intuition  (INU) common sense
-Perception  (PER) Awareness of surroundings
+-Strength  (STR)  physical strength
+-Endurance  (END)  resistance to getting hurt (fitness as opposed to sickliness)
+-Reflex   (REF) coordination and speed
+-Charisma  (CHR) people smarts and charm
+-Intelligence (INT) book smarts
+-Resolve (WIS) strength of will, common sense and perception
+-Intuition  (INU) common sense
+-Perception  (PER) Awareness of surroundings
 
