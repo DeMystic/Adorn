@@ -1,5 +1,5 @@
 # Bounce Dive
-<!---Slot_Name: "Intro", Copied_From, Source_Slot: "Ice_Prison_Intro", Link: "XXX"-->
+<!---Slot_Name: "Intro", Original-->
 
 You are a hapless prisoner, locked in an icy camp, far from anywhere.
 
