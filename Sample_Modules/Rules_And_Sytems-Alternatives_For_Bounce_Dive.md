@@ -54,7 +54,7 @@ Resolve perception and common sense are lumped into Wisdom.
 - Reflex   (REF) coordination and speed
 - Charisma  (CHR) people smarts and charm
 - Intelligence (INT) book smarts
-- Resolve (WIS) strength of will, common sense and perception
+- Resolve (WIS) strength of will.
 - Intuition  (INU) common sense
 - Perception  (PER) Awareness of surroundings
 
