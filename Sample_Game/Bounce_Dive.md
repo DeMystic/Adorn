@@ -165,7 +165,7 @@ Armor is not sold by default, but may be available on occasion.  All armor has a
 # Inventory
 <!---Slot_Name: "Inventory", Copied_From, Source_Slot: "Slots", Link: "XXX"-->
 
-A Diver's inventory is mde up of slots.  Most items take up one slot, items that are heavy take up two slots.  Some items may take up more than two slots, but this will be explicitly stated if it is the case.
+A Diver's inventory is mde up of slots.  Most items take up one slot, items that are heavy take up two slots.  Some items may take up more than two slots, but this will be explicitly stated if it is the chase.
 
 Small items will often fit into a bag or case of 10 or 20.  These small containers often take up a single slot or two slots.
 
