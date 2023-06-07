@@ -46,7 +46,8 @@ Resolve perception and common sense are lumped into Wisdom.
 - Intelligence	(INT)	book smarts
 - Wisdom		(WIS)	strength of will, common sense and perception
 
-# Expanded
+## Expanded Attributes
+8 Core attributes with slightly less arificial groupings than many 6 attribute systems.
 
 - Strength  (STR)  physical strength
 - Endurance  (END)  resistance to getting hurt (fitness as opposed to sickliness)
