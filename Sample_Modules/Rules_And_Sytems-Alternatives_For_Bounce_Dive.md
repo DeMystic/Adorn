@@ -52,9 +52,9 @@ Resolve perception and common sense are lumped into Wisdom.
 - Strength  (STR)  physical strength
 - Endurance  (END)  resistance to getting hurt (fitness as opposed to sickliness)
 - Reflex   (REF) coordination and speed
-- Charisma  (CHR) people smarts and charm
+- Perception  (PER) awareness of surroundings
 - Intelligence (INT) book smarts
-- Resolve (WIS) strength of will.
 - Intuition  (INU) common sense
-- Perception  (PER) Awareness of surroundings
+- Charisma  (CHR) people smarts and charm
+- Resolve (RES) strength of will
 
