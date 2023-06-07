@@ -260,13 +260,13 @@ Moving:
 ## Fleeing and Chasing
 <!---Slot_Name: "Fleeing", Copied_From, Source_Slot: "Touch_Near_Far.Check_vs_Check_Fleeing", Link: "XXX"-->
 
-This is one way to handle running from combat.  Knowing when to disengage is critical to surviving the ruin.
+Knowing when to disengage is critical to surviving the ruin. This is one way fo the GM to resolve running from combat.
 
 If you want to flee combat, you must try to outrun your enemy.  Note that most creatures are highly territorial and wont chase you further than a few rooms.
 
 When fleeing or chasing, all members of the party fleeing and the party chasing roll Chase Checks (Strength checks) to see how fast they can go. Each party takes the lowest value rolled by a member of that party as the check for that party.  The party with the highest Chase Check changes the distance between the two parties in their favor by one unit. So Touch could become Near, or Near could become Far.  If the parties are already far apart, then the distance continues to change in 30m increments. 
 
-Attacks can be made by Fleeing or Chasing creatures if the attacker is in range after resolving the Chase Check. Attacking during a chase gives the attacker a -3 penalty to their next Chase Check.  The chasing creatures also take a -3 to their next Chase Check if they choose to dodge an incoming attack from the fleeing party. Members of the Fleeing party may dodge incoming attacks without incurring any penalty.
+Attacks can be made by Fleeing or Chasing creatures if the attacker is in range after resolving all Chase Checks for that round. Attacking during a chase gives the attacker a -3 penalty to their next Chase Check.  The chasing creatures also take a -3 to their next Chase Check if they choose to dodge an incoming attack from the fleeing party. Members of the Fleeing party may dodge incoming attacks without incurring any penalty.
 
 The case ends when:
 - One party gives up
