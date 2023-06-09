@@ -6,7 +6,7 @@ Module of rules and systems that could easily be swapped in for some of those cu
 ## Bounce Dive Default
 The default attributes used in Bounce Dive. Willpower is lumped into Charisma. Both intelligence and common sense are lumped into Craftiness.
 
-<!---Slot_Name: "Bounce_Dive_Default_Six.Attributes", Original-->
+<!---Slot_Name: "Bounce_Dive_Default.Attributes", Original-->
 Your character has six attributes relevant to your dive:
 
 - **Strength** is for: carrying more things, running fast, moving heavy things, etc...
@@ -24,37 +24,72 @@ Your character has six attributes relevant to your dive:
 
 Any other attributes are up to you and the GM.
 
-<!---/Slot_Name: "Bounce_Dive_Default_Six.Attributes"-->
+<!---/Slot_Name: "Bounce_Dive_Default.Attributes"-->
 
 ## Lumped Intuition
-Common sense, charisma and perception are lumped into Intuition to make room for resolve
+Common sense, charisma and perception are lumped into Intuition to make room for resolve.
 
-- Strength 	(STR) 	physical strength
-- Endurance 	(END) 	resistance to getting hurt (fitness as opposed to sickliness)
-- Reflex 		(REF)	coordination and speed
-- Intuition 	(INU)	your common sense and people smarts
-- Intelligence	(INT)	book smarts
-- Resolve		(RES)	Strength of will
+<!---Slot_Name: "Lumped_Intuition.Attributes", Original-->
+Your character has six attributes relevant to your dive:
+
+- **Strength** is for: carrying more things, running fast, moving heavy things, etc...
+  - Anyone can push a small wooden crate, few people can bust down a hardwood door in a single blow.
+- **Dexterity** is for: dodging attacks, climbing, reflexes, etc...
+  - Anyone can climb a rope. Few people can scale a sheer stone wall.
+- **Endurance** is for: surviving attacks, resisting ill physical effects, toughness, etc...
+  - Anyone can stand a slight chill. Few can survive on a glacier for hours without proper gear.
+- **Intuition** is for: common sense, quick thinking, people smarts, perception, etc...
+  - Anyone can calm a starving monster with food. Few can charm a sphinx.
+- **Intelligence** is for:	book smarts, learning, recalling information, etc...
+  - Anyone can speak the common tongue. Few can recall the details of an arcane text they read years ago.
+- **Resolve** is for: willpower, resisting influence of others, etc...
+  - Anyone can stick with a simple task. Few can gaze upon nightmarish scenes and remain unfazed.
+
+<!---/Slot_Name: "Lumped_Intuition.Attributes", Original-->
 
 ## Lumped Wisdom
 Resolve perception and common sense are lumped into Wisdom.
 
-- Strength 	(STR) 	physical strength
-- Endurance 	(END) 	resistance to getting hurt (fitness as opposed to sickliness)
-- Reflex 		(REF)	coordination and speed
-- Charisma 	(CHR)	people smarts and charm
-- Intelligence	(INT)	book smarts
-- Wisdom		(WIS)	strength of will, common sense and perception
+<!---Slot_Name: "Lumped_Wisdom.Attributes", Original-->
+Your character has six attributes relevant to your dive:
+
+- **Strength** is for: carrying more things, running fast, moving heavy things, etc...
+  - Anyone can push a small wooden crate, few people can bust down a hardwood door in a single blow.
+- **Dexterity** is for: dodging attacks, climbing, reflexes, etc...
+  - Anyone can climb a rope. Few people can scale a sheer stone wall.
+- **Endurance** is for: surviving attacks, resisting ill physical effects, toughness, etc...
+  - Anyone can stand a slight chill. Few can survive on a glacier for hours without proper gear.
+- **Charisma** is for: making people/creatures like you, persuading, resisting persuasion, etc...
+  - Anyone can calm a starving monster with food. Few can charm a sphinx.
+- **Intelligence** is for:	book smarts, learning, recalling information, etc...
+  - Anyone can speak the common tongue. Few can recall the details of an arcane text they read years ago.
+- **Wisdom** is for:	strength of will, common sense, perception, etc...
+  - Anyone can tell when a cheeky child is lying. Few can unravel the plans of a sage dragon
+
+<!---/Slot_Name: "Lumped_Wisdom.Attributes", Original-->
 
 ## Expanded Attributes
 8 Core attributes with slightly less arificial groupings than many 6 attribute systems.
 
-- Strength  (STR)  physical strength
-- Endurance  (END)  resistance to getting hurt (fitness as opposed to sickliness)
-- Reflex   (REF) coordination and speed
-- Perception  (PER) awareness of surroundings
-- Intelligence (INT) book smarts
-- Intuition  (INU) common sense
-- Charisma  (CHR) people smarts and charm
-- Resolve (RES) strength of will
+<!---Slot_Name: "Expanded.Attributes", Original-->
+Your character has eight attributes relevant to your dive:
+
+- **Strength** is for: carrying more things, running fast, moving heavy things, etc...
+  - Anyone can push a small wooden crate, few people can bust down a hardwood door in a single blow.
+- **Dexterity** is for: dodging attacks, climbing, reflexes, etc...
+  - Anyone can climb a rope. Few people can scale a sheer stone wall.
+- **Endurance** is for: surviving attacks, resisting ill physical effects, toughness, etc...
+  - Anyone can stand a slight chill. Few can survive on a glacier for hours without proper gear.
+- **Perception** is for: noticing hidden things, situational awareness, etc...
+  - Anyone can notice a pit in the iddle of a hallway.  Few can spot a camouflage hunter in a distant blind.
+- **Charisma** is for: making people/creatures like you, persuading, resisting persuasion, etc...
+  - Anyone can calm a starving monster with food. Few can charm a sphinx.
+- **Intelligence** is for:	book smarts, learning, recalling information, etc...
+  - Anyone can speak the common tongue. Few can recall the details of an arcane text they read years ago.
+- **Intuition** is for: lateral thinking, common sense, quick thinking, etc...
+  - Anyone can understand a careful explanation. Few can learn a craft simply by watching a master.
+- **Resolve** is for: willpower and resisting influence of others.
+  - Anyone can stick with a simple task. Few can gaze upon nightmarish scenes and remain unfazed.
+
+<!---/Slot_Name: "Expanded.Attributes", Original-->
 
