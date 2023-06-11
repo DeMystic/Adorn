@@ -162,7 +162,7 @@ At the GM's discretion players may make an appropriate attribute check to attemp
 |2d10|Instant|Short|Long|
 |-|-|-|-|
 |2|12s|2m|20 min|
-|3|12s|1m|
+|3|12s|2m|
 |4|11s|1m 50s|
 |5|11s|1m 50s|
 |6|10s|1m 40s|
