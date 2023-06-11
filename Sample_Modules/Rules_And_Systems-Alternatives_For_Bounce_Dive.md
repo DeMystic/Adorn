@@ -127,3 +127,63 @@ A 0 is slightly below average, a 1 is average, a 2 is good and a 3 is exceptiona
 
 <!---/Slot_Name: "Expanded.Attributes", Original-->
 
+# Timekeeping
+## Simple Realtime
+<!---Slot_Name: "Simple_Realtime", Original-->
+
+Time is kept in realtime.  This means that the GM must be well prepared. Favor reacting quickly to reacting correctly. Try to keep the description of rooms to less than 50 words, consider mapping for your players.  Drawing a simple node map (boxes connected by lines) can be enough.
+
+If this is too much pressure or feels unfair to the players, consider using a timer that only runs when the players are acting.
+
+Consider letting the players "Pause" the game to ask about rules.
+
+If an action takes much longer to do in game than it takes to say (e.g. "I build a barricade.")  have the players roll a check to see how fast they work and then give them a faster but appropriate time for a better roll.
+<!---/Slot_Name: "Simple_Realtime", Original-->
+
+## Split Realtime
+<!---Slot_Name: "Split_Realtime", Original-->
+
+Time is kept in realtime for the players, but pauses when the GM begins to act.  THis includes describing rooms and deciding outcomes of actions.  Use a chess clock or similar clock for this.  If the players begin to delliberate while the GM is talking/deciding outcomes, the GM should overtly restart the players' clock.
+
+Consider letting the players "Pause" the game to ask about rules.
+
+If an action takes much longer to do in game than it takes to say (e.g. "I build a barricade.")  have the players roll a check to see how fast they work and then give them a faster but appropriate time for a better roll.
+<!---/Slot_Name: "Split_Realtime", Original-->
+
+## Tabulated Turn-Based
+<!---Slot_Name: "Tabulated_Turn-Based", Original-->
+
+Time is kept only on paper.  Actions are instant (6 seconds), short (1 minutes), or long (10 minutes) by default. 
+
+EAMPLES OF TASKS AND TMIES HERE
+
+At the GM's discretion players may make an appropriate attribute check to attempt to do something faster.  If they fail the check, then the action takes longer than it would have otherwise.  In general these adjustments should be proportional to the amount of time the task would have originally taken. For example, depending on the outcome of a check: an instant action may take 3 to 12 seconds, a short action may take 30 seconds to 2 minutes, and a long action may take 5 to 20 minutes.  See table below.
+
+|2d10|Instant|Short|Long|
+|-|-|-|-|
+|2|12s|2m|20 min|
+|3|12s|1m|
+|4|11s|1m 50s|
+|5|11s|1m 50s|
+|6|10s|1m 40s|
+|7|10s|1m 40s|
+|8|9s|1m 30s|
+|9|8s|1m 20s|
+|10|7s|1m 10s|
+|11|6s|1m|10 min|
+|12|
+|13|
+|14|
+|15|
+|16|
+|17|
+|18|
+|19|
+|20|3 sec|30 sec|10 min|
+
+For the above table: s = seconds, m = minutes 
+
+Before rolling to see how quickly the complete a task, the payers may state a maximum time that they would spend on the task. If the check results in a time longer than this, the players may choose to spend the extra time to finish the task, or leave the task incomplete.  If the incomplete task is take up again later, the players must spend at least the remaining time from the original roll to finish the task. 
+
+<!---/Slot_Name: "Tabulated_Turn-Based", Original-->
+
