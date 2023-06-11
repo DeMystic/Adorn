@@ -161,16 +161,16 @@ At the GM's discretion players may make an appropriate attribute check to attemp
 
 |2d10|Instant|Short|Long|
 |-|-|-|-|
-|2|12s|2m|20 min|
-|3|12s|2m|
-|4|11s|1m 50s|
-|5|11s|1m 50s|
-|6|10s|1m 40s|
-|7|10s|1m 40s|
-|8|9s|1m 30s|
-|9|8s|1m 20s|
-|10|7s|1m 10s|
-|11|6s|1m|10 min|
+|2|12s|2m|20m|
+|3|12s|2m|20m|
+|4|11s|1m 50s|18m 20s|
+|5|11s|1m 50s|18m 20s|
+|6|10s|1m 40s|16m 40s|
+|7|10s|1m 40s|16m 40s|
+|8|9s|1m 30s|15m|
+|9|8s|1m 20s|13m 20s|
+|10|7s|1m 10s|11m 40s|
+|11|6s|1m|10m|
 |12|
 |13|
 |14|
