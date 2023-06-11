@@ -24,6 +24,13 @@ Your character has six attributes relevant to your dive:
 
 Any other attributes are up to you and the GM.
 
+When making a character, you may assign the following numbers as you please, one to each attribute.  Higher is better.
+
+|3|2|2|1|1|0|
+|-|-|-|-|-|-|
+
+A 0 is slightly below average, a 1 is average, a 2 is good and a 3 is exceptional.  These values will be used in Checks to determine what happens when you attempt to do **difficult** things.
+
 <!---/Slot_Name: "Bounce_Dive_Default.Attributes"-->
 
 ## Lumped Intuition
@@ -45,6 +52,15 @@ Your character has six attributes relevant to your dive:
 - **Resolve** is for: willpower, resisting influence of others, etc...
   - Anyone can stick with a simple task. Few can gaze upon nightmarish scenes and remain unfazed.
 
+Any other attributes are up to you and the GM.
+
+When making a character, you may assign the following numbers as you please, one to each attribute.  Higher is better.
+
+|3|2|2|1|1|0|
+|-|-|-|-|-|-|
+
+A 0 is slightly below average, a 1 is average, a 2 is good and a 3 is exceptional.  These values will be used in Checks to determine what happens when you attempt to do **difficult** things.
+
 <!---/Slot_Name: "Lumped_Intuition.Attributes", Original-->
 
 ## Lumped Wisdom
@@ -65,6 +81,15 @@ Your character has six attributes relevant to your dive:
   - Anyone can speak the common tongue. Few can recall the details of an arcane text they read years ago.
 - **Wisdom** is for:	strength of will, common sense, perception, etc...
   - Anyone can tell when a cheeky child is lying. Few can unravel the plans of a sage dragon
+
+Any other attributes are up to you and the GM.
+
+When making a character, you may assign the following numbers as you please, one to each attribute.  Higher is better.
+
+|3|2|2|1|1|0|
+|-|-|-|-|-|-|
+
+A 0 is slightly below average, a 1 is average, a 2 is good and a 3 is exceptional.  These values will be used in Checks to determine what happens when you attempt to do **difficult** things.
 
 <!---/Slot_Name: "Lumped_Wisdom.Attributes", Original-->
 
@@ -90,6 +115,15 @@ Your character has eight attributes relevant to your dive:
   - Anyone can understand a careful explanation. Few can learn a craft simply by watching a master.
 - **Resolve** is for: willpower and resisting influence of others.
   - Anyone can stick with a simple task. Few can gaze upon nightmarish scenes and remain unfazed.
+
+Any other attributes are up to you and the GM.
+
+When making a character, you may assign the following numbers as you please, one to each attribute.  Higher is better.
+
+|3|2|2|1|1|1|0|0|
+|-|-|-|-|-|-|-|-|
+
+A 0 is slightly below average, a 1 is average, a 2 is good and a 3 is exceptional.  These values will be used in Checks to determine what happens when you attempt to do **difficult** things.
 
 <!---/Slot_Name: "Expanded.Attributes", Original-->
 
