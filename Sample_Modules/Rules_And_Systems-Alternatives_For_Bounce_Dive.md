@@ -195,10 +195,7 @@ At the GM's discretion players may make an appropriate attribute check to attemp
 
 For the above table: s = seconds, m = minutes 
 
-Before rolling to see how quickly the complete a task, the payers may state a maximum time that they would spend on the task. If the check results in a time longer than this, the players may choose to spend the extra time to finish the task, or leave the task incomplete.  If the incomplete task is take up again later, the players must spend at least the remaining time from the original roll to finish the task.
-
-TO FIX THE ABOVE: PLAYERS HSOULD HAVE TO REROLL THE CHECK FROM SCRATCH IF THEY ABANDON THE TASK, OTHERWISE THE STRAT IS TO JUST ALWAYS BET THE LOWEST TIME POSSIBLE.
-*can also imagine asystem where the players take a short amout of time to see if they can do something quickly (at the risk of finding out that it takes a long time).  can even make it sucht that the toll to dscover how long it takes is modified by how long thye spend studying the task.
+Before rolling to see how quickly they complete a task, the players may state a maximum time that they would spend on the task. If they roll a time less than their stated maximum, they complete the task in the rolled time. If the check results in a time longer than their stated maximum: the time is wasted, the players fail to complete the task, and the task must be started again from stratch.
 
 <!---/Slot_Name: "Tabulated_Turn-Based", Original-->
 
