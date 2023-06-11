@@ -163,9 +163,9 @@ Examples of time needed for actions
 |Pausing to listen carefully|Setting a snare/bear trap|Cooking a piece of food|
 |Moving quickly throuhg a normal sized room|Baracading a door with furnature or iron spikes|Skimming a book for information|
 |Locking a door|Buying things from a store|Moving 1/2 of a cubic yard of soil with a shovel|
-|Loot a body|Moving carefully/silently through a normal sized room|Breaking 1/9 of a cubic yard of stone with a hammer and chistle|
-|Pick a plant|Searchng a normal sized room for traps/secets|Cut down a tree|
-|Climb a tree|Applying a bandage|Trap an animal with bait|
+|Looting a body|Moving carefully/silently through a normal sized room|Breaking 1/9 of a cubic yard of stone with a hammer and chistle|
+|Picking a plant|Searchng a normal sized room for traps/secets|Cutting down a tree|
+|Climbig a tree|Applying a bandage|Trapping an animal with bait|
 
 Some actions, like speaking a word or making a gesture, take no time. Similarly, consider not tracking time for Instant actions.
 
