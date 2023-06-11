@@ -27,7 +27,8 @@ _Survive..._
 <!---/Slot_Name: "Intro"-->
 
 # Who Are You?
-<!---Slot_Name: "Attributes", Copied_From, Source_Slot: "Bounce_Dive_Default_Six", Link: "XXX"-->
+<!---Slot_Name: "Attributes", Copied_From, Source_Slot: "Bounce_Dive_Default.Attributes", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Rules_And_Systems-Alternatives_For_Bounce_Dive.md"-->
+[(Credit: DeMystic)](#rules-and-systems-alternatives-for-bounce-dive)
 
 Your character has six attributes relevant to your dive:
 
@@ -731,6 +732,9 @@ Chase range
 
 <a name="items-mixed-tech-level-magical-and-mundane">Items: Mixed Tech Level, Magical and Mundane</a>
 - Title: **Items: Mixed Tech Level, Magical and Mundane**, By: **DeMystic**. [Link to Source](https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Items-Mixed_Tech_Level-Magical_and_Mundane.md) | [Link to License: DeMystic CC](#demystic-cc)
+
+<a name="rules-and-systems-alternatives-for-bounce-dive">Rules and Systems: Alternatives for Bounce Dive</a>
+- Title: **Rules and Systems: Alternatives for Bounce Dive**, By: **DeMystic**. [Link to Source](https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Rules_And_Systems-Alternatives_For_Bounce_Dive.md) | [Link to License: DeMystic CC](#demystic-cc)
 
 Adorn
 - This document uses the Adorn standard for easy and transparent sharing of text.  To learn more, about Adorn see the [Adorn Standard](https://github.com/DeMystic/Adorn).  The text of the Adorn standard is offered under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
