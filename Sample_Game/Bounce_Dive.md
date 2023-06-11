@@ -319,7 +319,8 @@ Mutations can be determined by rolling on the mutation tables in the appendix.
 <!---/Slot_Name: "The_Curse"-->
 
 ## Timekeeping
-<!---Slot_Name: "Time_Keeping", Copied_From, Source_Slot: "Simple_Realtime", Link: "XXX"-->
+<!---Slot_Name: "Time_Keeping", Copied_From, Source_Slot: "Simple_Realtime", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Rules_And_Systems-Alternatives_For_Bounce_Dive.md"-->
+[(Credit: DeMystic)](#rules-and-systems-alternatives-for-bounce-dive)
 
 Time is kept in realtime.  This means that the GM must be well prepared. Favor reacting quickly to reacting correctly. Try to keep the description of rooms to less than 50 words, consider mapping for your players.  Drawing a simple node map (boxes connected by lines) can be enough.
 
