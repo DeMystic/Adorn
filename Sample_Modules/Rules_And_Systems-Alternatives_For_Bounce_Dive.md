@@ -155,7 +155,19 @@ If an action takes much longer to do in game than it takes to say (e.g. "I build
 
 Time is kept only on paper.  Actions are instant (6 seconds), short (1 minutes), or long (10 minutes) by default. 
 
-EAMPLES OF TASKS AND TMIES HERE
+Examples of time needed for actions
+|Instant|Short|Long|
+|-|-|-|
+|Tying a knot|Forcing a door open|Building a ladder from scrap wood|
+|Making an attack|Lighting some kindling with flint and steel|Baracading a door with wood and nails|
+|Pausing to listen carefully|Setting a snare/bear trap|Cooking a piece of food|
+|Moving quickly throuhg a normal sized room|Baracading a door with furnature or iron spikes|Skimming a book for information|
+|Locking a door|Buying things from a store|Moving 1/2 of a cubic yard of soil with a shovel|
+||Moving carefully/silently through a normal sized room|Breaking 1/9 of a cubic yard of stone with a hammer and chistle|
+||Searchng a normal sized room for traps/secets||
+||Applying a bandage||
+
+Some actions, like speaking a word or making a gesture, take no time. Similarly, consider not tracking time for Instant actions.
 
 At the GM's discretion players may make an appropriate attribute check to attempt to do something faster.  If they fail the check, then the action takes longer than it would have otherwise.  In general these adjustments should be proportional to the amount of time the task would have originally taken. For example, depending on the outcome of a check: an instant action may take 3 to 12 seconds, a short action may take 30 seconds to 2 minutes, and a long action may take 5 to 20 minutes.  See table below.
 
