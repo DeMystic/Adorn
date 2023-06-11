@@ -171,15 +171,15 @@ At the GM's discretion players may make an appropriate attribute check to attemp
 |9|8s|1m 20s|13m 20s|
 |10|7s|1m 10s|11m 40s|
 |11|6s|1m|10m|
-|12|
-|13|
-|14|
-|15|
-|16|
-|17|
-|18|
-|19|
-|20|3 sec|30 sec|10 min|
+|12|5s|50s|8m 20s|
+|13|5s|50s|8m 20s|
+|14|5s|50s|8m 20s|
+|15|4s|40s|6m 40s|
+|16|4s|40s|6m 40s|
+|17|4s|40s|6m 40s|
+|18|3s|30s|5m|
+|19|3s|30s|5m|
+|20|3s|30s|5m|
 
 For the above table: s = seconds, m = minutes 
 
