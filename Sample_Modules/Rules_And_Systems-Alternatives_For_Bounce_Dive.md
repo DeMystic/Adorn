@@ -242,6 +242,7 @@ The deeper a Diver goes into the Ruin, the more quickly they accumulate curse.  
 |3|1|
 |4|1.25|
 |5|1.5|
+|6|3|
 
 Note that this requires carefully tabulating of how long players spend at each depth.
 
@@ -275,7 +276,9 @@ Divers often speak of being laden with too much curse as being "hotter" and thus
 |2|Green|1.5|
 |3|Blue|2|
 |4|Red|2.5|
-|5|Black|3|
+|5|Yellow|3|
+|6|Black|4|
+
 
 The following effects occur to Divers as they rise from one depth to the next based on how much curse of the lower depth's color they have accumulated.  Suffering the effect clears the Diver of all curse of that color. Note that this requires carefully tabulating of how long players spend at each depth.
 
@@ -291,6 +294,26 @@ Upon ascending without a Bell:
 - Less than 15 degrees leaves the diver nauseous but unchanged.
 - More than 15 degrees gives the diver one mild mutation and one severe mutation.
 - More than 30 degrees results in three severe mutations and total madness upon return.
+
+<!---Slot_Name: "Simple_Cursed_on_Ascending"-->
+
+## Simple Cursed on Ascending
+<!---Slot_Name: "Simple_Cursed_on_Ascending", Original-->
+
+The ruin is pervaded by a curse that would mutate beyond recognition any living thing that tries to leave it.  Luckily, each team of divers are given an artifact, a small Bell, that can hold off this ill effect as they surface.  But be wary, the power of the Bell is finite.  Even with a Bell, Divers are twisted they are as they try to return to the depth above.
+
+Asceending from a depth to the one above incurs the following effects.
+
+|Depth|Effect With Bell|Effect Without Bell|
+|-|-|-|
+|1|Nausea|One mild mutation|
+|2|-1 to all checks for one day|Two mild mutations|
+|3|-2 to all checks for one day|One severe mutation|
+|4|One mild mutation|One severe mutation and one mild mutation|
+|5|Two mild mutations|Two severe mutations|
+|6|One Severe mutation|Three severe mutations and total madness|
+
+Note that strict timekeeping is not needed in this system.
 
 <!---Slot_Name: "Simple_Cursed_on_Ascending"-->
 
