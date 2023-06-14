@@ -61,7 +61,7 @@ When making a character, you may assign the following numbers as you please, one
 
 A 0 is slightly below average, a 1 is average, a 2 is good and a 3 is exceptional.  These values will be used in Checks to determine what happens when you attempt to do **difficult** things.
 
-<!---/Slot_Name: "Lumped_Intuition.Attributes", Original-->
+<!---/Slot_Name: "Lumped_Intuition.Attributes"-->
 
 ## Lumped Wisdom
 Resolve perception and common sense are lumped into Wisdom.
@@ -91,7 +91,7 @@ When making a character, you may assign the following numbers as you please, one
 
 A 0 is slightly below average, a 1 is average, a 2 is good and a 3 is exceptional.  These values will be used in Checks to determine what happens when you attempt to do **difficult** things.
 
-<!---/Slot_Name: "Lumped_Wisdom.Attributes", Original-->
+<!---/Slot_Name: "Lumped_Wisdom.Attributes"-->
 
 ## Expanded Attributes
 8 Core attributes with slightly less arificial groupings than many 6 attribute systems.
@@ -125,7 +125,7 @@ When making a character, you may assign the following numbers as you please, one
 
 A 0 is slightly below average, a 1 is average, a 2 is good and a 3 is exceptional.  These values will be used in Checks to determine what happens when you attempt to do **difficult** things.
 
-<!---/Slot_Name: "Expanded.Attributes", Original-->
+<!---/Slot_Name: "Expanded.Attributes"-->
 
 # Timekeeping
 ## Simple Realtime
@@ -138,7 +138,7 @@ If this is too much pressure or feels unfair to the players, consider using a ti
 Consider letting the players "Pause" the game to ask about rules.
 
 If an action takes much longer to do in game than it takes to say (e.g. "I build a barricade.")  have the players roll a check to see how fast they work and then give them a faster but appropriate time for a better roll.
-<!---/Slot_Name: "Simple_Realtime", Original-->
+<!---/Slot_Name: "Simple_Realtime"-->
 
 ## Split Realtime
 <!---Slot_Name: "Split_Realtime", Original-->
@@ -148,7 +148,7 @@ Time is kept in realtime for the players, but pauses when the GM begins to act. 
 Consider letting the players "Pause" the game to ask about rules.
 
 If an action takes much longer to do in game than it takes to say (e.g. "I build a barricade.")  have the players roll a check to see how fast they work and then give them a faster but appropriate time for a better roll.
-<!---/Slot_Name: "Split_Realtime", Original-->
+<!---/Slot_Name: "Split_Realtime"-->
 
 ## Tabulated Turn-Based
 <!---Slot_Name: "Tabulated_Turn-Based", Original-->
@@ -197,5 +197,31 @@ For the above table: s = seconds, m = minutes
 
 Before rolling to see how quickly they complete a task, the players may state a maximum time that they would spend on the task. If they roll a time less than their stated maximum, they complete the task in the rolled time. If the check results in a time longer than their stated maximum: the time is wasted, the players fail to complete the task, and the task must be started again from stratch.
 
-<!---/Slot_Name: "Tabulated_Turn-Based", Original-->
+<!---/Slot_Name: "Tabulated_Turn-Based"-->
+
+# The Curse
+
+Different ways to calculate how and when Divers receieve mutations
+
+## Cursed on Surfacing
+<!---Slot_Name: "Cursed_on_Surfacing", Original-->
+
+The ruin is pervaded by a curse that would mutate beyond recognition any living thing that tries to leave it.  Luckily, each team of divers are given an artifact, a small Bell, that can hold off this ill effect as they surface.  But be wary, the power of the Bell is finite.  Even with a Bell, the longer a diver spends below, the more twisted they are upon their return.
+
+The following effects occur to characters as they ride the finial lift back to the surface.
+
+Upon returning with a Bell:
+- Less than 60 min below leaves the diver nauseous but unchanged.
+- More than 60 min below gives the diver one mild mutation.
+- More than 90 min below gives the diver two mild mutations.
+- More than 120 min below gives the diver one mild mutation and one severe mutation.
+- More than 150 min below gives the diver two severe mutations.
+- Spending longer than 180 min below results in three severe mutations and total madness upon return.
+
+Upon returning without a Bell:
+- More than 60 min below gives the diver one mild mutation and one severe mutation.
+- More than 90 min below results in three severe mutations and total madness upon return.
+
+<!---/Slot_Name: "Cursed_on_Surfacing"-->
+
 
