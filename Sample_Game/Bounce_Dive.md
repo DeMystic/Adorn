@@ -292,7 +292,8 @@ To hide, you roll an Awareness check (the GM may give you a bonus based on your 
 <!---/Slot_Name: "Hiding"-->
 
 # The Curse
-<!---Slot_Name: "The_Curse", Copied_From, Source_Slot: "Cursed_on_Return", Link: "XXX"-->
+<!---Slot_Name: "The_Curse", Copied_From, Source_Slot: "Cursed_on_Surfacing", Link: "https://github.com/DeMystic/Adorn/edit/main/Sample_Modules/Rules_And_Systems-Alternatives_For_Bounce_Dive.md"-->
+[(Credit: DeMystic)](#rules-and-systems-alternatives-for-bounce-dive)
 
 The ruin is pervaded by a curse that would mutate beyond recognition any living thing that tries to leave it.  Luckily, each team of divers are given an artifact, a small Bell, that can hold off this ill effect as they surface.  But be wary, the power of the Bell is finite.  Even with a Bell, the longer a diver spends below, the more twisted they are upon their return.
 
@@ -310,13 +311,15 @@ Upon returning without a Bell:
 - More than 60 min below gives the diver one mild mutation and one severe mutation.
 - More than 90 min below results in three severe mutations and total madness upon return.
 
+<!---/Slot_Name: "The_Curse"-->
+
+## Mutations
+
 Mild mutations are generally slightly inconvenient, but some can be quite bad for some divers.  They are rarely positive.
 
 Severe mutations are generally debilitating.  Players who receive sever mutations may consider retiring their character afterwords.
 
 Mutations can be determined by rolling on the mutation tables in the appendix.
-
-<!---/Slot_Name: "The_Curse"-->
 
 ## Timekeeping
 <!---Slot_Name: "Time_Keeping", Copied_From, Source_Slot: "Simple_Realtime", Link: "https://github.com/DeMystic/Adorn/blob/main/Sample_Modules/Rules_And_Systems-Alternatives_For_Bounce_Dive.md"-->
