@@ -57,7 +57,7 @@ A 0 is slightly below average, a 1 is average, a 2 is good and a 3 is exceptiona
 <!---/Slot_Name: "Attributes"-->
 
 # What Can You Do?
-<!---Slot_Name: "Checks", Copied_From, Source_Slot: "Checks_d10", Link: "XXX"-->
+<!---Slot_Name: "Checks", Original-->
 
 A Diver can attempt almost any action but will sometimes need to perform an attribute check to see if they succeed.
 
@@ -164,7 +164,7 @@ The list of items below are what the prison store commonly stocks.  They may sto
 Armor is not sold by default, but may be available on occasion.  All armor has an armor rating that indicates how much protection it gives the wearer. See the Combat section for more details.
 
 # Inventory
-<!---Slot_Name: "Inventory", Copied_From, Source_Slot: "Slots", Link: "XXX"-->
+<!---Slot_Name: "Inventory", Original-->
 
 A Diver's inventory is mde up of slots.  Most items take up one slot, items that are heavy take up two slots.  Some items may take up more than two slots, but this will be explicitly stated if it is the chase.
 
@@ -176,7 +176,7 @@ If you carry more than 5 + STR it is assumed that you are lugging things around 
 <!---/Slot_Name: "Inventory"-->
 
 # Distance
-<!---Slot_Name: "Distance", Copied_From, Source_Slot: "Touch_Near_Far", Link: "XXX"-->
+<!---Slot_Name: "Distance", Original-->
 
 In the ruins, distance is broken down into three relevant ranges:
 - Touch (less than 2m* away)
@@ -199,7 +199,7 @@ In one combat turn, a player may move from one distance range to an adjacent one
 Sometime Divers run into the denizens of the ruin.  They can be twisted creatures of nightmares, mundane animals, or strangely relatable humans.
 
 ## Surprise
-<!---Slot_Name: "Surprise", Copied_From, Source_Slot: "Check_vs_Check_Surprise", Link: "XXX"-->
+<!---Slot_Name: "Surprise", Original-->
 
 When you enter a room with a creature in it or a creature enters the room that you are in, each member of both parties first roll an awareness check to see if one party surprises the other. The highest roll from each party is compared, and the party that rolled the highest gets to act once before the other party is aware.  
 
@@ -207,7 +207,7 @@ The GM may grant bonuses or penalties to checks based on actions taken by either
 <!---/Slot_Name: "Surprise"-->
 
 ## Reaction
-<!---Slot_Name: "Reaction_Rolls", Copied_From, Source_Slot: "DM_Dice_Hybrid_Reaction", Link: "XXX"-->
+<!---Slot_Name: "Reaction_Rolls", Original-->
 
 Some creatures will always be hostile to Divers when they meet them, some creatures will be neutral towards them, and some may even be happy to see them. If the GM has not determined this beforehand, they may do so in the moment by rolling a d6:
 
@@ -223,7 +223,7 @@ While some creatures will be totally fixed in their initial impression, the GM m
 ## Combat
 
 ### Health
-<!---Slot_Name: "Health", Copied_From, Source_Slot: "Simple_health", Link: "XXX"-->
+<!---Slot_Name: "Health", Original-->
 A Diver's life in metered out in HP (Health Points).
 
 As a Diver takes physical damage, they run out of HP.
@@ -236,14 +236,14 @@ A Diver has a max HP equal to four plus twice their Endurance.
 <!---/Slot_Name: "Health"-->
 
 ### Initiative
-<!---Slot_Name: "Initiative", Copied_From, Source_Slot: "Group_Initiative", Link: "XXX"-->
+<!---Slot_Name: "Initiative", Original-->
 When you enter combat with a creature or group of creatures in the ruin, the group that won the surprise roll gets the first turn.
 
 Combat is split into alternating turns between the group of players and the group of non-player creatures.  All members of a given group can take actions on their turn in whatever order they please.  One pair of turns (an enemy turn + a player turn) is sometimes called a round.
 <!---/Slot_Name: "Initiative"-->
 
 ### Combat Actions
-<!---Slot_Name: "Combat", Copied_From, Source_Slot: "Damage_Dodge_Combat", Link: "XXX"-->
+<!---Slot_Name: "Combat", Original-->
 
 On their turn a player or creature can move once and take one action.  This action can be making an attack or doing something else that would take a similar amount of time.
 
@@ -259,7 +259,7 @@ Moving:
 <!---/Slot_Name: "Combat"-->
 
 ## Fleeing and Chasing
-<!---Slot_Name: "Fleeing", Copied_From, Source_Slot: "Touch_Near_Far.Check_vs_Check_Fleeing", Link: "XXX"-->
+<!---Slot_Name: "Fleeing", Original-->
 
 Knowing when to disengage is critical to surviving the ruin. This is one way fo the GM to resolve running from combat.
 
@@ -284,7 +284,7 @@ Very large or heavy enemies may get a penalty to chasing.  This is up to the DM.
 <!---/Slot_Name: "Fleeing"-->
 
 ## Hiding
-<!---Slot_Name: "Hiding", Copied_From, Source_Slot: "Simple_Hiding", Link: "XXX"-->
+<!---Slot_Name: "Hiding", Original-->
 
 To hide you must first not have line of sight to the enemy you are hiding from and second you must have an appropriate hiding spot (e.g. a closet or a pile of crates).
 
@@ -335,7 +335,7 @@ If an action takes much longer to do in game than it takes to say (e.g. "I build
 <!---/Slot_Name: "Simple_Realtime"-->
 
 ## Acclimation
-<!---Slot_Name: "Acclimation", Copied_From, Source_Slot: "Simple_Acclimation", Link: "XXX"-->
+<!---Slot_Name: "Acclimation", Original-->
 
 Each time a diver spends more than 45 consecutive min in the ruin, they become more acclimated to the curse.
 
@@ -352,21 +352,21 @@ By default, when a character dies, it is final.  The player of a dead character 
 For some GMs and parties, this harsh mechanic can bring down the mood of a game. Below are two house rules that can make death more forgiving and interesting.  If you run these house rules, tie the mechanics to the Bell that each party already carries to stave off the curse.
 
 ## Calling for Reinforcements
-<!---Slot_Name: "Death_Regen", Copied_From, Source_Slot: "Death_Regen", Link: "XXX"-->
+<!---Slot_Name: "Death_Regen", Original-->
 
 Upon a diver dying, the remaining divers may summon a new comrade by ringing their Bell once and then waiting in place for 5 min.  If they do so, a new prisoner from the camp materializes to take their fallen comrade's place.  Note that wandering monsters are likely to find the divers while they wait. Furthermore, moving to another room in the ruin will stop the summoning and require them to ring the bell again if they wish to start summoning again.
 
 <!---/Slot_Name: "Death_Regen"-->
 
 ## A Ghoulish End
-<!---Slot_Name: "Death_Ghoul", Copied_From, Source_Slot: "Death_Ghoul", Link: "XXX"-->
+<!---Slot_Name: "Death_Ghoul", Original-->
 
 Upon a diver dying, they become a Goul that lives for an additional 5 min.  If they kill another diver in this time, they come back to life and that second diver dies in their place.  A diver killed by a Ghoul does not come back as a Ghoul.
 
 <!---/Slot_Name: "Death_Ghoul"-->
 
 # Embarking
-<!---Slot_Name: "Embarking", Copied_From, Source_Slot: "Ice_Prison_Embark", Link: "XXX"-->
+<!---Slot_Name: "Embarking", Original-->
 
 The entire camp sits next do an ancient dead ice field.
 
@@ -400,7 +400,7 @@ Starting Equipment
 ## Mutations
 
 ### Mild Mutations
-<!---Slot_Name: "Mild Mutations", Copied_From, Source_Slot: "Mild_Fantasy_Physical_Mutations", Link: "XXX"-->
+<!---Slot_Name: "Mild Mutations", Original-->
 
 These mutations cause a neutral, slightly negative, or (rarely) slightly positive changes to the character.
 
@@ -459,7 +459,7 @@ These mutations cause a neutral, slightly negative, or (rarely) slightly positiv
 <!---/Slot_Name: "Mild_Mutations"-->
 
 ### Severe Mutations
-<!---Slot_Name: "Severe Mutations", Copied_From, Source_Slot: "Severe_Fantasy_Physical_Mutations", Link: "XXX"-->
+<!---Slot_Name: "Severe Mutations", Original-->
 
 These mutations cause severely debilitating changes to the character.
 
@@ -691,7 +691,7 @@ Its up to the GM to make and interpret the results in a way that is fun without 
 
 ## Monsters
 
-<!---Slot_Name: "Monster_Template", Copied_From, Source_Slot: "Bounce_Dive_Monster_Template", Link: "XXX"-->
+<!---Slot_Name: "Monster_Template", Original-->
 
 The following is a filled in template for making an enemy creature.  This format is intended as more of a suggestion than a strict rule.  For example: the maximum chase distance can be used to determine how far the players must run to escape combat with the monster, but this may not be applicable to your setting.  Similarly you may want to add explicit use-per-day limits on monster abilities if you want to give the players more interesting tactical choices.
 
@@ -750,7 +750,7 @@ Adorn
 
 # Acknowledgements
 
-Thanks to the following sources and their authors for inspiration.
+Thanks to the following sources and their authors for inspiration.  While the text of this document is mostly original, I was introduced to many of the mechanics used here by their works.
 
 - Into the Odd
 
