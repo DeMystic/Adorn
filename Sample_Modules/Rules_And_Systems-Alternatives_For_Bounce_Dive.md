@@ -277,9 +277,9 @@ Divers often speak of being laden with too much curse as being "hotter" and thus
 |4|Red|2.5|
 |5|Black|3|
 
-The following effects occur to characters as they rise from one depth to the next based on how much curse of the lower depth's color they have accumulated.  Suffering the effect clears the Diver of all curse of that color. Note that this requires carefully tabulating of how long players spend at each depth.
+The following effects occur to Divers as they rise from one depth to the next based on how much curse of the lower depth's color they have accumulated.  Suffering the effect clears the Diver of all curse of that color. Note that this requires carefully tabulating of how long players spend at each depth.
 
-Upon returning with a Bell:
+Upon ascending with a Bell:
 - Less than 60 degrees leaves the diver nauseous but unchanged.
 - More than 60 degrees gives the diver one mild mutation.
 - More than 90 degrees gives the diver two mild mutations.
@@ -287,7 +287,7 @@ Upon returning with a Bell:
 - More than 150 degrees gives the diver two severe mutations.
 - More than 180 degrees results in three severe mutations and total madness upon return.
 
-Upon returning without a Bell:
+Upon ascending without a Bell:
 - Less than 15 degrees leaves the diver nauseous but unchanged.
 - More than 15 degrees gives the diver one mild mutation and one severe mutation.
 - More than 30 degrees results in three severe mutations and total madness upon return.
