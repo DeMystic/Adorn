@@ -292,7 +292,7 @@ To hide, you roll an Awareness check (the GM may give you a bonus based on your 
 <!---/Slot_Name: "Hiding"-->
 
 # The Curse
-<!---Slot_Name: "The_Curse", Copied_From, Source_Slot: "Cursed_on_Surfacing", Link: "https://github.com/DeMystic/Adorn/edit/main/Sample_Modules/Rules_And_Systems-Alternatives_For_Bounce_Dive.md"-->
+<!---Slot_Name: "The_Curse", Copied_From, Source_Slot: "Simple_Cursed_on_Surfacing", Link: "https://github.com/DeMystic/Adorn/edit/main/Sample_Modules/Rules_And_Systems-Alternatives_For_Bounce_Dive.md"-->
 [(Credit: DeMystic)](#rules-and-systems-alternatives-for-bounce-dive)
 
 The ruin is pervaded by a curse that would mutate beyond recognition any living thing that tries to leave it.  Luckily, each team of divers are given an artifact, a small Bell, that can hold off this ill effect as they surface.  But be wary, the power of the Bell is finite.  Even with a Bell, the longer a diver spends below, the more twisted they are upon their return.
