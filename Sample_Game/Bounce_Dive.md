@@ -750,7 +750,7 @@ Adorn
 
 # Acknowledgements
 
-Thanks to the following sources and their authors for inspiration.  While the text of this document is mostly original, I was introduced to many of the mechanics used here by their works.
+Thanks to the following sources and their authors for inspiration.  While the text of this document and the specific combination of mechanics used here is mostly original, I was introduced to many of the individual mechanics by their works.
 
 - Into the Odd
 
@@ -762,7 +762,7 @@ Thanks to the following sources and their authors for inspiration.  While the te
 
 - Shadowdark
 
-- B/X D&D
+- The Basic Set (BX D&D)
 
 Thanks to the following people for their free sharing of ideas and fruitful discussions.
 
