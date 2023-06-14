@@ -308,8 +308,9 @@ Upon returning with a Bell:
 - Spending longer than 180 min below results in three severe mutations and total madness upon return.
 
 Upon returning without a Bell:
-- More than 60 min below gives the diver one mild mutation and one severe mutation.
-- More than 90 min below results in three severe mutations and total madness upon return.
+- Less than 15 min below leaves the diver nauseous but unchanged.
+- More than 15 min below gives the diver one mild mutation and one severe mutation.
+- More than 30 min below results in three severe mutations and total madness upon return.
 
 <!---/Slot_Name: "The_Curse"-->
 
