@@ -3,6 +3,9 @@
 Module of rules and systems that could easily be swapped in for some of those curently used in Bounce Dive.
 
 # Core Attributes
+
+Different sets of core attributes with different tradeoffs.  Some other modules in Bounce Dive may need to be tweaked if these are swapped in.
+
 ## Bounce Dive Default
 The default attributes used in Bounce Dive. Willpower is lumped into Charisma. Both intelligence and common sense are lumped into Craftiness.
 
