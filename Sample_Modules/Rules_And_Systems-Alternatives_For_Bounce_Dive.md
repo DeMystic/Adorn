@@ -1,6 +1,6 @@
-# Rules and Sytems: Alternatives for Bounce Dive
+# Rules and Systems: Alternatives for Bounce Dive
 
-Module of rules and systems that could easily be swapped in for some of those curently used in Bounce Dive.
+Module of rules and systems that could easily be swapped in for some of those currently used in Bounce Dive.
 
 # Core Attributes
 
@@ -97,7 +97,7 @@ A 0 is slightly below average, a 1 is average, a 2 is good and a 3 is exceptiona
 <!---/Slot_Name: "Lumped_Wisdom.Attributes"-->
 
 ## Expanded Attributes
-8 Core attributes with slightly less arificial groupings than many 6 attribute systems.
+8 Core attributes with slightly less artificial groupings than many 6 attribute systems.
 
 <!---Slot_Name: "Expanded.Attributes", Original-->
 Your character has eight attributes relevant to your dive:
@@ -146,7 +146,7 @@ If an action takes much longer to do in game than it takes to say (e.g. "I build
 ## Split Realtime
 <!---Slot_Name: "Split_Realtime", Original-->
 
-Time is kept in realtime for the players, but pauses when the GM begins to act.  THis includes describing rooms and deciding outcomes of actions.  Use a chess clock or similar clock for this.  If the players begin to delliberate while the GM is talking/deciding outcomes, the GM should overtly restart the players' clock.
+Time is kept in realtime for the players, but pauses when the GM begins to act.  THis includes describing rooms and deciding outcomes of actions.  Use a chess clock or similar clock for this.  If the players begin to deliberate while the GM is talking/deciding outcomes, the GM should overtly restart the players' clock.
 
 Consider letting the players "Pause" the game to ask about rules.
 
@@ -162,13 +162,13 @@ Examples of time needed for actions
 |Instant|Short|Long|
 |-|-|-|
 |Tying a knot|Forcing a door open|Building a ladder from scrap wood|
-|Making an attack|Lighting some kindling with flint and steel|Baracading a door with wood and nails|
+|Making an attack|Lighting some kindling with flint and steel|Barricading a door with wood and nails|
 |Pausing to listen carefully|Setting a snare/bear trap|Cooking a piece of food|
-|Moving quickly throuhg a normal sized room|Baracading a door with furnature or iron spikes|Skimming a book for information|
+|Moving quickly through a normal sized room|Barricading a door with furniture or iron spikes|Skimming a book for information|
 |Locking a door|Buying things from a store|Moving 1/2 of a cubic yard of soil with a shovel|
-|Looting a body|Moving carefully/silently through a normal sized room|Breaking 1/9 of a cubic yard of stone with a hammer and chistle|
-|Picking a plant|Searchng a normal sized room for traps/secets|Cutting down a tree|
-|Climbig a tree|Applying a bandage|Trapping an animal with bait|
+|Looting a body|Moving carefully/silently through a normal sized room|Breaking 1/9 of a cubic yard of stone with a hammer and chisel|
+|Picking a plant|Searching a normal sized room for traps/secrets|Cutting down a tree|
+|Climbing a tree|Applying a bandage|Trapping an animal with bait|
 
 Some actions, like speaking a word or making a gesture, take no time. Similarly, consider not tracking time for Instant actions.
 
@@ -198,7 +198,7 @@ At the GM's discretion players may make an appropriate attribute check to attemp
 
 For the above table: s = seconds, m = minutes 
 
-Before rolling to see how quickly they complete a task, the players may state a maximum time that they would spend on the task. If they roll a time less than their stated maximum, they complete the task in the rolled time. If the check results in a time longer than their stated maximum: the time is wasted, the players fail to complete the task, and the task must be started again from stratch.
+Before rolling to see how quickly they complete a task, the players may state a maximum time that they would spend on the task. If they roll a time less than their stated maximum, they complete the task in the rolled time. If the check results in a time longer than their stated maximum: the time is wasted, the players fail to complete the task, and the task must be started again from scratch.
 
 <!---/Slot_Name: "Tabulated_Turn-Based"-->
 
@@ -206,8 +206,8 @@ Before rolling to see how quickly they complete a task, the players may state a 
 
 Different ways to calculate how and when Divers receieve mutations
 
-## Cursed on Surfacing
-<!---Slot_Name: "Cursed_on_Surfacing", Original-->
+## Simple Cursed on Surfacing
+<!---Slot_Name: "Simple_Cursed_on_Surfacing", Original-->
 
 The ruin is pervaded by a curse that would mutate beyond recognition any living thing that tries to leave it.  Luckily, each team of divers are given an artifact, a small Bell, that can hold off this ill effect as they surface.  But be wary, the power of the Bell is finite.  Even with a Bell, the longer a diver spends below, the more twisted they are upon their return.
 
@@ -222,9 +222,78 @@ Upon returning with a Bell:
 - Spending longer than 180 min below results in three severe mutations and total madness upon return.
 
 Upon returning without a Bell:
-- More than 60 min below gives the diver one mild mutation and one severe mutation.
-- More than 90 min below results in three severe mutations and total madness upon return.
+- Less than 15 min below leaves the diver nauseous but unchanged.
+- More than 15 min below gives the diver one mild mutation and one severe mutation.
+- More than 30 min below results in three severe mutations and total madness upon return.
 
 <!---/Slot_Name: "Cursed_on_Surfacing"-->
+
+## Graded Cursed on Surfacing
+<!---Slot_Name: "Simple_Cursed_on_Surfacing", Original-->
+
+The ruin is pervaded by a curse that would mutate beyond recognition any living thing that tries to leave it.  Luckily, each team of divers are given an artifact, a small Bell, that can hold off this ill effect as they surface.  But be wary, the power of the Bell is finite.  Even with a Bell, the longer a diver spends below, the more twisted they are upon their return.
+
+The deeper a Diver goes into the Ruin, the more quickly they accumulate curse.  Divers often speak of being laden with too much curse as being "hotter" and thus curse accumulation is measured in degrees.  The accumulated curse is only shed when the Divers return to the surface.
+
+|Depth|Degrees per Minute|
+|-|-|
+|1|0.5|
+|2|0.75|
+|3|1|
+|4|1.25|
+|5|1.5|
+
+Note that this requires carefully tabulating of how long players spend at each depth.
+
+The following effects occur to characters as they ride the finial lift back to the surface.
+
+Upon returning with a Bell:
+- Less than 60 degrees leaves the diver nauseous but unchanged.
+- More than 60 degrees gives the diver one mild mutation.
+- More than 90 degrees gives the diver two mild mutations.
+- More than 120 degrees gives the diver one mild mutation and one severe mutation.
+- More than 150 degrees gives the diver two severe mutations.
+- More than 180 degrees results in three severe mutations and total madness upon return.
+
+Upon returning without a Bell:
+- Less than 15 degrees leaves the diver nauseous but unchanged.
+- More than 15 degrees gives the diver one mild mutation and one severe mutation.
+- More than 30 degrees results in three severe mutations and total madness upon return.
+
+<!---/Slot_Name: "Simple_Cursed_on_Surfacing"-->
+
+## Graded Cursed on Ascending
+<!---Slot_Name: "Simple_Cursed_on_Ascending", Original-->
+
+The ruin is pervaded by a curse that would mutate beyond recognition any living thing that tries to leave it.  Luckily, each team of divers are given an artifact, a small Bell, that can hold off this ill effect as they surface.  But be wary, the power of the Bell is finite.  Even with a Bell, the longer a diver spends at a depth, the more twisted they are as they try to return to the depth above.
+
+Divers often speak of being laden with too much curse as being "hotter" and thus curse accumulation is often measured in degrees.  Each different depth is said to give curse of a different color.  When a diver is at a particular depth, they accumulate curse of that depth's color as well as curse of all colors of all depths that are above them.  Going deeper does not increase the rate at whch Divers accumulate curse of colors from deptsh above them.  For example: White curse is always accumulated at 1 degree per minute.
+
+|Depth|Color|Degrees per Minute|
+|-|-|-|
+|1|White|1|
+|2|Green|1.5|
+|3|Blue|2|
+|4|Red|2.5|
+|5|Black|3|
+
+The following effects occur to characters as they rise from one depth to the next based on how much curse of the lower depth's color they have accumulated.  Suffering the effect clears the Diver of all curse of that color. Note that this requires carefully tabulating of how long players spend at each depth.
+
+Upon returning with a Bell:
+- Less than 60 degrees leaves the diver nauseous but unchanged.
+- More than 60 degrees gives the diver one mild mutation.
+- More than 90 degrees gives the diver two mild mutations.
+- More than 120 degrees gives the diver one mild mutation and one severe mutation.
+- More than 150 degrees gives the diver two severe mutations.
+- More than 180 degrees results in three severe mutations and total madness upon return.
+
+Upon returning without a Bell:
+- Less than 15 degrees leaves the diver nauseous but unchanged.
+- More than 15 degrees gives the diver one mild mutation and one severe mutation.
+- More than 30 degrees results in three severe mutations and total madness upon return.
+
+<!---Slot_Name: "Simple_Cursed_on_Ascending"-->
+
+
 
 
